@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" timestamp="1484622419077">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="110" column="19" />
+        <mark key="]" line="110" column="52" />
+        <mark key="." line="110" column="53" />
+        <mark key="^" line="112" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/untitled/src/Test.java" timestamp="1484612300055">
         <mark key="'" line="4" column="11" />
         <mark key="[" line="4" column="3" />
@@ -13,8 +20,20 @@
     </filemarks>
     <jumps>
       <jump line="4" column="11" filename="$USER_HOME$/IdeaProjects/untitled/src/Test.java" />
+      <jump line="114" column="20" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
+      <jump line="117" column="24" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
+      <jump line="113" column="28" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
+      <jump line="110" column="54" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
+      <jump line="23" column="16" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
+      <jump line="20" column="12" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
+      <jump line="48" column="16" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
+      <jump line="76" column="0" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
     </jumps>
     <registers>
+      <register name="0" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBpZiAocmMuY2FuV2F0</text>
+      </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHB1YmxpYwo=</text>
       </register>
@@ -23,6 +42,9 @@
       </register>
       <register name=":" type="4">
         <text>q</text>
+      </register>
+      <register name="-" type="4">
+        <text />
       </register>
     </registers>
     <search>
