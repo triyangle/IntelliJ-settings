@@ -1,0 +1,42 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/untitled/src/Test.java" timestamp="1484612300055">
+        <mark key="'" line="4" column="11" />
+        <mark key="[" line="4" column="3" />
+        <mark key="]" line="4" column="9" />
+        <mark key="^" line="4" column="8" />
+        <mark key="." line="4" column="10" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="4" column="11" filename="$USER_HOME$/IdeaProjects/untitled/src/Test.java" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>q</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>q</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts />
+  </component>
+</application>
