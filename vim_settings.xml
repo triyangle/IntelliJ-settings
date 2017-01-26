@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" timestamp="1484622419077">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="110" column="19" />
-        <mark key="]" line="110" column="52" />
-        <mark key="." line="110" column="53" />
-        <mark key="^" line="112" column="0" />
+      <file name="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" timestamp="1485412417811">
+        <mark key="'" line="321" column="29" />
+        <mark key="[" line="314" column="37" />
+        <mark key="]" line="314" column="36" />
+        <mark key="." line="314" column="36" />
+        <mark key="^" line="314" column="36" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled/src/Test.java" timestamp="1484612300055">
         <mark key="'" line="4" column="11" />
@@ -29,6 +29,7 @@
       <jump line="48" column="16" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
       <jump line="76" column="0" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
       <jump line="0" column="0" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
+      <jump line="321" column="29" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
     </jumps>
     <registers>
       <register name="0" type="4">
@@ -59,6 +60,13 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
