@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" timestamp="1485412417811">
-        <mark key="'" line="321" column="29" />
-        <mark key="[" line="314" column="37" />
-        <mark key="]" line="314" column="36" />
-        <mark key="." line="314" column="36" />
-        <mark key="^" line="314" column="36" />
+      <file name="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" timestamp="1485465721281">
+        <mark key="'" line="35" column="16" />
+        <mark key="[" line="21" column="28" />
+        <mark key="]" line="21" column="15" />
+        <mark key="." line="21" column="15" />
+        <mark key="^" line="21" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled/src/Test.java" timestamp="1484612300055">
         <mark key="'" line="4" column="11" />
@@ -30,15 +30,22 @@
       <jump line="76" column="0" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
       <jump line="0" column="0" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
       <jump line="321" column="29" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
+      <jump line="17" column="8" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
+      <jump line="28" column="21" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
+      <jump line="35" column="16" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
     </jumps>
     <registers>
       <register name="0" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICBpZiAocmMuY2FuV2F0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYwo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
@@ -56,6 +63,7 @@
       <history-search />
       <history-cmd>
         <entry>q</entry>
+        <entry encoding="base64">bGV0IF9zPUAvIHwgOiVzL1xzXCskLy9lIHwgOmxldCBALz1fcyB8IDpub2hsIHwgOnVubGV0IF9zIA==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
