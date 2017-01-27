@@ -10,20 +10,25 @@
         <mark key="." line="44" column="51" />
         <mark key="^" line="44" column="51" />
       </file>
-      <file name="$USER_HOME$/CS/61B/CS61B/lab2/DebugPractice/EscapeFromTheSodaLabs.java" timestamp="1485489277020">
-        <mark key="[" line="12" column="20" />
-        <mark key="]" line="12" column="20" />
-        <mark key="." line="12" column="20" />
+      <file name="$USER_HOME$/CS/61B/CS61B/lab2/DebugPractice/EscapeFromTheSodaLabs.java" timestamp="1485501267021">
+        <mark key="'" line="17" column="8" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="23" />
+        <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntList.java" timestamp="1485493591016">
-        <mark key="'" line="107" column="12" />
-        <mark key="[" line="124" column="19" />
-        <mark key="]" line="124" column="21" />
-        <mark key="^" line="124" column="21" />
-        <mark key="." line="124" column="21" />
+      <file name="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntList.java" timestamp="1485503587624">
+        <mark key="'" line="107" column="0" />
+        <mark key="[" line="151" column="11" />
+        <mark key="]" line="151" column="17" />
+        <mark key="." line="151" column="17" />
+        <mark key="^" line="151" column="17" />
       </file>
-      <file name="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntListTest.java" timestamp="1485489911506">
-        <mark key="'" line="28" column="0" />
+      <file name="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntListTest.java" timestamp="1485503517189">
+        <mark key="'" line="70" column="8" />
+        <mark key="[" line="82" column="42" />
+        <mark key="]" line="82" column="50" />
+        <mark key="." line="82" column="50" />
+        <mark key="^" line="82" column="50" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled/src/Test.java" timestamp="1484612300055">
         <mark key="'" line="4" column="11" />
@@ -32,11 +37,22 @@
         <mark key="^" line="4" column="8" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/CS/61B/CS61B/lab2/DebugPractice/Trial.java" timestamp="1485488247138">
-        <mark key="'" line="18" column="0" />
+      <file name="$USER_HOME$/CS/61B/CS61B/lab2/DebugPractice/Trial.java" timestamp="1485500648276">
+        <mark key="'" line="18" column="14" />
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="12" column="12" />
+        <mark key="^" line="12" column="13" />
+        <mark key="." line="12" column="12" />
       </file>
       <file name="$USER_HOME$/CS/61B/CS61B/lab2/DebugPractice/JourneyToAlmostTheCenterOfTheEarth.java" timestamp="1485487950343">
         <mark key="'" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/CS/61B/CS61B/lab2/DebugPractice/Traveler.java" timestamp="1485501221344">
+        <mark key="'" line="42" column="8" />
+        <mark key="[" line="54" column="30" />
+        <mark key="]" line="55" column="51" />
+        <mark key="." line="55" column="51" />
+        <mark key="^" line="55" column="51" />
       </file>
     </filemarks>
     <jumps>
@@ -79,7 +95,6 @@
       <jump line="2" column="0" filename="$USER_HOME$/CS/61B/CS61B/lab2/DebugPractice/JourneyToAlmostTheCenterOfTheEarth.java" />
       <jump line="32" column="0" filename="$USER_HOME$/CS/61B/CS61B/lab2/DebugPractice/JourneyToAlmostTheCenterOfTheEarth.java" />
       <jump line="1" column="0" filename="$USER_HOME$/CS/61B/CS61B/lab2/DebugPractice/JourneyToAlmostTheCenterOfTheEarth.java" />
-      <jump line="18" column="0" filename="$USER_HOME$/CS/61B/CS61B/lab2/DebugPractice/Trial.java" />
       <jump line="203" column="0" filename="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntList.java" />
       <jump line="13" column="27" filename="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntListTest.java" />
       <jump line="28" column="0" filename="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntListTest.java" />
@@ -96,45 +111,68 @@
       <jump line="81" column="4" filename="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntList.java" />
       <jump line="109" column="16" filename="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntList.java" />
       <jump line="112" column="19" filename="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntList.java" />
-      <jump line="105" column="46" filename="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntList.java" />
       <jump line="106" column="12" filename="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntList.java" />
+      <jump line="11" column="8" filename="$USER_HOME$/CS/61B/CS61B/lab2/DebugPractice/EscapeFromTheSodaLabs.java" />
+      <jump line="8" column="27" filename="$USER_HOME$/CS/61B/CS61B/lab2/DebugPractice/EscapeFromTheSodaLabs.java" />
+      <jump line="17" column="14" filename="$USER_HOME$/CS/61B/CS61B/lab2/DebugPractice/Trial.java" />
+      <jump line="10" column="12" filename="$USER_HOME$/CS/61B/CS61B/lab2/DebugPractice/EscapeFromTheSodaLabs.java" />
+      <jump line="45" column="5" filename="$USER_HOME$/CS/61B/CS61B/lab2/DebugPractice/Traveler.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/CS/61B/CS61B/lab2/DebugPractice/Traveler.java" />
+      <jump line="11" column="15" filename="$USER_HOME$/CS/61B/CS61B/lab2/DebugPractice/Trial.java" />
+      <jump line="17" column="8" filename="$USER_HOME$/CS/61B/CS61B/lab2/DebugPractice/EscapeFromTheSodaLabs.java" />
+      <jump line="19" column="14" filename="$USER_HOME$/CS/61B/CS61B/lab2/DebugPractice/Trial.java" />
+      <jump line="41" column="16" filename="$USER_HOME$/CS/61B/CS61B/lab2/DebugPractice/Traveler.java" />
+      <jump line="18" column="14" filename="$USER_HOME$/CS/61B/CS61B/lab2/DebugPractice/Trial.java" />
+      <jump line="43" column="8" filename="$USER_HOME$/CS/61B/CS61B/lab2/DebugPractice/Traveler.java" />
+      <jump line="42" column="8" filename="$USER_HOME$/CS/61B/CS61B/lab2/DebugPractice/Traveler.java" />
+      <jump line="36" column="31" filename="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntListTest.java" />
+      <jump line="46" column="29" filename="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntListTest.java" />
+      <jump line="166" column="8" filename="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntList.java" />
+      <jump line="56" column="8" filename="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntListTest.java" />
+      <jump line="42" column="5" filename="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntListTest.java" />
+      <jump line="50" column="8" filename="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntListTest.java" />
+      <jump line="54" column="52" filename="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntListTest.java" />
+      <jump line="70" column="8" filename="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntListTest.java" />
+      <jump line="105" column="0" filename="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntList.java" />
+      <jump line="269" column="0" filename="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntList.java" />
+      <jump line="107" column="0" filename="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntList.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>temp</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>B</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IEludExpc3QgdGVtcCA9IG5ldyBJbnRMaXN0KEIuZmlyc3QsIG51bGwpOwogICAgICAgICAgICBCID0gQi5yZXN0OwogICAgICAgICAgICB3aGlsZSAoQiAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICB0ZW1wID0gbmV3IEludExpc3QoQi5maXJzdCwgdGVtcCk7CiAgICAgICAgICAg</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB0LnVwZGF0ZVRpbWUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlbXAgPSBuZXcgSW50TGlzdChBLmZpcnN0LCB0ZW1wKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgSW50TGlzdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlbXAgPSBuZXcgSW50TGlzdChCLmZpcnN0LCB0ZW1wKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoQSA9PSBudWxsICYmIEIgPT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm4gbnVsbDoKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoQSA9PSBudWxsICYmIEIgPT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm4gbnVsbDoKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgSW50TGlzdCBjYXRlbmF0ZShJbnRMaXN0IEEsIEludExpc3QgQikgewogICAgICAgIGlmIChBID09IG51bGwgJiYgQiA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOgogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoQSA9PSBudWxsKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBJbnRMaXN0IEwgPSBJbnRMaXN0Lmxpc3QoMSwgMiwgMyk7CiAgICAgICAgSW50TGlzdCByZXMgPSBJbnRMaXN0LnNxdWFyZUxpc3RSZWN1cnNpdmUoTCk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKEludExpc3QubGlzdCgxLCAyLCAzKSwgTCk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKEludExpc3QubGlzdCgxLCA0LCA5KSwgcmVzKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoQSA9PSBudWxsICYmIEIgPT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm4gbnVsbDoKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -144,6 +182,8 @@
       <last-search>B</last-search>
       <last-offset />
       <last-pattern>B</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute>B</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -166,6 +206,19 @@
         <entry encoding="base64">bGV0IF9zPUAvIHwgOiVzL1xzXCskLy9lIHwgOmxldCBALz1fcyB8IDpub2hsIHwgOnVubGV0IF9zIA==</entry>
         <entry>nohls</entry>
         <entry>nohl</entry>
+        <entry>3co.</entry>
+        <entry>+3co.</entry>
+        <entry>+3m.</entry>
+        <entry>+2mv.</entry>
+        <entry>+2m.</entry>
+        <entry>bn</entry>
+        <entry>bp</entry>
+        <entry>bd</entry>
+        <entry>-15,-10co.</entry>
+        <entry>103</entry>
+        <entry>-26,-23co-1</entry>
+        <entry>-25,-22co.</entry>
+        <entry>-17,-13co.</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -186,6 +239,18 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
