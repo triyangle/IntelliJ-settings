@@ -15,12 +15,12 @@
         <mark key="]" line="12" column="20" />
         <mark key="." line="12" column="20" />
       </file>
-      <file name="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntList.java" timestamp="1485493591016">
-        <mark key="'" line="107" column="12" />
-        <mark key="[" line="124" column="19" />
-        <mark key="]" line="124" column="21" />
-        <mark key="^" line="124" column="21" />
-        <mark key="." line="124" column="21" />
+      <file name="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntList.java" timestamp="1485496715297">
+        <mark key="'" line="48" column="18" />
+        <mark key="[" line="8" column="7" />
+        <mark key="]" line="8" column="7" />
+        <mark key="^" line="8" column="7" />
+        <mark key="." line="8" column="7" />
       </file>
       <file name="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntListTest.java" timestamp="1485489911506">
         <mark key="'" line="28" column="0" />
@@ -90,7 +90,6 @@
       <jump line="29" column="11" filename="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntList.java" />
       <jump line="30" column="20" filename="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntList.java" />
       <jump line="37" column="35" filename="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntList.java" />
-      <jump line="48" column="46" filename="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntList.java" />
       <jump line="52" column="26" filename="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntList.java" />
       <jump line="69" column="8" filename="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntList.java" />
       <jump line="81" column="4" filename="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntList.java" />
@@ -98,10 +97,11 @@
       <jump line="112" column="19" filename="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntList.java" />
       <jump line="105" column="46" filename="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntList.java" />
       <jump line="106" column="12" filename="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntList.java" />
+      <jump line="48" column="18" filename="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntList.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>temp</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>B</text>
@@ -184,7 +184,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
