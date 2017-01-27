@@ -16,12 +16,12 @@
         <mark key="]" line="27" column="23" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntList.java" timestamp="1485505862190">
-        <mark key="'" line="107" column="0" />
-        <mark key="[" line="119" column="12" />
-        <mark key="]" line="119" column="12" />
-        <mark key="^" line="114" column="24" />
-        <mark key="." line="119" column="12" />
+      <file name="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntList.java" timestamp="1485507942079">
+        <mark key="'" line="133" column="12" />
+        <mark key="[" line="118" column="10" />
+        <mark key="]" line="118" column="9" />
+        <mark key="." line="118" column="9" />
+        <mark key="^" line="118" column="9" />
       </file>
       <file name="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntListTest.java" timestamp="1485505345349">
         <mark key="'" line="70" column="8" />
@@ -136,54 +136,73 @@
       <jump line="105" column="0" filename="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntList.java" />
       <jump line="269" column="0" filename="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntList.java" />
       <jump line="107" column="0" filename="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntList.java" />
+      <jump line="122" column="12" filename="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntList.java" />
+      <jump line="121" column="12" filename="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntList.java" />
+      <jump line="129" column="35" filename="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntList.java" />
+      <jump line="130" column="12" filename="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntList.java" />
+      <jump line="136" column="12" filename="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntList.java" />
+      <jump line="120" column="12" filename="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntList.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">SW50TGlzdCA=</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>B</text>
+        <text>A</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0LnVwZGF0ZVRpbWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgSW50TGlzdCBwb2ludGVyID0gY29tYmluZWQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoQSAhPSBudWxsKSB7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL0ludExpc3QgY29tYmluZWQgPSBBICE9IG51bGwgPyBuZXcgSW50TGlzdChBLmZpcnN0LCBudWxsKSA6IG5ldyBJbnRMaXN0KEIuZmlyc3QsIG51bGwpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRMaXN0IGNvbWJpbmVkID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICBJbnRMaXN0IHBvaW50ZXI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9pbnRlciA9IGNvbWJpbmVkOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoQSAhPSBudWxsKSB7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQSA9IEEucmVzdDsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="w" type="4">
+        <keys>
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+        </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYwo=</text>
+        <text encoding="base64">ICAgICAgICBJbnRMaXN0IHBvaW50ZXIgPSBjb21iaW5lZDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tYmluZWQgPSBuZXcgSW50TGlzdChBLmZpcnN0LG51bGwpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>!ls</text>
       </register>
     </registers>
     <search>
-      <last-search>B</last-search>
+      <last-search>A</last-search>
       <last-offset />
-      <last-pattern>B</last-pattern>
-      <last-replace>~</last-replace>
-      <last-substitute>B</last-substitute>
+      <last-pattern>A</last-pattern>
+      <last-replace>B</last-replace>
+      <last-substitute>A</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -200,10 +219,9 @@
         <entry>dcatenate</entry>
         <entry encoding="base64">XDxwdWJsaWNcPg==</entry>
         <entry>B</entry>
+        <entry>A</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
-        <entry encoding="base64">bGV0IF9zPUAvIHwgOiVzL1xzXCskLy9lIHwgOmxldCBALz1fcyB8IDpub2hsIHwgOnVubGV0IF9zIA==</entry>
         <entry>nohls</entry>
         <entry>nohl</entry>
         <entry>3co.</entry>
@@ -220,7 +238,10 @@
         <entry>-17,-13co.</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>103</entry>
+        <entry>s/B/A/g</entry>
+        <entry>s/A/B/g</entry>
         <entry>w</entry>
+        <entry>!ls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
