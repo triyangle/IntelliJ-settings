@@ -16,14 +16,14 @@
         <mark key="]" line="27" column="23" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntList.java" timestamp="1485503587624">
+      <file name="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntList.java" timestamp="1485505862190">
         <mark key="'" line="107" column="0" />
-        <mark key="[" line="151" column="11" />
-        <mark key="]" line="151" column="17" />
-        <mark key="." line="151" column="17" />
-        <mark key="^" line="151" column="17" />
+        <mark key="[" line="119" column="12" />
+        <mark key="]" line="119" column="12" />
+        <mark key="^" line="114" column="24" />
+        <mark key="." line="119" column="12" />
       </file>
-      <file name="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntListTest.java" timestamp="1485503517189">
+      <file name="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntListTest.java" timestamp="1485505345349">
         <mark key="'" line="70" column="8" />
         <mark key="[" line="82" column="42" />
         <mark key="]" line="82" column="50" />
@@ -139,7 +139,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>*</text>
+        <text encoding="base64">SW50TGlzdCA=</text>
       </register>
       <register name="/" type="4">
         <text>B</text>
@@ -148,31 +148,31 @@
         <text encoding="base64">ICAgICAgICB0LnVwZGF0ZVRpbWUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgSW50TGlzdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBJbnRMaXN0IGNvbWJpbmVkID0gbnVsbDsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoQSAhPSBudWxsKSB7CiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQSA9IEEucmVzdDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRMaXN0IEwgPSBJbnRMaXN0Lmxpc3QoMSwgMiwgMyk7CiAgICAgICAgSW50TGlzdCByZXMgPSBJbnRMaXN0LnNxdWFyZUxpc3RSZWN1cnNpdmUoTCk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKEludExpc3QubGlzdCgxLCAyLCAzKSwgTCk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKEludExpc3QubGlzdCgxLCA0LCA5KSwgcmVzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29tYmluZWQgPSBuZXcgSW50TGlzdChBLmZpcnN0LG51bGwpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -215,10 +215,11 @@
         <entry>bp</entry>
         <entry>bd</entry>
         <entry>-15,-10co.</entry>
-        <entry>103</entry>
         <entry>-26,-23co-1</entry>
         <entry>-25,-22co.</entry>
         <entry>-17,-13co.</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>103</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
