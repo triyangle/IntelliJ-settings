@@ -10,11 +10,11 @@
         <mark key="." line="44" column="51" />
         <mark key="^" line="44" column="51" />
       </file>
-      <file name="$USER_HOME$/CS/61B/lectureCode/lists4/DIY/AList.java" timestamp="1485921546148">
-        <mark key="[" line="14" column="32" />
-        <mark key="]" line="14" column="20" />
-        <mark key="^" line="14" column="20" />
-        <mark key="." line="14" column="20" />
+      <file name="$USER_HOME$/CS/61B/lectureCode/lists4/DIY/AList.java" timestamp="1485922344066">
+        <mark key="[" line="16" column="18" />
+        <mark key="]" line="16" column="18" />
+        <mark key="^" line="16" column="18" />
+        <mark key="." line="16" column="18" />
       </file>
       <file name="$USER_HOME$/CS/61B/CS61B/lab2/DebugPractice/EscapeFromTheSodaLabs.java" timestamp="1485501267021">
         <mark key="'" line="17" column="8" />
@@ -31,6 +31,13 @@
         <mark key="]" line="84" column="4" />
         <mark key="." line="84" column="4" />
         <mark key="^" line="77" column="5" />
+      </file>
+      <file name="$USER_HOME$/CS/61B/lectureCode/lists4/DIY/AListTest.java" timestamp="1485922364402">
+        <mark key="'" line="4" column="19" />
+        <mark key="[" line="1" column="33" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled/src/Test.java" timestamp="1484612300055">
         <mark key="'" line="4" column="11" />
@@ -144,6 +151,7 @@
       <jump line="130" column="12" filename="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntList.java" />
       <jump line="136" column="12" filename="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntList.java" />
       <jump line="120" column="12" filename="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntList.java" />
+      <jump line="4" column="19" filename="$USER_HOME$/CS/61B/lectureCode/lists4/DIY/AListTest.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -156,19 +164,19 @@
         <text encoding="base64">ICAgICAgICBpZiAoQiA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBBOwogICAgICAgIH0KICAgICAgICBpZiAoQSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBCOwogICAgICAgIH0KICAgICAgICBpZiAoQS5yZXN0ID09IG51bGwpIHsKICAgICAgICAgICAgQS5yZXN0ID0gQjsKICAgICAgICAgICAgcmV0dXJuIEE7CiAgICAgICAgfQogICAgICAgIGRjYXRlbmF0ZVJlY3Vyc2l2ZShBLnJlc3QsIEIpOwogICAgICAgIHJldHVybiBBOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0ID0gdGVtcDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0ZW1wW2xpc3QubGVuZ3RoXSA9IHg7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsaXN0ID0gdGVtcDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0uYXJyYXljb3B5KGxpc3QsIDAsIHRlbXAsIDAsIGxpc3QubGVuZ3RoKTsK</text>
+        <text encoding="base64">ICAgICAgICB0ZW1wW2xpc3QubGVuZ3RoXSA9IHg7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXSB0ZW1wID0gbmV3IGludFtsaXN0Lmxlbmd0aCArIDFdOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0uYXJyYXljb3B5KGxpc3QsIDAsIHRlbXAsIDAsIGxpc3QubGVuZ3RoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpbnRbXSB0ZW1wID0gbmV3IGludFtsaXN0Lmxlbmd0aCArIDFdOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -196,7 +204,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -241,9 +249,9 @@
         <entry>s/B/A/g</entry>
         <entry>s/A/B/g</entry>
         <entry>!ls</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
