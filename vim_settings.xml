@@ -200,7 +200,7 @@
         <text encoding="base64">ICAgICAgICBpbnRbXSB0ZW1wID0gbmV3IGludFtsaXN0Lmxlbmd0aCArIDFdOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -228,7 +228,6 @@
         <entry>main</entry>
       </history-search>
       <history-cmd>
-        <entry>nohl</entry>
         <entry>3co.</entry>
         <entry>+3co.</entry>
         <entry>+3m.</entry>
@@ -248,6 +247,7 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
