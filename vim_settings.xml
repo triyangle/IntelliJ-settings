@@ -3,29 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/CS/61B/CS61B/lab2/DebugPractice/JourneyToAlmostTheCenterOfTheEarth.java" timestamp="1485487950343">
-        <mark key="'" line="1" column="0" />
+      <file name="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" timestamp="1485466981814">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="44" column="52" />
+        <mark key="]" line="44" column="51" />
+        <mark key="." line="44" column="51" />
+        <mark key="^" line="44" column="51" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/untitled/src/Test.java" timestamp="1484612300055">
-        <mark key="'" line="4" column="11" />
-        <mark key="[" line="4" column="3" />
-        <mark key="]" line="4" column="9" />
-        <mark key="^" line="4" column="8" />
-        <mark key="." line="4" column="10" />
-      </file>
-      <file name="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntListTest.java" timestamp="1485510487323">
-        <mark key="'" line="70" column="8" />
-        <mark key="[" line="84" column="4" />
-        <mark key="]" line="84" column="4" />
-        <mark key="." line="84" column="4" />
-        <mark key="^" line="77" column="5" />
-      </file>
-      <file name="$USER_HOME$/CS/61B/CS61B/lab2/DebugPractice/Traveler.java" timestamp="1485501221344">
-        <mark key="'" line="42" column="8" />
-        <mark key="[" line="54" column="30" />
-        <mark key="]" line="55" column="51" />
-        <mark key="." line="55" column="51" />
-        <mark key="^" line="55" column="51" />
+      <file name="$USER_HOME$/CS/61B/lectureCode/lists4/DIY/AList.java" timestamp="1485921546148">
+        <mark key="[" line="14" column="32" />
+        <mark key="]" line="14" column="20" />
+        <mark key="^" line="14" column="20" />
+        <mark key="." line="14" column="20" />
       </file>
       <file name="$USER_HOME$/CS/61B/CS61B/lab2/DebugPractice/EscapeFromTheSodaLabs.java" timestamp="1485501267021">
         <mark key="'" line="17" column="8" />
@@ -36,6 +25,20 @@
       <file name="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntList.java" timestamp="1485511284652">
         <mark key="'" line="137" column="12" />
       </file>
+      <file name="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntListTest.java" timestamp="1485510487323">
+        <mark key="'" line="70" column="8" />
+        <mark key="[" line="84" column="4" />
+        <mark key="]" line="84" column="4" />
+        <mark key="." line="84" column="4" />
+        <mark key="^" line="77" column="5" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/untitled/src/Test.java" timestamp="1484612300055">
+        <mark key="'" line="4" column="11" />
+        <mark key="[" line="4" column="3" />
+        <mark key="]" line="4" column="9" />
+        <mark key="^" line="4" column="8" />
+        <mark key="." line="4" column="10" />
+      </file>
       <file name="$USER_HOME$/CS/61B/CS61B/lab2/DebugPractice/Trial.java" timestamp="1485500648276">
         <mark key="'" line="18" column="14" />
         <mark key="[" line="12" column="12" />
@@ -43,12 +46,15 @@
         <mark key="^" line="12" column="13" />
         <mark key="." line="12" column="12" />
       </file>
-      <file name="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" timestamp="1485466981814">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="44" column="52" />
-        <mark key="]" line="44" column="51" />
-        <mark key="." line="44" column="51" />
-        <mark key="^" line="44" column="51" />
+      <file name="$USER_HOME$/CS/61B/CS61B/lab2/DebugPractice/JourneyToAlmostTheCenterOfTheEarth.java" timestamp="1485487950343">
+        <mark key="'" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/CS/61B/CS61B/lab2/DebugPractice/Traveler.java" timestamp="1485501221344">
+        <mark key="'" line="42" column="8" />
+        <mark key="[" line="54" column="30" />
+        <mark key="]" line="55" column="51" />
+        <mark key="." line="55" column="51" />
+        <mark key="^" line="55" column="51" />
       </file>
     </filemarks>
     <jumps>
@@ -150,25 +156,25 @@
         <text encoding="base64">ICAgICAgICBpZiAoQiA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBBOwogICAgICAgIH0KICAgICAgICBpZiAoQSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBCOwogICAgICAgIH0KICAgICAgICBpZiAoQS5yZXN0ID09IG51bGwpIHsKICAgICAgICAgICAgQS5yZXN0ID0gQjsKICAgICAgICAgICAgcmV0dXJuIEE7CiAgICAgICAgfQogICAgICAgIGRjYXRlbmF0ZVJlY3Vyc2l2ZShBLnJlc3QsIEIpOwogICAgICAgIHJldHVybiBBOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoQSA9PSBudWxsICYmIEIgPT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICB9CiAgICAgICAgaWYgKEEgPT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm4gbmV3IEludExpc3QoQi5maXJzdCwgY2F0ZW5hdGUoQSwgQi5yZXN0KSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBuZXcgSW50TGlzdChBLmZpcnN0LCBjYXRlbmF0ZShBLnJlc3QsIEIpKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICBsaXN0ID0gdGVtcDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0ZW1wW2xpc3QubGVuZ3RoXSA9IHg7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoQiA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBBOwogICAgICAgIH0KICAgICAgICBpZiAoQSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBCOwogICAgICAgIH0KICAgICAgICBpZiAoQS5yZXN0ID09IG51bGwpIHsKICAgICAgICAgICAgQS5yZXN0ID0gQjsKICAgICAgICAgICAgcmV0dXJuIEE7CiAgICAgICAgfQogICAgICAgIGRjYXRlbmF0ZShBLnJlc3QsIEIpOwogICAgICAgIHJldHVybiBBOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0uYXJyYXljb3B5KGxpc3QsIDAsIHRlbXAsIDAsIGxpc3QubGVuZ3RoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoQiA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBjYXRlbmF0ZVJlY3Vyc2l2ZShCLCBBKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnRbXSB0ZW1wID0gbmV3IGludFtsaXN0Lmxlbmd0aCArIDFdOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoQiAhPSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBjYXRlbmF0ZShCLCBBKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -184,7 +190,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -203,9 +209,41 @@
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>Soldier</entry>
+        <entry>for</entry>
+        <entry>run</entry>
+        <entry>static</entry>
+        <entry encoding="base64">XDxzdGF0aWNcPg==</entry>
+        <entry>while</entry>
+        <entry>main</entry>
+        <entry>intlist</entry>
+        <entry>dcatenate</entry>
+        <entry encoding="base64">XDxwdWJsaWNcPg==</entry>
+        <entry>B</entry>
+        <entry>A</entry>
+      </history-search>
       <history-cmd>
-        <entry>q</entry>
+        <entry>nohl</entry>
+        <entry>3co.</entry>
+        <entry>+3co.</entry>
+        <entry>+3m.</entry>
+        <entry>+2mv.</entry>
+        <entry>+2m.</entry>
+        <entry>bn</entry>
+        <entry>bp</entry>
+        <entry>bd</entry>
+        <entry>-15,-10co.</entry>
+        <entry>-26,-23co-1</entry>
+        <entry>-25,-22co.</entry>
+        <entry>-17,-13co.</entry>
+        <entry>103</entry>
+        <entry>s/B/A/g</entry>
+        <entry>s/A/B/g</entry>
+        <entry>!ls</entry>
+        <entry>w</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
