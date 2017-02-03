@@ -106,11 +106,12 @@
         <mark key="^" line="12" column="13" />
         <mark key="." line="12" column="12" />
       </file>
-      <file name="$USER_HOME$/CS/61B/CS61B/proj1a/ArrayDeque.java" timestamp="1486108107025">
-        <mark key="[" line="16" column="28" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="18" column="7" />
+      <file name="$USER_HOME$/CS/61B/CS61B/proj1a/ArrayDeque.java" timestamp="1486109403253">
+        <mark key="'" line="54" column="27" />
+        <mark key="[" line="54" column="27" />
+        <mark key="]" line="54" column="30" />
+        <mark key="." line="54" column="30" />
+        <mark key="^" line="54" column="30" />
       </file>
       <file name="/fragment.java" timestamp="1486104661035">
         <mark key="[" line="0" column="0" />
@@ -209,37 +210,40 @@
       <jump line="9" column="33" filename="$USER_HOME$/CS/61B/CS61B/lab3/Arithmetic/Arithmetic.java" />
       <jump line="67" column="0" filename="$USER_HOME$/CS/61B/CS61B/lab3/IntList/IntListTest.java" />
       <jump line="10" column="18" filename="$USER_HOME$/CS/61B/CS61B/lab3/Flik/FlikTest.java" />
+      <jump line="27" column="14" filename="$USER_HOME$/CS/61B/CS61B/proj1a/ArrayDeque.java" />
+      <jump line="43" column="30" filename="$USER_HOME$/CS/61B/CS61B/proj1a/ArrayDeque.java" />
+      <jump line="54" column="27" filename="$USER_HOME$/CS/61B/CS61B/proj1a/ArrayDeque.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>NextLast</text>
+        <text>items</text>
       </register>
       <register name="/" type="4">
-        <text>+</text>
+        <text>items</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoKGZsb2F0KSBzaXplIC8gaXRlbXMubGVuZ3RoIDwgLjI1KSB7CiAgICAgICAgICAgIHJlc2l6ZShzaXplIC8gMik7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbGlzdFtuZXh0Rmlyc3QgKyAxICsgaW5kZXhdOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1cGRhdGVOZXh0Rmlyc3QoKTsK</text>
+        <text encoding="base64">ICAgICAgICBuZXh0TGFzdC0tOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZXh0Rmlyc3QrKzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBuZXh0TGFzdCsrOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCB1cGRhdGVMZWZ0KCkgewogICAgICAgIGlmIChuZXh0Rmlyc3QgPT0gMCkgewogICAgICAgICAgICBuZXh0Rmlyc3QgPSBsaXN0Lmxlbmd0aCAtIDE7CiAgICAgICAgfQogICAgICAgIG5leHRGaXJzdC0tOwogICAgfQoKICAgIHByaXZhdGUgdm9pZCB1cGRhdGVSaWdodCgpIHsKICAgICAgICBpZiAobmV4dExhc3QgPT0gbGlzdC5sZW5ndGggLSAxKSB7CiAgICAgICAgICAgIG5leHRMYXN0ID0gMDsKICAgICAgICB9CiAgICAgICAgbmV4dExhc3QrKzsKICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB1cGRhdGVOZXh0Rmlyc3QoKTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -255,19 +259,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuZXh0Rmlyc3QtLTsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCB1cGRhdGVMZWZ0KCkgewogICAgICAgIGlmIChuZXh0Rmlyc3QgPT0gMCkgewogICAgICAgICAgICBuZXh0Rmlyc3QgPSBsaXN0Lmxlbmd0aCAtIDE7CiAgICAgICAgfQogICAgICAgIG5leHRGaXJzdC0tOwogICAgfQoKICAgIHByaXZhdGUgdm9pZCB1cGRhdGVSaWdodCgpIHsKICAgICAgICBpZiAobmV4dExhc3QgPT0gbGlzdC5sZW5ndGggLSAxKSB7CiAgICAgICAgICAgIG5leHRMYXN0ID0gMDsKICAgICAgICB9CiAgICAgICAgbmV4dExhc3QrKzsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>+</last-search>
+      <last-search>items</last-search>
       <last-offset />
-      <last-pattern>+</last-pattern>
+      <last-pattern>items</last-pattern>
       <last-replace>B</last-replace>
       <last-substitute>A</last-substitute>
       <last-dir>1</last-dir>
@@ -288,6 +292,7 @@
         <entry>A</entry>
         <entry>main</entry>
         <entry>+</entry>
+        <entry>items</entry>
       </history-search>
       <history-cmd>
         <entry>+3m.</entry>
