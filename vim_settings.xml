@@ -35,11 +35,12 @@
         <mark key="." line="55" column="51" />
         <mark key="^" line="55" column="51" />
       </file>
-      <file name="$USER_HOME$/CS/61B/CS61B/proj1a/LinkedListDeque.java" timestamp="1486009809301">
-        <mark key="[" line="14" column="8" />
-        <mark key="]" line="14" column="8" />
-        <mark key="." line="14" column="8" />
-        <mark key="^" line="92" column="10" />
+      <file name="$USER_HOME$/CS/61B/CS61B/proj1a/LinkedListDeque.java" timestamp="1486113235698">
+        <mark key="'" line="14" column="8" />
+        <mark key="[" line="74" column="19" />
+        <mark key="]" line="74" column="19" />
+        <mark key="." line="74" column="19" />
+        <mark key="^" line="74" column="19" />
       </file>
       <file name="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" timestamp="1485466981814">
         <mark key="'" line="40" column="0" />
@@ -92,10 +93,11 @@
         <mark key="^" line="75" column="45" />
         <mark key="." line="75" column="45" />
       </file>
-      <file name="$USER_HOME$/CS/61B/CS61B/proj1a/ArrayDequeTest.java" timestamp="1486111728995">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
+      <file name="$USER_HOME$/CS/61B/CS61B/proj1a/ArrayDequeTest.java" timestamp="1486119017253">
+        <mark key="[" line="108" column="27" />
+        <mark key="]" line="109" column="7" />
+        <mark key="." line="109" column="7" />
+        <mark key="^" line="109" column="7" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled/src/Test.java" timestamp="1484612300055">
         <mark key="'" line="4" column="11" />
@@ -111,24 +113,18 @@
         <mark key="^" line="12" column="13" />
         <mark key="." line="12" column="12" />
       </file>
-      <file name="$USER_HOME$/CS/61B/CS61B/proj1a/ArrayDeque.java" timestamp="1486111797716">
-        <mark key="'" line="14" column="12" />
+      <file name="$USER_HOME$/CS/61B/CS61B/proj1a/ArrayDeque.java" timestamp="1486119205046">
+        <mark key="'" line="77" column="23" />
+        <mark key="[" line="70" column="57" />
+        <mark key="]" line="70" column="67" />
+        <mark key="." line="70" column="67" />
+        <mark key="^" line="70" column="67" />
       </file>
       <file name="/fragment.java" timestamp="1486104661035">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="24" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
-      <jump line="113" column="28" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
-      <jump line="110" column="54" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
-      <jump line="23" column="16" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
-      <jump line="20" column="12" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
-      <jump line="48" column="16" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
-      <jump line="76" column="0" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
-      <jump line="321" column="29" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
-      <jump line="17" column="8" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
       <jump line="28" column="21" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
       <jump line="35" column="16" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
       <jump line="26" column="15" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
@@ -209,47 +205,57 @@
       <jump line="9" column="33" filename="$USER_HOME$/CS/61B/CS61B/lab3/Arithmetic/Arithmetic.java" />
       <jump line="67" column="0" filename="$USER_HOME$/CS/61B/CS61B/lab3/IntList/IntListTest.java" />
       <jump line="10" column="18" filename="$USER_HOME$/CS/61B/CS61B/lab3/Flik/FlikTest.java" />
-      <jump line="27" column="14" filename="$USER_HOME$/CS/61B/CS61B/proj1a/ArrayDeque.java" />
       <jump line="54" column="27" filename="$USER_HOME$/CS/61B/CS61B/proj1a/ArrayDeque.java" />
       <jump line="66" column="8" filename="$USER_HOME$/CS/61B/CS61B/proj1a/ArrayDeque.java" />
       <jump line="15" column="10" filename="$USER_HOME$/CS/61B/CS61B/proj1a/ArrayDeque.java" />
       <jump line="23" column="12" filename="$USER_HOME$/CS/61B/CS61B/proj1a/ArrayDeque.java" />
       <jump line="43" column="12" filename="$USER_HOME$/CS/61B/CS61B/proj1a/ArrayDeque.java" />
-      <jump line="44" column="12" filename="$USER_HOME$/CS/61B/CS61B/proj1a/ArrayDeque.java" />
-      <jump line="55" column="12" filename="$USER_HOME$/CS/61B/CS61B/proj1a/ArrayDeque.java" />
       <jump line="73" column="17" filename="$USER_HOME$/CS/61B/CS61B/proj1a/ArrayDeque.java" />
+      <jump line="14" column="8" filename="$USER_HOME$/CS/61B/CS61B/proj1a/LinkedListDeque.java" />
+      <jump line="27" column="12" filename="$USER_HOME$/CS/61B/CS61B/proj1a/ArrayDeque.java" />
+      <jump line="44" column="12" filename="$USER_HOME$/CS/61B/CS61B/proj1a/ArrayDeque.java" />
+      <jump line="72" column="16" filename="$USER_HOME$/CS/61B/CS61B/proj1a/ArrayDeque.java" />
       <jump line="14" column="12" filename="$USER_HOME$/CS/61B/CS61B/proj1a/ArrayDeque.java" />
+      <jump line="71" column="4" filename="$USER_HOME$/CS/61B/CS61B/proj1a/ArrayDeque.java" />
+      <jump line="17" column="25" filename="$USER_HOME$/CS/61B/CS61B/proj1a/ArrayDeque.java" />
+      <jump line="26" column="24" filename="$USER_HOME$/CS/61B/CS61B/proj1a/ArrayDeque.java" />
+      <jump line="46" column="30" filename="$USER_HOME$/CS/61B/CS61B/proj1a/ArrayDeque.java" />
+      <jump line="55" column="8" filename="$USER_HOME$/CS/61B/CS61B/proj1a/ArrayDeque.java" />
+      <jump line="58" column="29" filename="$USER_HOME$/CS/61B/CS61B/proj1a/ArrayDeque.java" />
+      <jump line="70" column="25" filename="$USER_HOME$/CS/61B/CS61B/proj1a/ArrayDeque.java" />
+      <jump line="76" column="25" filename="$USER_HOME$/CS/61B/CS61B/proj1a/ArrayDeque.java" />
+      <jump line="77" column="23" filename="$USER_HOME$/CS/61B/CS61B/proj1a/ArrayDeque.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>items</text>
+        <text encoding="base64">ICAgICA=</text>
       </register>
       <register name="/" type="4">
-        <text>resize</text>
+        <text>floorMod</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoKGZsb2F0KSBzaXplIC8gaXRlbXMubGVuZ3RoIDwgLjI1KSB7CiAgICAgICAgICAgIHJlc2l6ZShzaXplIC8gMik7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBiYXNpYygpIHsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgYmFzaWMoKSB7Cgo=</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0LmFkZExhc3QoMCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBBcnJheURlcXVlPFN0cmluZz4gdGVzdCA9IG5ldyBBcnJheURlcXVlPD4oKTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0LmFkZExhc3QoJ2EnKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0LmFkZExhc3QoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -265,19 +271,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbGlzdFtuZXh0Rmlyc3QgKyAxICsgaW5kZXhdOwo=</text>
+        <text encoding="base64">ICAgICAgICBJdGVtIGZpcnN0ID0gbGlzdFtuZXh0Rmlyc3RdOwo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz53</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>resize</last-search>
+      <last-search>floorMod</last-search>
       <last-offset />
-      <last-pattern>resize</last-pattern>
+      <last-pattern>floorMod</last-pattern>
       <last-replace>B</last-replace>
       <last-substitute>A</last-substitute>
       <last-dir>1</last-dir>
@@ -299,7 +305,10 @@
         <entry>main</entry>
         <entry>+</entry>
         <entry>items</entry>
+        <entry>get</entry>
+        <entry encoding="base64">XDxyZXNpemVcPg==</entry>
         <entry>resize</entry>
+        <entry>floorMod</entry>
       </history-search>
       <history-cmd>
         <entry>+3m.</entry>
@@ -320,8 +329,8 @@
         <entry>W</entry>
         <entry>9</entry>
         <entry>12</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -353,6 +362,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
