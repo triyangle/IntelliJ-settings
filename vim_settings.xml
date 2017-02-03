@@ -35,7 +35,7 @@
         <mark key="." line="55" column="51" />
         <mark key="^" line="55" column="51" />
       </file>
-      <file name="$USER_HOME$/CS/61B/CS61B/proj1a/LinkedListDeque.java" timestamp="1486113235698">
+      <file name="$USER_HOME$/CS/61B/CS61B/proj1a/LinkedListDeque.java" timestamp="1486153499933">
         <mark key="'" line="14" column="8" />
         <mark key="[" line="74" column="19" />
         <mark key="]" line="74" column="19" />
@@ -114,18 +114,18 @@
         <mark key="^" line="12" column="13" />
         <mark key="." line="12" column="12" />
       </file>
-      <file name="$USER_HOME$/CS/61B/CS61B/proj1a/ArrayDeque.java" timestamp="1486149817530">
-        <mark key="[" line="47" column="31" />
-        <mark key="]" line="47" column="38" />
-        <mark key="." line="47" column="38" />
-        <mark key="^" line="47" column="38" />
+      <file name="$USER_HOME$/CS/61B/CS61B/proj1a/ArrayDeque.java" timestamp="1486153463867">
+        <mark key="'" line="77" column="10" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="96" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1486104661035">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="19" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
       <jump line="116" column="20" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
       <jump line="98" column="16" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
       <jump line="72" column="26" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
@@ -225,10 +225,11 @@
       <jump line="2" column="33" filename="$USER_HOME$/CS/61B/CS61B/proj1a/ArrayDeque.java" />
       <jump line="47" column="10" filename="$USER_HOME$/CS/61B/CS61B/proj1a/ArrayDeque.java" />
       <jump line="8" column="22" filename="$USER_HOME$/CS/61B/CS61B/proj1a/ArrayDequeTest.java" />
+      <jump line="81" column="10" filename="$USER_HOME$/CS/61B/CS61B/proj1a/ArrayDeque.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>i</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -237,25 +238,25 @@
         <text encoding="base64">ICAgICAgICBpZiAoc2l6ZSA+IDApIHsKICAgICAgICAgICAgaWYgKGVuZCA+IHN0YXJ0KSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0uYXJyYXljb3B5KGxpc3QsIHN0YXJ0LCB0ZW1wLCAwLCBzaXplKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIFN5c3RlbS5hcnJheWNvcHkobGlzdCwgc3RhcnQsIHRlbXAsIDAsIHNpemUgLSBzdGFydCk7CiAgICAgICAgICAgICAgICBTeXN0ZW0uYXJyYXljb3B5KGxpc3QsIDAsIHRlbXAsIHNpemUgLSBzdGFydCwgc3RhcnQpOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc2l6ZSA+IDApIHsKICAgICAgICAgICAgaWYgKGVuZCA+IHN0YXJ0KSB7CiAgICAgICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGVuZDsgaSsrKSB7CiAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludCgpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0uYXJyYXljb3B5KGxpc3QsIHN0YXJ0LCB0ZW1wLCAwLCBzaXplIC0gc3RhcnQpOwogICAgICAgICAgICAgICAgU3lzdGVtLmFycmF5Y29weShsaXN0LCAwLCB0ZW1wLCBzaXplIC0gc3RhcnQsIHN0YXJ0KTsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5hcnJheWNvcHkobGlzdCwgc3RhcnQsIHRlbXAsIDAsIHNpemUpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgc3RhcnQgPSBNYXRoLmZsb29yTW9kKG5leHRGaXJzdCArIDEsIGxpc3QubGVuZ3RoKTsKICAgICAgICBpbnQgZW5kID0gTWF0aC5mbG9vck1vZChuZXh0TGFzdCAtIDEsIGxpc3QubGVuZ3RoKTsKCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZW5kID4gc3RhcnQpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc2l6ZSA+IDApIHsKICAgICAgICAgICAgaWYgKGVuZCA+IHN0YXJ0KSB7CiAgICAgICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGVuZDsgaSsrKSB7CiAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludCgpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0uYXJyYXljb3B5KGxpc3QsIHN0YXJ0LCB0ZW1wLCAwLCBzaXplIC0gc3RhcnQpOwogICAgICAgICAgICAgICAgU3lzdGVtLmFycmF5Y29weShsaXN0LCAwLCB0ZW1wLCBzaXplIC0gc3RhcnQsIHN0YXJ0KTsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -271,10 +272,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gc3RhcnQsIGkgPCApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5hcnJheWNvcHkobGlzdCwgc3RhcnQsIHRlbXAsIDAsIHNpemUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
