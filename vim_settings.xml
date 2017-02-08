@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/school/CS/61B/CS61B/proj1b/Deque.java" timestamp="1486597016666">
+        <mark key="'" line="4" column="15" />
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="1" column="4" />
+        <mark key="." line="1" column="4" />
+      </file>
       <file name="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntList.java" timestamp="1485511284652">
         <mark key="'" line="137" column="12" />
       </file>
@@ -48,8 +54,8 @@
         <mark key="." line="11" column="29" />
         <mark key="^" line="11" column="29" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/proj1b/StudentArrayDeque.java" timestamp="1486546138469">
-        <mark key="'" line="268" column="13" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/proj1b/StudentArrayDeque.java" timestamp="1486596546506">
+        <mark key="'" line="273" column="25" />
       </file>
       <file name="$USER_HOME$/CS/61B/CS61B/lab3/IntList/IntListTest.java" timestamp="1486104315576">
         <mark key="'" line="79" column="0" />
@@ -81,12 +87,12 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/proj1b/TestArrayDeque1B.java" timestamp="1486546787878">
-        <mark key="'" line="12" column="44" />
-        <mark key="[" line="20" column="55" />
-        <mark key="]" line="21" column="59" />
-        <mark key="." line="21" column="59" />
-        <mark key="^" line="21" column="59" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/proj1b/TestArrayDeque1B.java" timestamp="1486596483082">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="64" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="10" column="66" />
       </file>
       <file name="$USER_HOME$/CS/61B/CS61B/lab2/DebugPractice/Traveler.java" timestamp="1485501221344">
         <mark key="'" line="42" column="8" />
@@ -120,11 +126,11 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/proj1b/StudentArrayDequeLauncher.java" timestamp="1486344017372">
-        <mark key="[" line="11" column="22" />
-        <mark key="]" line="11" column="21" />
-        <mark key="^" line="11" column="21" />
-        <mark key="." line="11" column="21" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/proj1b/StudentArrayDequeLauncher.java" timestamp="1486593217443">
+        <mark key="[" line="25" column="46" />
+        <mark key="]" line="25" column="47" />
+        <mark key="^" line="25" column="47" />
+        <mark key="." line="25" column="47" />
       </file>
       <file name="$USER_HOME$/CS/61B/lectureCode/lists4/DIY/AListTest.java" timestamp="1485922680488">
         <mark key="'" line="75" column="45" />
@@ -151,15 +157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="140" column="19" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
-      <jump line="416" column="0" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
-      <jump line="6" column="0" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
-      <jump line="12" column="0" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
-      <jump line="16" column="0" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
-      <jump line="34" column="0" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
-      <jump line="37" column="0" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
-      <jump line="40" column="0" filename="$USER_HOME$/battlecode_team800/src/player_1/RobotPlayer.java" />
-      <jump line="2" column="0" filename="$USER_HOME$/CS/61B/CS61B/lab2/DebugPractice/JourneyToAlmostTheCenterOfTheEarth.java" />
       <jump line="32" column="0" filename="$USER_HOME$/CS/61B/CS61B/lab2/DebugPractice/JourneyToAlmostTheCenterOfTheEarth.java" />
       <jump line="1" column="0" filename="$USER_HOME$/CS/61B/CS61B/lab2/DebugPractice/JourneyToAlmostTheCenterOfTheEarth.java" />
       <jump line="203" column="0" filename="$USER_HOME$/CS/61B/CS61B/lab2/Intlist/IntList.java" />
@@ -251,37 +248,47 @@
       <jump line="49" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/proj1b/StudentArrayDeque.java" />
       <jump line="268" column="13" filename="$USER_HOME$/school/CS/61B/CS61B/proj1b/StudentArrayDeque.java" />
       <jump line="17" column="12" filename="$USER_HOME$/school/CS/61B/CS61B/proj1b/ArrayDequeSolution.java" />
+      <jump line="21" column="57" filename="$USER_HOME$/school/CS/61B/CS61B/proj1b/TestArrayDeque1B.java" />
+      <jump line="32" column="16" filename="$USER_HOME$/school/CS/61B/CS61B/proj1b/TestArrayDeque1B.java" />
+      <jump line="34" column="17" filename="$USER_HOME$/school/CS/61B/CS61B/proj1b/TestArrayDeque1B.java" />
+      <jump line="39" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/proj1b/TestArrayDeque1B.java" />
+      <jump line="50" column="19" filename="$USER_HOME$/school/CS/61B/CS61B/proj1b/TestArrayDeque1B.java" />
+      <jump line="31" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/proj1b/TestArrayDeque1B.java" />
+      <jump line="273" column="25" filename="$USER_HOME$/school/CS/61B/CS61B/proj1b/StudentArrayDeque.java" />
+      <jump line="1" column="4" filename="$USER_HOME$/school/CS/61B/CS61B/proj1b/Deque.java" />
+      <jump line="4" column="15" filename="$USER_HOME$/school/CS/61B/CS61B/proj1b/Deque.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>int</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>get</text>
+        <text>size</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc2l6ZSA+IDApIHsKICAgICAgICAgICAgaWYgKGVuZCA+IHN0YXJ0KSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0uYXJyYXljb3B5KGxpc3QsIHN0YXJ0LCB0ZW1wLCAwLCBzaXplKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIFN5c3RlbS5hcnJheWNvcHkobGlzdCwgc3RhcnQsIHRlbXAsIDAsIHNpemUgLSBzdGFydCk7CiAgICAgICAgICAgICAgICBTeXN0ZW0uYXJyYXljb3B5KGxpc3QsIDAsIHRlbXAsIHNpemUgLSBzdGFydCwgc3RhcnQpOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZXF1ZW5jZS5hZGRPcGVyYXRpb24obmV3IERlcXVlT3BlcmF0aW9uKCJzaXplIikpOwogICAgICAgICAgICAgICAgICAgIGFzc2VydEVxdWFscyhzZXF1ZW5jZS50b1N0cmluZygpLCBzb2wuc2l6ZSgpLCBzdHVkZW50LnNpemUoKSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="1" type="8">
+        <text encoding="base64">cHVibGljIApwdWJsaWMgCnB1YmxpYyAKcHVibGljIApwdWJsaWMgCnB1YmxpYyAKcHVibGljIApwdWJsaWMg</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IHJhbmRvbSA9IFN0ZFJhbmRvbS51bmlmb3JtKC1pIC0gMTAsIGkgKyAxMCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2VydEVxdWFscyhzb2wuZ2V0Rmlyc3QoKSwgc3R1ZGVudC5nZXRGaXJzdCgpKTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">IGVsc2UgewogICAgICAgICAgICAgICAgICAgIHNlcXVlbmNlLmFkZE9wZXJhdGlvbihuZXcgRGVxdWVPcGVyYXRpb24oInNpemUiKSk7CiAgICAgICAgICAgICAgICAgICAgYXNzZXJ0RXF1YWxzKHNlcXVlbmNlLnRvU3RyaW5nKCksIHNvbC5zaXplKCksIHN0dWRlbnQuc2l6ZSgpKTsKICAgICAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2VydEVxdWFscyhzb2wuZ2V0TGFzdCgpLCBzdHVkZW50LmdldExhc3QoKSk7Cg==</text>
+      <register name="6" type="4">
+        <text>else {
+                }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -297,19 +304,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3dpdGNoICh0cnVlKSB7CiAgICAgICAgICAgICAgICBjYXNlIG51bWJlckJldHdlZW5aZXJvQW5kT25lIDwgLjI1OiAKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZXF1ZW5jZS5hZGRPcGVyYXRpb24obmV3IERlcXVlT3BlcmF0aW9uKCJzaXplIikpOwogICAgICAgICAgICAgICAgICAgIGFzc2VydEVxdWFscyhzZXF1ZW5jZS50b1N0cmluZygpLCBzb2wuc2l6ZSgpLCBzdHVkZW50LnNpemUoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>get</last-search>
+      <last-search>size</last-search>
       <last-offset />
-      <last-pattern>get</last-pattern>
+      <last-pattern>size</last-pattern>
       <last-replace>B</last-replace>
       <last-substitute>A</last-substitute>
       <last-dir>1</last-dir>
@@ -317,8 +324,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdGF0aWNcPg==</entry>
-        <entry>while</entry>
         <entry>intlist</entry>
         <entry>dcatenate</entry>
         <entry encoding="base64">XDxwdWJsaWNcPg==</entry>
@@ -337,13 +342,10 @@
         <entry>removeFirst</entry>
         <entry>getLast</entry>
         <entry>get</entry>
+        <entry>remo</entry>
+        <entry>size</entry>
       </history-search>
       <history-cmd>
-        <entry>+3m.</entry>
-        <entry>+2mv.</entry>
-        <entry>+2m.</entry>
-        <entry>bn</entry>
-        <entry>bp</entry>
         <entry>bd</entry>
         <entry>-15,-10co.</entry>
         <entry>-26,-23co-1</entry>
@@ -354,10 +356,15 @@
         <entry>s/A/B/g</entry>
         <entry>!ls</entry>
         <entry>q</entry>
-        <entry>W</entry>
         <entry>9</entry>
         <entry>12</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>37</entry>
+        <entry>38</entry>
+        <entry>35</entry>
+        <entry>42</entry>
+        <entry>52</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
