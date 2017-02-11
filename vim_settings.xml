@@ -117,12 +117,12 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="10" column="66" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/proj1b/ArrayDeque.java" timestamp="1486719159334">
+      <file name="$USER_HOME$/school/CS/61B/CS61B/proj1b/ArrayDeque.java" timestamp="1486798666516">
         <mark key="'" line="64" column="0" />
-        <mark key="[" line="104" column="8" />
-        <mark key="]" line="100" column="8" />
-        <mark key="^" line="100" column="8" />
-        <mark key="." line="100" column="8" />
+        <mark key="[" line="89" column="12" />
+        <mark key="]" line="89" column="15" />
+        <mark key="^" line="89" column="15" />
+        <mark key="." line="89" column="15" />
       </file>
       <file name="$USER_HOME$/CS/61B/CS61B/lab2/DebugPractice/Traveler.java" timestamp="1485501221344">
         <mark key="'" line="42" column="8" />
@@ -304,7 +304,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text encoding="base64">dm9pZCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcml2YXRlXD4=</text>
@@ -389,7 +389,6 @@
         <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>-15,-10co.</entry>
         <entry>-26,-23co-1</entry>
         <entry>-25,-22co.</entry>
         <entry>-17,-13co.</entry>
@@ -409,6 +408,7 @@
         <entry>W</entry>
         <entry>s</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5ub3JtLg==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
