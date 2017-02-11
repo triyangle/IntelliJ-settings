@@ -1,25 +1,11 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="GradleLocalSettings">
-        <option name="modificationStamps">
-          <map>
-            <entry key="$USER_HOME$/battlecode-scaffold-2017" value="1484621383000" />
-            <entry key="$USER_HOME$/battlecode_team800" value="1484621669000" />
-          </map>
-        </option>
-        <option name="externalProjectsViewState">
-          <projects_view />
-        </option>
-      </component>
       <component name="InspectionProjectProfileManager">
         <option name="PROJECT_PROFILE" />
         <version value="1.0" />
       </component>
       <component name="ProjectRootManager" version="2" default="true" />
-      <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="com.maddyhome.idea.vim.ui.VimEmulationConfigurable" />
-      </component>
       <component name="RunManager">
         <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
           <module name="" />
@@ -107,9 +93,6 @@
           <listeners />
           <method />
         </configuration>
-      </component>
-      <component name="VcsContentAnnotationSettings">
-        <option name="myLimit" value="2678400000" />
       </component>
       <component name="masterDetails">
         <states>
