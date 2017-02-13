@@ -6,13 +6,22 @@
       <file name="$USER_HOME$/school/CS/61B/CS61B/lab3/Arithmetic/ArithmeticTest.java" timestamp="1486976622545" />
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="/" type="4">
+        <text>test</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>test</last-search>
+      <last-offset />
+      <last-pattern>test</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>test</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
