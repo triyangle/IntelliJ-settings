@@ -3,29 +3,93 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/lab3/Arithmetic/ArithmeticTest.java" timestamp="1486976622545" />
+      <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Table.java" timestamp="1487307576597">
+        <mark key="'" line="20" column="35" />
+        <mark key="[" line="38" column="16" />
+        <mark key="]" line="38" column="15" />
+        <mark key="." line="38" column="15" />
+        <mark key="^" line="38" column="15" />
+      </file>
+      <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Column.java" timestamp="1487307609853">
+        <mark key="'" line="7" column="16" />
+        <mark key="[" line="17" column="24" />
+        <mark key="]" line="17" column="24" />
+        <mark key="." line="17" column="24" />
+        <mark key="^" line="17" column="24" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="4" column="16" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Column.java" />
+      <jump line="27" column="20" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Table.java" />
+      <jump line="21" column="64" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Table.java" />
+      <jump line="13" column="0" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Table.java" />
+      <jump line="20" column="35" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Table.java" />
+    </jumps>
     <registers>
+      <register name="-" type="4">
+        <text>Hug</text>
+      </register>
       <register name="/" type="4">
-        <text>test</text>
+        <text>Doub</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuYW1lcy5hZGQoY29sdW1uTmFtZXNbaV0pOwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgKFN0cmluZyAgOiByb3dJdGVtcykgewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>test</last-search>
+      <last-search>Doub</last-search>
       <last-offset />
-      <last-pattern>test</last-pattern>
+      <last-pattern>Doub</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>test</entry>
+        <entry>Doub</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>+10co.</entry>
+        <entry>+8co.</entry>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
