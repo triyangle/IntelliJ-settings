@@ -10,11 +10,12 @@
         <mark key="." line="29" column="44" />
         <mark key="^" line="29" column="44" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" timestamp="1487745446634">
-        <mark key="[" line="75" column="35" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
-        <mark key="^" line="74" column="3" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" timestamp="1487747741005">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="^" line="75" column="63" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/AbstractBoundedQueue.java" timestamp="1487743582452">
         <mark key="[" line="10" column="0" />
@@ -22,11 +23,12 @@
         <mark key="^" line="11" column="12" />
         <mark key="." line="11" column="12" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/GuitarString.java" timestamp="1487744505541">
-        <mark key="[" line="53" column="22" />
-        <mark key="]" line="53" column="25" />
-        <mark key="." line="53" column="25" />
-        <mark key="^" line="53" column="25" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/GuitarString.java" timestamp="1487747772168">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="39" column="25" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/TestGuitarString.java" timestamp="1487744465788">
         <mark key="[" line="58" column="0" />
@@ -73,52 +75,78 @@
       <jump line="82" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/TestArrayRingBuffer.java" />
       <jump line="127" column="15" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/TestArrayRingBuffer.java" />
       <jump line="13" column="4" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/BoundedQueue.java" />
+      <jump line="76" column="7" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" />
+      <jump line="23" column="12" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" />
+      <jump line="93" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" />
+      <jump line="74" column="16" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" />
+      <jump line="88" column="29" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" />
+      <jump line="63" column="8" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" />
+      <jump line="73" column="66" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" />
+      <jump line="80" column="8" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" />
+      <jump line="42" column="34" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" />
+      <jump line="57" column="60" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" />
+      <jump line="97" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" />
+      <jump line="33" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" />
+      <jump line="49" column="15" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" />
+      <jump line="66" column="16" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" />
+      <jump line="84" column="10" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" />
+      <jump line="18" column="30" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" />
+      <jump line="75" column="13" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" />
+      <jump line="4" column="37" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" />
+      <jump line="78" column="63" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" />
+      <jump line="60" column="11" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" />
+      <jump line="44" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" />
+      <jump line="59" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/GuitarString.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/GuitarString.java" />
+      <jump line="24" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/GuitarString.java" />
+      <jump line="34" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/GuitarString.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>dequeue</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
-        <text>Doub</text>
+        <text>TODO</text>
       </register>
-      <register name="0" type="4">
-        <text>(int) Math.round(SR / frequency)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgbmV4dEluZGV4KGludCBpLCBpbnQgb2ZmU2V0KSB7CiAgICAgICAgcmV0dXJuIChpICsgb2ZmU2V0KSAlIGNhcGFjaXR5OwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBSZXR1cm4gdGhlIGNvcnJlY3QgdGhpbmcuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBJdGVyYXRvcjxUPiBpdGVyYXRvcigpIHsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBEZXF1ZXVlIHRoZSBmcm9udCBzYW1wbGUgYW5kIGVucXVldWUgYSBuZXcgc2FtcGxlIHRoYXQgaXMKICAgICAgICAvLyAgICAgICB0aGUgYXZlcmFnZSBvZiB0aGUgdHdvIG11bHRpcGxpZWQgYnkgdGhlIERFQ0FZIGZhY3Rvci4KICAgICAgICAvLyAgICAgICBEbyBub3QgY2FsbCBTdGRBdWRpby5wbGF5KCkuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHN5bnRoZXNpemVyLkFic3RyYWN0Qm91bmRlZFF1ZXVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBEZXF1ZXVlIGV2ZXJ5dGhpbmcgaW4gdGhlIGJ1ZmZlciwgYW5kIHJlcGxhY2UgaXQgd2l0aCByYW5kb20gbnVtYmVycwogICAgICAgIC8vICAgICAgIGJldHdlZW4gLTAuNSBhbmQgMC41LiBZb3UgY2FuIGdldCBzdWNoIGEgbnVtYmVyIGJ5IHVzaW5nOgogICAgICAgIC8vICAgICAgIGRvdWJsZSByID0gTWF0aC5yYW5kb20oKSAtIDAuNTsKICAgICAgICAvLwogICAgICAgIC8vICAgICAgIE1ha2Ugc3VyZSB0aGF0IHlvdXIgcmFuZG9tIG51bWJlcnMgYXJlIGRpZmZlcmVudCBmcm9tIGVhY2ggb3RoZXIuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBDcmVhdGUgYSBidWZmZXIgd2l0aCBjYXBhY2l0eSA9IFNSIC8gZnJlcXVlbmN5LiBZb3UnbGwgbmVlZCB0bwogICAgICAgIC8vICAgICAgIGNhc3QgdGhlIHJlc3VsdCBvZiB0aGlzIGRpdnNpb24gb3BlcmF0aW9uIGludG8gYW4gaW50LiBGb3IgYmV0dGVyCiAgICAgICAgLy8gICAgICAgYWNjdXJhY3ksIHVzZSB0aGUgTWF0aC5yb3VuZCgpIGZ1bmN0aW9uIGJlZm9yZSBjYXN0aW5nLgogICAgICAgIC8vICAgICAgIFlvdXIgYnVmZmVyIHNob3VsZCBiZSBpbml0aWFsbHkgZmlsbGVkIHdpdGggemVyb3MuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5JdGVyYXRvcjsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBSZXR1cm4gdGhlIGZpcnN0IGl0ZW0uIE5vbmUgb2YgeW91ciBpbnN0YW5jZSB2YXJpYWJsZXMgc2hvdWxkIGNoYW5nZS4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBEZXF1ZXVlIHRoZSBmaXJzdCBpdGVtLiBEb24ndCBmb3JnZXQgdG8gZGVjcmVhc2UgZmlsbENvdW50IGFuZCB1cGRhdGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBFbnF1ZXVlIHRoZSBpdGVtLiBEb24ndCBmb3JnZXQgdG8gaW5jcmVhc2UgZmlsbENvdW50IGFuZCB1cGRhdGUgbGFzdC4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBHdWl0YXJTdHJpbmcgdGVzdCA9IG5ldyBHdWl0YXJTdHJpbmcoMyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBDcmVhdGUgbmV3IGFycmF5IHdpdGggY2FwYWNpdHkgZWxlbWVudHMuCiAgICAgICAgLy8gICAgICAgZmlyc3QsIGxhc3QsIGFuZCBmaWxsQ291bnQgc2hvdWxkIGFsbCBiZSBzZXQgdG8gMC4KICAgICAgICAvLyAgICAgICB0aGlzLmNhcGFjaXR5IHNob3VsZCBiZSBzZXQgYXBwcm9wcmlhdGVseS4gTm90ZSB0aGF0IHRoZSBsb2NhbCB2YXJpYWJsZQogICAgICAgIC8vICAgICAgIGhlcmUgc2hhZG93cyB0aGUgZmllbGQgd2UgaW5oZXJpdCBmcm9tIEFic3RyYWN0Qm91bmRlZFF1ZXVlLCBzbwogICAgICAgIC8vICAgICAgIHlvdSdsbCBuZWVkIHRvIHVzZSB0aGlzLmNhcGFjaXR5IHRvIHNldCB0aGUgY2FwYWNpdHkuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Doub</last-search>
+      <last-search>TODO</last-search>
       <last-offset />
-      <last-pattern>Doub</last-pattern>
+      <last-pattern>TODO</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -126,6 +154,11 @@
       <history-search>
         <entry>test</entry>
         <entry>Doub</entry>
+        <entry>nextInde</entry>
+        <entry>fillCOunt</entry>
+        <entry>next</entry>
+        <entry>peek</entry>
+        <entry>TODO</entry>
       </history-search>
       <history-cmd>
         <entry>+10co.</entry>
