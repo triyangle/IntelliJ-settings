@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/TestArrayRingBuffer.java" timestamp="1487742256782">
-        <mark key="'" line="106" column="15" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
-        <mark key="^" line="34" column="22" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/TestArrayRingBuffer.java" timestamp="1487743230233">
+        <mark key="'" line="56" column="15" />
+        <mark key="[" line="29" column="39" />
+        <mark key="]" line="29" column="44" />
+        <mark key="." line="29" column="44" />
+        <mark key="^" line="29" column="44" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" timestamp="1487741032024">
         <mark key="[" line="57" column="25" />
@@ -16,17 +16,23 @@
         <mark key="." line="58" column="32" />
         <mark key="^" line="58" column="32" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/AbstractBoundedQueue.java" timestamp="1487739444231">
+      <file name="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/AbstractBoundedQueue.java" timestamp="1487743582452">
         <mark key="[" line="10" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="3" />
-        <mark key="." line="12" column="0" />
+        <mark key="]" line="11" column="12" />
+        <mark key="^" line="11" column="12" />
+        <mark key="." line="11" column="12" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/GuitarString.java" timestamp="1487739245471">
-        <mark key="[" line="0" column="71" />
-        <mark key="]" line="1" column="19" />
-        <mark key="." line="1" column="19" />
-        <mark key="^" line="1" column="19" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/GuitarString.java" timestamp="1487744505541">
+        <mark key="[" line="53" column="22" />
+        <mark key="]" line="53" column="25" />
+        <mark key="." line="53" column="25" />
+        <mark key="^" line="53" column="25" />
+      </file>
+      <file name="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/TestGuitarString.java" timestamp="1487744465788">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="58" column="8" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Column.java" timestamp="1487307609853">
         <mark key="'" line="7" column="16" />
@@ -63,37 +69,37 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>.</text>
+        <text>dequeue</text>
       </register>
       <register name="/" type="4">
         <text>Doub</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2VydEVxdWFscyhmYWxzZSwgdGVzdC5pc0Z1bGwoKSkK</text>
+      <register name="0" type="4">
+        <text>(int) Math.round(SR / frequency)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBHdWl0YXJTdHJpbmcgdGVzdCA9IG5ldyBHdWl0YXJTdHJpbmcoMyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHModHJ1ZSwgeDIuaXNFbXB0eSgpKTsKICAgICAgICBhc3NlcnRFcXVhbHMoZmFsc2UsIHgyLmlzRnVsbCgpKTsKICAgICAgICBhc3NlcnRFcXVhbHMoNywgeDIuY2FwYWNpdHkoKSk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKDAsIHgyLmZpbGxDb3VudCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgY2FwYWNpdHkgPSAoaW50KSBNYXRoLnJvdW5kKFNSIC8gZnJlcXVlbmN5KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHModHJ1ZSwgeC5pc0VtcHR5KCkpOwogICAgICAgIGFzc2VydEVxdWFscyhmYWxzZSwgeC5pc0Z1bGwoKSk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKDQsIHguY2FwYWNpdHkoKSk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKDAsIHguZmlsbENvdW50KCkpOwoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
