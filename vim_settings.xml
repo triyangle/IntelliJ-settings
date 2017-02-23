@@ -10,10 +10,11 @@
         <mark key="." line="29" column="44" />
         <mark key="^" line="29" column="44" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Table.java" timestamp="1487887121689">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
+      <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Table.java" timestamp="1487887409677">
+        <mark key="[" line="19" column="41" />
+        <mark key="]" line="19" column="41" />
+        <mark key="." line="19" column="41" />
+        <mark key="^" line="19" column="12" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" timestamp="1487747741005">
         <mark key="'" line="59" column="0" />
@@ -50,6 +51,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/TableTester.java" timestamp="1487887346837" />
     </filemarks>
     <jumps>
       <jump line="4" column="16" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Column.java" />
@@ -111,7 +113,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
