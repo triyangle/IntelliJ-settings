@@ -52,11 +52,10 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" timestamp="1487910603818">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/TableTester.java" timestamp="1487887346837" />
     </filemarks>
     <jumps>
       <jump line="4" column="16" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Column.java" />
