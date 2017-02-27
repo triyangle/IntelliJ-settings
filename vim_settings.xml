@@ -25,7 +25,7 @@
         <mark key="^" line="11" column="12" />
         <mark key="." line="11" column="12" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Comparison.java" timestamp="1488185636020">
+      <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Comparison.java" timestamp="1488235226711">
         <mark key="[" line="53" column="11" />
         <mark key="]" line="53" column="11" />
         <mark key="^" line="43" column="7" />
@@ -61,10 +61,6 @@
         <mark key="." line="5" column="26" />
         <mark key="^" line="5" column="47" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/examples/t1.tbl" timestamp="1488175638856">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="7" column="7" />
-      </file>
       <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/examples/p2/codeSamples/DemoCardSuits.java" timestamp="1488180834928">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="16" />
@@ -95,11 +91,8 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" timestamp="1488228532998">
-        <mark key="'" line="470" column="15" />
-        <mark key="[" line="185" column="0" />
-        <mark key="]" line="185" column="0" />
-        <mark key="." line="185" column="0" />
+      <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" timestamp="1488235363111">
+        <mark key="'" line="531" column="16" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Table.java" timestamp="1488187224502">
         <mark key="'" line="15" column="0" />
@@ -113,6 +106,9 @@
         <mark key="]" line="6" column="79" />
         <mark key="." line="6" column="4" />
         <mark key="^" line="6" column="85" />
+      </file>
+      <file name="$USER_HOME$/school/CS/61B/CS61B/javalib/junit-4.12.jar!/org/junit/Assert.class" timestamp="1488235361892">
+        <mark key="'" line="45" column="23" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Value.java" timestamp="1488228964769">
         <mark key="'" line="5" column="73" />
@@ -235,6 +231,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/TableComparator.java" />
       <jump line="12" column="0" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/TableComparator.java" />
       <jump line="9" column="0" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/TableComparator.java" />
+      <jump line="45" column="23" filename="$USER_HOME$/school/CS/61B/CS61B/javalib/junit-4.12.jar!/org/junit/Assert.class" />
+      <jump line="531" column="16" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
