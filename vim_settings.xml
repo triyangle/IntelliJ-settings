@@ -127,12 +127,12 @@
         <mark key="." line="577" column="112" />
         <mark key="^" line="577" column="112" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Table.java" timestamp="1488242873064">
-        <mark key="'" line="47" column="32" />
-        <mark key="[" line="164" column="14" />
-        <mark key="]" line="164" column="38" />
-        <mark key="." line="164" column="38" />
-        <mark key="^" line="164" column="38" />
+      <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Table.java" timestamp="1488259342076">
+        <mark key="'" line="158" column="89" />
+        <mark key="[" line="158" column="119" />
+        <mark key="]" line="158" column="130" />
+        <mark key="^" line="158" column="130" />
+        <mark key="." line="158" column="130" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/ComparisonOperator.java" timestamp="1488238018217">
         <mark key="[" line="7" column="1" />
@@ -167,7 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="4" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/BoundedQueue.java" />
       <jump line="76" column="7" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" />
       <jump line="23" column="12" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" />
       <jump line="93" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" />
@@ -267,10 +266,11 @@
       <jump line="116" column="21" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
       <jump line="119" column="21" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
       <jump line="283" column="14" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
+      <jump line="167" column="89" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Table.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>)</text>
+        <text>getColumnTypes</text>
       </register>
       <register name="/" type="4">
         <text>join</text>
@@ -279,28 +279,36 @@
         <text>0, 2, 4, 6</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2xpY2UudG9TdHJpbmcoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nW10gCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="4" type="4">
+        <text>getColumnTypes() {
+        String[] columnTypes = new String[columns.size()];
+        int i = 0;
+        for (Column column : columns.values()) {
+            columnTypes[i] = column.getType();
+            i++;
+        }
+        return columnTypes;
+    }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50W10gcm93cyA9IHswLCAyLCA0LCA2fTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50W10gcm93cyA9IHswLCAyLCA0LCA2fTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxJbnRlZ2VyPiA9IG5ldyBBcnJheUxpc3Q8PihuZXcgaW50Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXJyYXlMaXN0PD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2xpY2UudG9TdHJpbmcoKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
