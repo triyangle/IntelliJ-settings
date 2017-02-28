@@ -120,8 +120,8 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" timestamp="1488243591537">
-        <mark key="'" line="576" column="58" />
+      <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" timestamp="1488257425147">
+        <mark key="'" line="119" column="21" />
         <mark key="[" line="577" column="112" />
         <mark key="]" line="577" column="112" />
         <mark key="." line="577" column="112" />
@@ -167,8 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/TestArrayRingBuffer.java" />
-      <jump line="82" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/TestArrayRingBuffer.java" />
       <jump line="127" column="15" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/TestArrayRingBuffer.java" />
       <jump line="13" column="4" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/BoundedQueue.java" />
       <jump line="76" column="7" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" />
@@ -265,15 +263,17 @@
       <jump line="423" column="24" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
       <jump line="175" column="26" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
       <jump line="536" column="49" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
-      <jump line="577" column="58" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
       <jump line="115" column="18" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
+      <jump line="577" column="31" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
+      <jump line="116" column="21" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
+      <jump line="119" column="21" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>select</text>
+        <text>join</text>
       </register>
       <register name="0" type="4">
         <text>0, 2, 4, 6</text>
@@ -310,9 +310,9 @@
       </register>
     </registers>
     <search>
-      <last-search>select</last-search>
+      <last-search>join</last-search>
       <last-offset />
-      <last-pattern>select</last-pattern>
+      <last-pattern>join</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -337,6 +337,7 @@
         <entry>load</entry>
         <entry>getRows</entry>
         <entry>select</entry>
+        <entry>join</entry>
       </history-search>
       <history-cmd>
         <entry>+10co.</entry>
