@@ -126,12 +126,12 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" timestamp="1488239368794">
-        <mark key="'" line="441" column="32" />
-        <mark key="[" line="385" column="45" />
-        <mark key="]" line="385" column="45" />
-        <mark key="." line="385" column="45" />
-        <mark key="^" line="385" column="62" />
+      <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" timestamp="1488240612017">
+        <mark key="'" line="405" column="4" />
+        <mark key="[" line="127" column="49" />
+        <mark key="]" line="127" column="49" />
+        <mark key="^" line="127" column="49" />
+        <mark key="." line="127" column="49" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Table.java" timestamp="1488187224502">
         <mark key="'" line="15" column="0" />
@@ -149,12 +149,12 @@
       <file name="$USER_HOME$/school/CS/61B/CS61B/javalib/junit-4.12.jar!/org/junit/Assert.class" timestamp="1488235361892">
         <mark key="'" line="45" column="23" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Value.java" timestamp="1488238003788">
+      <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Value.java" timestamp="1488239786327">
         <mark key="'" line="5" column="73" />
-        <mark key="[" line="16" column="5" />
-        <mark key="]" line="19" column="22" />
-        <mark key="^" line="19" column="22" />
-        <mark key="." line="19" column="22" />
+        <mark key="[" line="49" column="10" />
+        <mark key="]" line="49" column="10" />
+        <mark key="^" line="49" column="10" />
+        <mark key="." line="49" column="10" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/TableEntry.java" timestamp="1488227490255">
         <mark key="[" line="5" column="28" />
@@ -173,9 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="64" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Table.java" />
-      <jump line="20" column="35" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Table.java" />
-      <jump line="39" column="20" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Table.java" />
       <jump line="4" column="0" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Table.java" />
       <jump line="49" column="0" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Table.java" />
       <jump line="0" column="0" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Table.java" />
@@ -273,43 +270,46 @@
       <jump line="143" column="23" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
       <jump line="408" column="24" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
       <jump line="410" column="32" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
+      <jump line="418" column="36" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
+      <jump line="573" column="0" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
+      <jump line="400" column="4" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>wrappedLiteral</text>
       </register>
       <register name="/" type="4">
         <text>load</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyA8VCBleHRlbmRzIENvbXBhcmFibGU8VD4+IGJvb2xlYW4gY29tcGFyZU9wZXJhdGlvbihWYWx1ZTxUPiBhLCBWYWx1ZTxUPiBiKSB7CiAgICAgICAgcmV0dXJuICEoQ29tcGFyaXNvbi5ncmVhdGVyVGhhbihhLCBiKSk7CiAgICB9CgogICAgcHJpdmF0ZSBzdGF0aWMgPFQgZXh0ZW5kcyBDb21wYXJhYmxlPFQ+PiBib29sZWFuIGVxdWFsVG8oVmFsdWU8VD4gYSwgVmFsdWU8VD4gYikgewogICAgICAgIHJldHVybiBhLmNvbXBhcmVUbyhiKSA9PSAwOwogICAgfQoKICAgIHByaXZhdGUgc3RhdGljIDxUIGV4dGVuZHMgQ29tcGFyYWJsZTxUPj4gYm9vbGVhbiBncmVhdGVyVGhhbihWYWx1ZTxUPiBhLCBWYWx1ZTxUPiBiKSB7CiAgICAgICAgcmV0dXJuIGEuY29tcGFyZVRvKGIpID4gMDsKICAgIH0KCiAgICBwdWJsaWMgc3RhdGljIDxUIGV4dGVuZHMgQ29tcGFyYWJsZTxUPj4gYm9vbGVhbiBzcGVjaWFsQ2hlY2soVmFsdWU8VD4gYSwgVmFsdWU8VD4gYikgewogICAgICAgIGlmIChhLmdldFNwZWNpYWwoKSA9PSBTcGVjaWFsVmFsdWUuTk9fVkFMVUUgfHwgYi5nZXRTcGVjaWFsKCkgPT0gU3BlY2lhbFZhbHVlLk5PX1ZBTFVFKSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CgoKICAgIH0KfQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">KD09LCAhPSwgPCwgPiwgPD0sID49KQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoYi5nZXRTcGVjaWFsKCkgPT0gU3BlY2lhbFZhbHVlLk5hTikgewogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKCkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYS5nZXRTcGVjaWFsKCkgPT0gU3BlY2lhbFZhbHVlLk5hTiAmJiBiLmdldFNwZWNpYWwoKSAhPSBTcGVjaWFsVmFsdWUuTmFOKSB7CiAgICAgICAgICAgIHJldHVybiAKICAgICAgICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBWYWx1ZSB3cmFwcGVkTGl0ZXJhbCA9IG51bGw7CgogICAgICAgIHN3aXRjaChjMS5nZXRUeXBlKCkpIHsKICAgICAgICAgICAgY2FzZSAic3RyaW5nIjoKICAgICAgICAgICAgICAgIHdyYXBwZWRMaXRlcmFsID0gbmV3IFZhbHVlPD4obGl0ZXJhbCk7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgY2FzZSAiaW50IjoKICAgICAgICAgICAgICAgIHdyYXBwZWRMaXRlcmFsID0gbmV3IFZhbHVlPD4oSW50ZWdlci5wYXJzZUludChsaXRlcmFsKSk7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgY2FzZSAiZmxvYXQiOgogICAgICAgICAgICAgICAgd3JhcHBlZExpdGVyYWwgPSBuZXcgVmFsdWU8PihEb3VibGUucGFyc2VEb3VibGUobGl0ZXJhbCkpOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIGNhc2UgImRlZmF1bHQiOgogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgfQo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="4">
+        <text encoding="base64">OwoKICAgICAgICBzd2l0Y2goYzEuZ2V0VHlwZSgpKSB7CiAgICAgICAgICAgIGNhc2UgInN0cmluZyI6CiAgICAgICAgICAgICAgICB3cmFwcGVkTGl0ZXJhbCA9IG5ldyBWYWx1ZTw+KGxpdGVyYWwpOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIGNhc2UgImludCI6CiAgICAgICAgICAgICAgICB3cmFwcGVkTGl0ZXJhbCA9IG5ldyBWYWx1ZTw+KEludGVnZXIucGFyc2VJbnQobGl0ZXJhbCkpOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIGNhc2UgImZsb2F0IjoKICAgICAgICAgICAgICAgIHdyYXBwZWRMaXRlcmFsID0gbmV3IFZhbHVlPD4oRG91YmxlLnBhcnNlRG91YmxlKGxpdGVyYWwpKTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlICJkZWZhdWx0IjoKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgIA==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
