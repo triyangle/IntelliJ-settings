@@ -119,19 +119,19 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" timestamp="1488262978999">
-        <mark key="'" line="547" column="49" />
-        <mark key="[" line="596" column="126" />
-        <mark key="]" line="596" column="126" />
-        <mark key="." line="596" column="126" />
-        <mark key="^" line="596" column="90" />
+      <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" timestamp="1488264330985">
+        <mark key="'" line="157" column="16" />
+        <mark key="[" line="396" column="33" />
+        <mark key="]" line="396" column="35" />
+        <mark key="." line="396" column="35" />
+        <mark key="^" line="396" column="35" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Table.java" timestamp="1488262696316">
+      <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Table.java" timestamp="1488264127607">
         <mark key="'" line="175" column="0" />
-        <mark key="[" line="201" column="40" />
-        <mark key="]" line="201" column="40" />
-        <mark key="." line="201" column="40" />
-        <mark key="^" line="201" column="40" />
+        <mark key="[" line="7" column="51" />
+        <mark key="]" line="7" column="52" />
+        <mark key="." line="7" column="52" />
+        <mark key="^" line="7" column="52" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/ComparisonOperator.java" timestamp="1488238018217">
         <mark key="[" line="7" column="1" />
@@ -166,9 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="63" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" />
-      <jump line="60" column="11" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" />
-      <jump line="44" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" />
       <jump line="59" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" />
       <jump line="0" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/GuitarString.java" />
       <jump line="15" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/GuitarString.java" />
@@ -199,7 +196,6 @@
       <jump line="172" column="13" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
       <jump line="260" column="39" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
       <jump line="129" column="19" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
       <jump line="25" column="33" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/examples/p2/codeSamples/NestedTestClasses.java" />
       <jump line="5" column="73" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Value.java" />
       <jump line="312" column="19" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
@@ -266,10 +262,14 @@
       <jump line="541" column="29" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
       <jump line="547" column="49" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
       <jump line="115" column="24" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
+      <jump line="0" column="8" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
+      <jump line="193" column="16" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
+      <jump line="157" column="16" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
+      <jump line="396" column="35" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">PyBleHRlbmRzIENvbXBhcmFibGU8Pz4=</text>
       </register>
       <register name="/" type="4">
         <text>select</text>
@@ -278,31 +278,31 @@
         <text encoding="base64">ICAgICAgICBWYWx1ZSB3cmFwcGVkTGl0ZXJhbCA9IG51bGw7CgogICAgICAgIHN3aXRjaChjMS5nZXRUeXBlKCkpIHsKICAgICAgICAgICAgY2FzZSAic3RyaW5nIjoKICAgICAgICAgICAgICAgIHdyYXBwZWRMaXRlcmFsID0gbmV3IFZhbHVlPD4obGl0ZXJhbCk7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgY2FzZSAiaW50IjoKICAgICAgICAgICAgICAgIHdyYXBwZWRMaXRlcmFsID0gbmV3IFZhbHVlPD4oSW50ZWdlci5wYXJzZUludChsaXRlcmFsKSk7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgY2FzZSAiZmxvYXQiOgogICAgICAgICAgICAgICAgd3JhcHBlZExpdGVyYWwgPSBuZXcgVmFsdWU8PihEb3VibGUucGFyc2VEb3VibGUobGl0ZXJhbCkpOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIGNhc2UgImRlZmF1bHQiOgogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgfQoKICAgICAgICBBcnJheUxpc3Q8SW50ZWdlcj4gZmlsdGVyZWQgPSBuZXcgQXJyYXlMaXN0PD4oKTsKCiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBjMS5zaXplKCk7IGkrKykgewogICAgICAgICAgICBpZiAoY29tcGFyZShjb21wYXJlT3BlcmF0b3IsIGMxLmdldEl0ZW0oaSksIHdyYXBwZWRMaXRlcmFsKSkgewogICAgICAgICAgICAgICAgZmlsdGVyZWQuYWRkKGkpOwogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gZmlsdGVyZWQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHd3Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
