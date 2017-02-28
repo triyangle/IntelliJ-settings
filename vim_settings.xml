@@ -119,19 +119,19 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" timestamp="1488258123993">
-        <mark key="'" line="283" column="14" />
-        <mark key="[" line="577" column="112" />
-        <mark key="]" line="577" column="112" />
-        <mark key="." line="577" column="112" />
-        <mark key="^" line="577" column="112" />
+      <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" timestamp="1488262978999">
+        <mark key="'" line="547" column="49" />
+        <mark key="[" line="596" column="126" />
+        <mark key="]" line="596" column="126" />
+        <mark key="." line="596" column="126" />
+        <mark key="^" line="596" column="90" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Table.java" timestamp="1488261556488">
-        <mark key="'" line="179" column="18" />
-        <mark key="[" line="180" column="9" />
-        <mark key="]" line="181" column="20" />
-        <mark key="." line="181" column="20" />
-        <mark key="^" line="181" column="20" />
+      <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Table.java" timestamp="1488262696316">
+        <mark key="'" line="175" column="0" />
+        <mark key="[" line="201" column="40" />
+        <mark key="]" line="201" column="40" />
+        <mark key="." line="201" column="40" />
+        <mark key="^" line="201" column="40" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/ComparisonOperator.java" timestamp="1488238018217">
         <mark key="[" line="7" column="1" />
@@ -166,16 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="34" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" />
-      <jump line="57" column="60" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" />
-      <jump line="97" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" />
-      <jump line="33" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" />
-      <jump line="49" column="15" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" />
-      <jump line="66" column="16" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" />
-      <jump line="84" column="10" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" />
-      <jump line="18" column="30" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" />
-      <jump line="75" column="13" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" />
-      <jump line="4" column="37" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" />
       <jump line="78" column="63" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" />
       <jump line="60" column="11" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" />
       <jump line="44" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" />
@@ -195,7 +185,6 @@
       <jump line="265" column="30" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
       <jump line="38" column="10" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
       <jump line="130" column="10" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
-      <jump line="219" column="22" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
       <jump line="67" column="0" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
       <jump line="301" column="24" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
       <jump line="303" column="32" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
@@ -239,7 +228,6 @@
       <jump line="51" column="20" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Table.java" />
       <jump line="16" column="77" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Table.java" />
       <jump line="48" column="32" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Table.java" />
-      <jump line="132" column="29" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
       <jump line="136" column="63" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
       <jump line="138" column="58" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
       <jump line="143" column="63" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
@@ -252,7 +240,6 @@
       <jump line="423" column="24" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
       <jump line="175" column="26" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
       <jump line="536" column="49" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
-      <jump line="115" column="18" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
       <jump line="577" column="31" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
       <jump line="116" column="21" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
       <jump line="119" column="21" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
@@ -266,31 +253,44 @@
       <jump line="63" column="16" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Table.java" />
       <jump line="176" column="17" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Table.java" />
       <jump line="179" column="18" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Table.java" />
+      <jump line="33" column="16" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
+      <jump line="111" column="7" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
+      <jump line="113" column="33" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
+      <jump line="175" column="0" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Table.java" />
+      <jump line="189" column="16" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
+      <jump line="153" column="16" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
+      <jump line="392" column="46" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
+      <jump line="219" column="6" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
+      <jump line="132" column="16" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
+      <jump line="435" column="31" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
+      <jump line="541" column="29" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
+      <jump line="547" column="49" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
+      <jump line="115" column="24" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>;</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>columnSlice</text>
+        <text>select</text>
       </register>
-      <register name="0" type="4">
-        <text>0, 2, 4, 6</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBWYWx1ZSB3cmFwcGVkTGl0ZXJhbCA9IG51bGw7CgogICAgICAgIHN3aXRjaChjMS5nZXRUeXBlKCkpIHsKICAgICAgICAgICAgY2FzZSAic3RyaW5nIjoKICAgICAgICAgICAgICAgIHdyYXBwZWRMaXRlcmFsID0gbmV3IFZhbHVlPD4obGl0ZXJhbCk7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgY2FzZSAiaW50IjoKICAgICAgICAgICAgICAgIHdyYXBwZWRMaXRlcmFsID0gbmV3IFZhbHVlPD4oSW50ZWdlci5wYXJzZUludChsaXRlcmFsKSk7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgY2FzZSAiZmxvYXQiOgogICAgICAgICAgICAgICAgd3JhcHBlZExpdGVyYWwgPSBuZXcgVmFsdWU8PihEb3VibGUucGFyc2VEb3VibGUobGl0ZXJhbCkpOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIGNhc2UgImRlZmF1bHQiOgogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgfQoKICAgICAgICBBcnJheUxpc3Q8SW50ZWdlcj4gZmlsdGVyZWQgPSBuZXcgQXJyYXlMaXN0PD4oKTsKCiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBjMS5zaXplKCk7IGkrKykgewogICAgICAgICAgICBpZiAoY29tcGFyZShjb21wYXJlT3BlcmF0b3IsIGMxLmdldEl0ZW0oaSksIHdyYXBwZWRMaXRlcmFsKSkgewogICAgICAgICAgICAgICAgZmlsdGVyZWQuYWRkKGkpOwogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gZmlsdGVyZWQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogVE9ETyBtYXliZSBpbnRlZ3JhdGUgaW50byBUYWJsZSBjbGFzcz8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -299,25 +299,24 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUYWJsZSBzbGljZSA9IG5ldyBUYWJsZSgiIiwgY29sdW1uTmFtZXMsIGdldFR5cGVzKGNvbHVtbk5hbWVzKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGNvbHVtbikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>columnSlice</last-search>
+      <last-search>select</last-search>
       <last-offset />
-      <last-pattern>columnSlice</last-pattern>
+      <last-pattern>select</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>fillCOunt</entry>
         <entry>next</entry>
         <entry>peek</entry>
         <entry>test</entry>
@@ -332,11 +331,12 @@
         <entry>table</entry>
         <entry>load</entry>
         <entry>getRows</entry>
-        <entry>select</entry>
         <entry>join</entry>
         <entry encoding="base64">XDxnZXRUeXBlc1w+</entry>
         <entry>addCol</entry>
         <entry>columnSlice</entry>
+        <entry>rowSlice</entry>
+        <entry>select</entry>
       </history-search>
       <history-cmd>
         <entry>+10co.</entry>
