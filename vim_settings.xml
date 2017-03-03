@@ -136,12 +136,12 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" timestamp="1488526096838">
-        <mark key="'" line="199" column="26" />
-        <mark key="[" line="553" column="4" />
-        <mark key="]" line="553" column="9" />
-        <mark key="." line="553" column="9" />
-        <mark key="^" line="553" column="9" />
+      <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" timestamp="1488528704034">
+        <mark key="'" line="215" column="41" />
+        <mark key="[" line="562" column="4" />
+        <mark key="]" line="562" column="9" />
+        <mark key="." line="562" column="9" />
+        <mark key="^" line="562" column="9" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Table.java" timestamp="1488523484320">
         <mark key="'" line="200" column="44" />
@@ -173,11 +173,7 @@
         <mark key="^" line="5" column="34" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Parse.java" timestamp="1488526239765">
-        <mark key="'" line="64" column="24" />
-        <mark key="[" line="90" column="84" />
-        <mark key="]" line="90" column="84" />
-        <mark key="." line="90" column="59" />
-        <mark key="^" line="146" column="10" />
+        <mark key="^" line="144" column="10" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Column.java" timestamp="1488517266679">
         <mark key="'" line="1" column="0" />
@@ -202,8 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="16" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
-      <jump line="520" column="27" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
       <jump line="544" column="32" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
       <jump line="688" column="23" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
       <jump line="696" column="23" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
@@ -302,6 +296,8 @@
       <jump line="199" column="26" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
       <jump line="101" column="49" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Parse.java" />
       <jump line="64" column="24" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Parse.java" />
+      <jump line="562" column="24" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
+      <jump line="215" column="41" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -314,7 +310,7 @@
         <text>private</text>
       </register>
       <register name="/" type="4">
-        <text>insert</text>
+        <text>removeQuotes</text>
       </register>
       <register name="0" type="4">
         <text>special.toString().toLowerCase()</text>
@@ -351,9 +347,9 @@
       </register>
     </registers>
     <search>
-      <last-search>insert</last-search>
+      <last-search>removeQuotes</last-search>
       <last-offset />
-      <last-pattern>insert</last-pattern>
+      <last-pattern>removeQuotes</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>0</last-substitute>
       <last-dir>1</last-dir>
@@ -361,7 +357,6 @@
     </search>
     <history>
       <history-search>
-        <entry>printTable</entry>
         <entry>.*</entry>
         <entry encoding="base64">XDw4XD4=</entry>
         <entry encoding="base64">JiY=</entry>
@@ -381,6 +376,7 @@
         <entry>print</entry>
         <entry>load</entry>
         <entry>insert</entry>
+        <entry>removeQuotes</entry>
       </history-search>
       <history-cmd>
         <entry>+10co.</entry>
