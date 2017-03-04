@@ -142,18 +142,26 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" timestamp="1488608133135">
-        <mark key="'" line="900" column="0" />
-        <mark key="[" line="913" column="63" />
-        <mark key="]" line="913" column="115" />
-        <mark key="." line="913" column="63" />
-        <mark key="^" line="913" column="62" />
+      <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" timestamp="1488611966400">
+        <mark key="'" line="574" column="41" />
+        <mark key="[" line="235" column="17" />
+        <mark key="]" line="235" column="38" />
+        <mark key="." line="235" column="38" />
+        <mark key="^" line="235" column="38" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Table.java" timestamp="1488608924159">
-        <mark key="'" line="72" column="63" />
-        <mark key="[" line="268" column="60" />
-        <mark key="]" line="268" column="60" />
-        <mark key="." line="268" column="60" />
+      <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/TypeMismatchException.java" timestamp="1488611423319">
+        <mark key="'" line="6" column="50" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="5" column="59" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Table.java" timestamp="1488611527059">
+        <mark key="'" line="83" column="27" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="^" line="126" column="53" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/ComparisonOperator.java" timestamp="1488238018217">
         <mark key="[" line="7" column="1" />
@@ -164,12 +172,12 @@
       <file name="$USER_HOME$/school/CS/61B/CS61B/javalib/junit-4.12.jar!/org/junit/Assert.class" timestamp="1488235361892">
         <mark key="'" line="45" column="23" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Value.java" timestamp="1488609535430">
+      <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Value.java" timestamp="1488610847611">
         <mark key="'" line="113" column="78" />
-        <mark key="[" line="145" column="33" />
-        <mark key="]" line="145" column="23" />
-        <mark key="." line="145" column="23" />
-        <mark key="^" line="145" column="23" />
+        <mark key="[" line="122" column="20" />
+        <mark key="]" line="122" column="21" />
+        <mark key="." line="122" column="21" />
+        <mark key="^" line="130" column="89" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/TableEntry.java" timestamp="1488227490255">
         <mark key="[" line="5" column="28" />
@@ -207,13 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="734" column="15" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
-      <jump line="298" column="22" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
-      <jump line="735" column="15" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
-      <jump line="337" column="34" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Table.java" />
-      <jump line="203" column="18" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Table.java" />
-      <jump line="207" column="50" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Table.java" />
-      <jump line="217" column="61" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Table.java" />
       <jump line="752" column="15" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
       <jump line="664" column="33" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
       <jump line="39" column="16" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Table.java" />
@@ -307,6 +308,13 @@
       <jump line="72" column="63" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Table.java" />
       <jump line="113" column="78" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Value.java" />
       <jump line="120" column="0" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Value.java" />
+      <jump line="265" column="31" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Table.java" />
+      <jump line="85" column="65" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Table.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/TypeMismatchException.java" />
+      <jump line="6" column="50" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/TypeMismatchException.java" />
+      <jump line="82" column="13" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Table.java" />
+      <jump line="83" column="27" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Table.java" />
+      <jump line="574" column="41" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -316,31 +324,31 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>Exception</text>
       </register>
       <register name="/" type="4">
-        <text>toString</text>
+        <text>evalExpr</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ewogICAgU1RSSU5HLCBJTlQsIEZMT0FUOwoKICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgICAgICByZXR1cm4gc3VwZXIudG9TdHJpbmcoKS50b0xvd2VyQ2FzZSgpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjaGVja051bWVyaWNhbFR5cGUodHlwZTEsIHR5cGUyKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIChzcGVjaWFsID09IFNwZWNpYWxWYWx1ZS5OYU4gfHwgc3BlY2lhbCA9PSBTcGVjaWFsVmFsdWUuTk9WQUxVRSkKICAgICAgICAgICAgICAgICAgICA/IHNwZWNpYWwudG9TdHJpbmcoKSA6IFN0cmluZy5mb3JtYXQoIiUuM2YiLCAoRG91YmxlKSB2YWx1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjaGVja051bWVyaWNhbFR5cGUodHlwZTEsIHR5cGUyKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAob3RoZXIudHlwZSA9PSBUeXBlLkZMT0FUKSB7CiAgICAgICAgICAgIHJldHVybiBvdGhlci5zdWIodGhpcyk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjaGVja051bWVyaWNhbFR5cGUodHlwZTEsIHR5cGUyKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text>(Double)</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5vbWcuU2VuZGluZ0NvbnRleHQuUnVuVGltZTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -349,16 +357,16 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmltcG9ydCBjb20uc3VuLmNvcmJhLnNlLmltcGwuaW8uVHlwZU1pc21hdGNoRXhjZXB0aW9uOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>toString</last-search>
+      <last-search>evalExpr</last-search>
       <last-offset />
-      <last-pattern>toString</last-pattern>
+      <last-pattern>evalExpr</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>0</last-substitute>
       <last-dir>1</last-dir>
@@ -366,9 +374,6 @@
     </search>
     <history>
       <history-search>
-        <entry>{</entry>
-        <entry>not found</entry>
-        <entry>createTable</entry>
         <entry>create</entry>
         <entry>String</entry>
         <entry>StringJoin</entry>
@@ -386,6 +391,9 @@
         <entry>you are trying</entry>
         <entry>%s</entry>
         <entry>toString</entry>
+        <entry>evalEx</entry>
+        <entry>numerical</entry>
+        <entry>evalExpr</entry>
       </history-search>
       <history-cmd>
         <entry>+10co.</entry>
