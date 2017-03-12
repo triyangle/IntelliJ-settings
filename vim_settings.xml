@@ -54,12 +54,12 @@
         <mark key="^" line="5" column="41" />
         <mark key="." line="5" column="41" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/lab8/lab8/BSTMap.java" timestamp="1489289698294">
-        <mark key="'" line="109" column="8" />
-        <mark key="[" line="198" column="19" />
-        <mark key="]" line="198" column="33" />
-        <mark key="." line="198" column="33" />
-        <mark key="^" line="198" column="33" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/lab8/lab8/BSTMap.java" timestamp="1489292619550">
+        <mark key="'" line="196" column="12" />
+        <mark key="[" line="190" column="42" />
+        <mark key="]" line="190" column="41" />
+        <mark key="." line="190" column="41" />
+        <mark key="^" line="190" column="41" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/TestGuitarString.java" timestamp="1487744465788">
         <mark key="[" line="58" column="0" />
@@ -244,8 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="739" column="42" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
-      <jump line="749" column="34" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
       <jump line="73" column="53" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Table.java" />
       <jump line="29" column="21" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
       <jump line="250" column="21" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
@@ -344,6 +342,8 @@
       <jump line="12" column="21" filename="$USER_HOME$/school/CS/61B/CS61B/lab8/lab8/BSTMap.java" />
       <jump line="109" column="16" filename="$USER_HOME$/school/CS/61B/CS61B/lab8/lab8/BSTMap.java" />
       <jump line="110" column="8" filename="$USER_HOME$/school/CS/61B/CS61B/lab8/lab8/BSTMap.java" />
+      <jump line="186" column="12" filename="$USER_HOME$/school/CS/61B/CS61B/lab8/lab8/BSTMap.java" />
+      <jump line="34" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/lab8/lab8/BSTMap.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -353,7 +353,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>children(current)</text>
+        <text>void</text>
       </register>
       <register name="/" type="4">
         <text>put</text>
@@ -362,7 +362,7 @@
         <text encoding="base64">ICAgICAgICBudW1DaGlsZHJlbiArPSBuLnJpZ2h0ICE9IG51bGwgPyAxIDogMDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -371,25 +371,25 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBuLnJpZ2h0Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjaGlsZE5vZGVzLmFkZCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
