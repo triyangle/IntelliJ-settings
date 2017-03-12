@@ -54,12 +54,12 @@
         <mark key="^" line="5" column="41" />
         <mark key="." line="5" column="41" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/lab8/lab8/BSTMap.java" timestamp="1489288622403">
-        <mark key="'" line="177" column="19" />
-        <mark key="[" line="198" column="23" />
-        <mark key="]" line="200" column="0" />
-        <mark key="." line="200" column="0" />
-        <mark key="^" line="200" column="27" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/lab8/lab8/BSTMap.java" timestamp="1489289698294">
+        <mark key="'" line="109" column="8" />
+        <mark key="[" line="198" column="19" />
+        <mark key="]" line="198" column="33" />
+        <mark key="." line="198" column="33" />
+        <mark key="^" line="198" column="33" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/TestGuitarString.java" timestamp="1487744465788">
         <mark key="[" line="58" column="0" />
@@ -244,8 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="251" column="21" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
-      <jump line="457" column="23" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
       <jump line="739" column="42" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
       <jump line="749" column="34" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" />
       <jump line="73" column="53" filename="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Table.java" />
@@ -341,9 +339,11 @@
       <jump line="25" column="45" filename="$USER_HOME$/school/CS/61B/CS61B/lab8/lab8/BSTMap.java" />
       <jump line="28" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/lab8/lab8/BSTMap.java" />
       <jump line="168" column="31" filename="$USER_HOME$/school/CS/61B/CS61B/lab8/lab8/BSTMap.java" />
-      <jump line="12" column="17" filename="$USER_HOME$/school/CS/61B/CS61B/lab8/lab8/BSTMap.java" />
       <jump line="171" column="19" filename="$USER_HOME$/school/CS/61B/CS61B/lab8/lab8/BSTMap.java" />
       <jump line="40" column="16" filename="$USER_HOME$/school/CS/61B/CS61B/lab8/lab8/BSTMap.java" />
+      <jump line="12" column="21" filename="$USER_HOME$/school/CS/61B/CS61B/lab8/lab8/BSTMap.java" />
+      <jump line="109" column="16" filename="$USER_HOME$/school/CS/61B/CS61B/lab8/lab8/BSTMap.java" />
+      <jump line="110" column="8" filename="$USER_HOME$/school/CS/61B/CS61B/lab8/lab8/BSTMap.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -353,52 +353,52 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>children(current)</text>
       </register>
       <register name="/" type="4">
-        <text>keyset</text>
+        <text>put</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudCArPSBuLmxlZnQgIT0gbnVsbCA/IDEgOiAwOwo=</text>
+        <text encoding="base64">ICAgICAgICBudW1DaGlsZHJlbiArPSBuLnJpZ2h0ICE9IG51bGwgPyAxIDogMDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXJlbnQubgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG51bWJlck9mQ2hpbGRyZW4ocGFyZW50KSA9PSAwCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjaGlsZE5vZGVzLmFkZCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>keyset</last-search>
+      <last-search>put</last-search>
       <last-offset />
-      <last-pattern>keyset</last-pattern>
+      <last-pattern>put</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>0</last-substitute>
       <last-dir>1</last-dir>
@@ -406,7 +406,6 @@
     </search>
     <history>
       <history-search>
-        <entry>toString</entry>
         <entry>join</entry>
         <entry>copy</entry>
         <entry>addRow</entry>
@@ -426,6 +425,7 @@
         <entry>iterator</entry>
         <entry>BSTMAP</entry>
         <entry>keyset</entry>
+        <entry>put</entry>
       </history-search>
       <history-cmd>
         <entry>277</entry>
