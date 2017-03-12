@@ -54,12 +54,12 @@
         <mark key="^" line="5" column="41" />
         <mark key="." line="5" column="41" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/lab8/lab8/BSTMap.java" timestamp="1489287373127">
+      <file name="$USER_HOME$/school/CS/61B/CS61B/lab8/lab8/BSTMap.java" timestamp="1489288622403">
         <mark key="'" line="177" column="19" />
-        <mark key="[" line="196" column="16" />
-        <mark key="]" line="197" column="11" />
-        <mark key="." line="197" column="11" />
-        <mark key="^" line="197" column="11" />
+        <mark key="[" line="198" column="23" />
+        <mark key="]" line="200" column="0" />
+        <mark key="." line="200" column="0" />
+        <mark key="^" line="200" column="27" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/TestGuitarString.java" timestamp="1487744465788">
         <mark key="[" line="58" column="0" />
@@ -353,34 +353,34 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>keyset</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0TWFwLnB1dCgiWiIsIDEpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb3VudCArPSBuLmxlZnQgIT0gbnVsbCA/IDEgOiAwOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXJlbnQubgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG51bWJlck9mQ2hpbGRyZW4ocGFyZW50KSA9PSAwCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
