@@ -23,7 +23,9 @@
         <mark key="^" line="5" column="41" />
         <mark key="." line="5" column="41" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/hw2/hw2/PercolationVisualizer.java" timestamp="1489467466770" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/hw2/hw2/PercolationVisualizer.java" timestamp="1489475836189">
+        <mark key="'" line="38" column="27" />
+      </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/lab8/lab8/InsertRandomSpeedTest.java" timestamp="1489278968048">
         <mark key="'" line="52" column="28" />
       </file>
@@ -44,8 +46,8 @@
       <file name="$USER_HOME$/school/CS/61B/CS61B/lab8/lab8/Map61B.java" timestamp="1489301184037">
         <mark key="'" line="33" column="51" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/hw2/hw2/InteractivePercolationVisualizer.java" timestamp="1489467345916">
-        <mark key="'" line="26" column="16" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/hw2/hw2/InteractivePercolationVisualizer.java" timestamp="1489475049903">
+        <mark key="'" line="32" column="8" />
         <mark key="[" line="21" column="31" />
         <mark key="]" line="21" column="30" />
         <mark key="^" line="21" column="30" />
@@ -81,12 +83,12 @@
         <mark key="^" line="23" column="3" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/hw2/hw2/Percolation.java" timestamp="1489473786936">
-        <mark key="'" line="27" column="15" />
-        <mark key="[" line="45" column="9" />
-        <mark key="]" line="47" column="24" />
-        <mark key="." line="47" column="24" />
-        <mark key="^" line="47" column="24" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/hw2/hw2/Percolation.java" timestamp="1489479175712">
+        <mark key="'" line="110" column="27" />
+        <mark key="[" line="12" column="37" />
+        <mark key="]" line="12" column="37" />
+        <mark key="." line="12" column="37" />
+        <mark key="^" line="12" column="37" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/TableComparator.java" timestamp="1488233692685">
         <mark key="'" line="9" column="0" />
@@ -151,11 +153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/lab8/lab8/BSTMap.java" />
-      <jump line="29" column="12" filename="$USER_HOME$/school/CS/61B/CS61B/lab8/lab8/InsertRandomSpeedTest.java" />
-      <jump line="30" column="28" filename="$USER_HOME$/school/CS/61B/CS61B/lab8/lab8/InsertRandomSpeedTest.java" />
-      <jump line="107" column="22" filename="$USER_HOME$/school/CS/61B/CS61B/lab8/lab8/InsertRandomSpeedTest.java" />
-      <jump line="52" column="28" filename="$USER_HOME$/school/CS/61B/CS61B/lab8/lab8/InsertRandomSpeedTest.java" />
       <jump line="16" column="16" filename="$USER_HOME$/school/CS/61B/CS61B/lab8/lab8/StringUtils.java" />
       <jump line="43" column="12" filename="$USER_HOME$/school/CS/61B/CS61B/lab8/lab8/StringUtils.java" />
       <jump line="76" column="26" filename="$USER_HOME$/school/CS/61B/CS61B/lab8/lab8/StringUtils.java" />
@@ -250,7 +247,12 @@
       <jump line="8" column="6" filename="$USER_HOME$/school/CS/61B/CS61B/hw2/hw2/Percolation.java" />
       <jump line="0" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw2/hw2/Percolation.java" />
       <jump line="68" column="10" filename="$USER_HOME$/school/CS/61B/CS61B/hw2/hw2/Percolation.java" />
-      <jump line="25" column="15" filename="$USER_HOME$/school/CS/61B/CS61B/hw2/hw2/Percolation.java" />
+      <jump line="73" column="23" filename="$USER_HOME$/school/CS/61B/CS61B/hw2/hw2/Percolation.java" />
+      <jump line="25" column="20" filename="$USER_HOME$/school/CS/61B/CS61B/hw2/hw2/Percolation.java" />
+      <jump line="64" column="26" filename="$USER_HOME$/school/CS/61B/CS61B/hw2/hw2/Percolation.java" />
+      <jump line="32" column="8" filename="$USER_HOME$/school/CS/61B/CS61B/hw2/hw2/InteractivePercolationVisualizer.java" />
+      <jump line="101" column="27" filename="$USER_HOME$/school/CS/61B/CS61B/hw2/hw2/Percolation.java" />
+      <jump line="38" column="27" filename="$USER_HOME$/school/CS/61B/CS61B/hw2/hw2/PercolationVisualizer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -260,43 +262,43 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>wquuf</text>
       </register>
       <register name="/" type="4">
         <text>insertItera</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmVpZ2hib3JzLmFkZChkaW1lbnNpb25SZWR1Y3Rpb24ocm93IC0gMSwgY29sKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBUT1AgPSBOICogTiArIDE7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">LyogICAgICAgIGZvciAoaW50IG5laWdoYm9yIDogbmVpZ2hib3JzKHJvdywgY29sKSkgewogICAgICAgICAgICB3cXV1Zi51bmlvbihjb252ZXJ0ZWQsIG5laWdoYm9yKTsKICAgICAgICB9Ki8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4od3F1dWYuKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmVpZ2hib3JzLmFkZChkaW1lbnNpb25SZWR1Y3Rpb24ocm93ICsgMSwgY29sKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
