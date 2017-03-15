@@ -107,12 +107,12 @@
         <mark key="." line="268" column="18" />
         <mark key="^" line="268" column="18" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/hw2/hw2/PercolationStats.java" timestamp="1489530031649">
-        <mark key="'" line="19" column="24" />
-        <mark key="[" line="13" column="52" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="15" column="11" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/hw2/hw2/PercolationStats.java" timestamp="1489530831161">
+        <mark key="'" line="16" column="19" />
+        <mark key="[" line="14" column="42" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="16" column="26" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Main.java" timestamp="1488751624183">
         <mark key="'" line="16" column="47" />
@@ -154,7 +154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="17" filename="$USER_HOME$/school/CS/61B/CS61B/lab8/lab8/Map61B.java" />
       <jump line="61" column="34" filename="$USER_HOME$/school/CS/61B/CS61B/lab8/lab8/ULLMap.java" />
       <jump line="102" column="11" filename="$USER_HOME$/school/CS/61B/CS61B/lab8/lab8/ULLMap.java" />
       <jump line="103" column="11" filename="$USER_HOME$/school/CS/61B/CS61B/lab8/lab8/ULLMap.java" />
@@ -254,6 +253,7 @@
       <jump line="14" column="24" filename="$USER_HOME$/school/CS/61B/CS61B/hw2/hw2/PercolationStats.java" />
       <jump line="171" column="25" filename="$USER_HOME$/school/CS/61B/CS61B/javalib/stdlib-package.jar!/edu/princeton/cs/introcs/StdStats.java" />
       <jump line="195" column="21" filename="$USER_HOME$/school/CS/61B/CS61B/javalib/stdlib-package.jar!/edu/princeton/cs/introcs/StdStats.java" />
+      <jump line="15" column="19" filename="$USER_HOME$/school/CS/61B/CS61B/hw2/hw2/PercolationStats.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -272,34 +272,34 @@
         <text encoding="base64">ICAgICAgICBwZXJjb2xhdGlvbiA9IG5ldyBXZWlnaHRlZFF1aWNrVW5pb25VRihOICogTiArIDIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghc2FtcGxlKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICFzYW1wbGUub3BlbigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNhbXBsZS5vcGVuKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2FtcGxlLm9wZW4oKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
