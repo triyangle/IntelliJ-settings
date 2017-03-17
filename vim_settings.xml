@@ -35,11 +35,12 @@
       <file name="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9tester/TestMyHashMapExtra.java" timestamp="1489721109464">
         <mark key="'" line="9" column="13" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" timestamp="1489724015273">
-        <mark key="'" line="63" column="4" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" timestamp="1489725708189">
+        <mark key="'" line="79" column="46" />
+        <mark key="[" line="60" column="28" />
+        <mark key="]" line="61" column="29" />
+        <mark key="." line="61" column="29" />
+        <mark key="^" line="61" column="29" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/ULLMap.java" timestamp="1489723460877">
         <mark key="'" line="41" column="43" />
@@ -141,12 +142,6 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="39" column="25" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/Database.java" timestamp="1488753038612">
-        <mark key="'" line="292" column="36" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9tester/TestMyHashMap.java" timestamp="1489721106408">
         <mark key="'" line="146" column="0" />
       </file>
@@ -208,8 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw2/hw2/Percolation.java" />
-      <jump line="4" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw2/hw2/Percolation.java" />
       <jump line="20" column="26" filename="$USER_HOME$/school/CS/61B/CS61B/hw2/hw2/Percolation.java" />
       <jump line="70" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw2/hw2/Percolation.java" />
       <jump line="8" column="6" filename="$USER_HOME$/school/CS/61B/CS61B/hw2/hw2/Percolation.java" />
@@ -308,6 +301,8 @@
       <jump line="84" column="14" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/ULLMap.java" />
       <jump line="41" column="43" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/ULLMap.java" />
       <jump line="35" column="4" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
+      <jump line="52" column="22" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
+      <jump line="76" column="46" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -317,7 +312,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text>add</text>
@@ -326,28 +321,28 @@
         <text encoding="base64">ICAgICAgICBFbnRyeSBnZXQoSyBrKSB7CiAgICAgICAgICAgIGlmIChrICE9IG51bGwgJiYgay5lcXVhbHMoa2V5KSkgewogICAgICAgICAgICAgICAgcmV0dXJuIHRoaXM7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKG5leHQgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIG5leHQuZ2V0KGspOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlua2VkTGlzdFtdIGJ1Y2tldHM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBidWNrZXRzID0gbmV3IAo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN5Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBidWMK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGlmIChrICE9IG51bGwgJiYgay5lcXVhbHMoa2V5KSkgewogICAgICAgICAgICAgICAgcmV0dXJuIHRoaXM7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKG5leHQgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIG5leHQuZ2V0KGspOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
@@ -408,9 +403,9 @@
         <entry>41</entry>
         <entry>12</entry>
         <entry>98</entry>
-        <entry>W</entry>
         <entry>q</entry>
         <entry>vsp</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
