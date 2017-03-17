@@ -35,12 +35,12 @@
       <file name="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9tester/TestMyHashMapExtra.java" timestamp="1489721109464">
         <mark key="'" line="9" column="13" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" timestamp="1489739508003">
-        <mark key="'" line="7" column="10" />
-        <mark key="[" line="126" column="31" />
-        <mark key="]" line="127" column="19" />
-        <mark key="^" line="127" column="19" />
-        <mark key="." line="127" column="19" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" timestamp="1489772375695">
+        <mark key="'" line="114" column="12" />
+        <mark key="[" line="104" column="12" />
+        <mark key="]" line="104" column="24" />
+        <mark key="^" line="104" column="24" />
+        <mark key="." line="104" column="24" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/ULLMap.java" timestamp="1489738749124">
         <mark key="'" line="16" column="28" />
@@ -203,7 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="27" filename="$USER_HOME$/school/CS/61B/CS61B/hw2/hw2/PercolationStats.java" />
       <jump line="54" column="34" filename="$USER_HOME$/school/CS/61B/CS61B/hw2/hw2/PercolationStats.java" />
       <jump line="58" column="35" filename="$USER_HOME$/school/CS/61B/CS61B/hw2/hw2/PercolationStats.java" />
       <jump line="5" column="30" filename="$USER_HOME$/school/CS/61B/CS61B/hw2/hw2/PercolationStats.java" />
@@ -303,6 +302,7 @@
       <jump line="16" column="28" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/ULLMap.java" />
       <jump line="18" column="28" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
       <jump line="7" column="10" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
+      <jump line="114" column="12" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -312,7 +312,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>result</text>
       </register>
       <register name="/" type="4">
         <text>clear</text>
@@ -321,34 +321,35 @@
         <text encoding="base64">ICAgICAgICBidWNrZXRzID0gKEVudHJ5W10pIG5ldyBPYmplY3RbaW5pdGlhbFNpemVdOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBidWNrZXRzID0gKEFycmF5TGlzdDxFbnRyeT5bXSkgbmV3IE9iamVjdFtpbml0aWFsU2l6ZV07Cg==</text>
+        <text encoding="base64">ICAgICAgICBFbnRyeTxLLCBWPiByZXN1bHQgPSBidWNrZXRzW2hhc2hdLmdldChrZXkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBidWNrZXRzID0gKEVudHJ5PltdKSBuZXcgT2JqZWN0W25ld1NpemVdOwo=</text>
+        <text encoding="base64">ICAgICAgICBFbnRyeTxLLCBWPiByZXN1bHQgPSBidWNrZXRzW2hhc2hdLmdldChrZXkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV4dCA9IG47Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">LyogICAgcHJpdmF0ZSBjbGFzcyBFbnRyeSB7CiAgICAgICAgSyBrZXk7CiAgICAgICAgViB2YWx1ZTsqLwo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBBcnJheXMuc3RyZWFtKHRlbXApCiAgICAgICAgICAgICAgICAuZm9yRWFjaChsc3QgLT4KICAgICAgICAgICAgICAgICAgICAgICAgbHN0LmZvckVhY2goZW50cnkgLT4gcHV0KGVudHJ5LmtleSwgZW50cnkudmFsdWUpKSk7Cg==</text>
+      </register>
+      <register name="7" type="8">
+        <text>//
+//</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
