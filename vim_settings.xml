@@ -35,12 +35,12 @@
       <file name="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9tester/TestMyHashMapExtra.java" timestamp="1489721109464">
         <mark key="'" line="9" column="13" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" timestamp="1489727721271">
+      <file name="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" timestamp="1489728601811">
         <mark key="'" line="79" column="46" />
-        <mark key="[" line="49" column="28" />
-        <mark key="]" line="49" column="28" />
-        <mark key="." line="49" column="28" />
-        <mark key="^" line="49" column="28" />
+        <mark key="[" line="96" column="17" />
+        <mark key="]" line="96" column="17" />
+        <mark key="." line="96" column="17" />
+        <mark key="^" line="96" column="63" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/ULLMap.java" timestamp="1489723460877">
         <mark key="'" line="41" column="43" />
@@ -312,7 +312,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">LyA=</text>
       </register>
       <register name="/" type="4">
         <text>add</text>
