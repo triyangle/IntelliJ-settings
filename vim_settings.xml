@@ -35,12 +35,12 @@
       <file name="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9tester/TestMyHashMapExtra.java" timestamp="1489721109464">
         <mark key="'" line="9" column="13" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" timestamp="1489725708189">
+      <file name="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" timestamp="1489727721271">
         <mark key="'" line="79" column="46" />
-        <mark key="[" line="60" column="28" />
-        <mark key="]" line="61" column="29" />
-        <mark key="." line="61" column="29" />
-        <mark key="^" line="61" column="29" />
+        <mark key="[" line="49" column="28" />
+        <mark key="]" line="49" column="28" />
+        <mark key="." line="49" column="28" />
+        <mark key="^" line="49" column="28" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/ULLMap.java" timestamp="1489723460877">
         <mark key="'" line="41" column="43" />
@@ -312,7 +312,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>add</text>
@@ -321,34 +321,34 @@
         <text encoding="base64">ICAgICAgICBFbnRyeSBnZXQoSyBrKSB7CiAgICAgICAgICAgIGlmIChrICE9IG51bGwgJiYgay5lcXVhbHMoa2V5KSkgewogICAgICAgICAgICAgICAgcmV0dXJuIHRoaXM7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKG5leHQgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIG5leHQuZ2V0KGspOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzKGluaXRpYWxTaXplKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN5Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaXplID0gaW5pdGlhbFNpemU7CiAgICAgICAgYnVja2V0cyA9IChFbnRyeVtdKSBuZXcgT2JqZWN0W2luaXRpYWxTaXplXTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBMT0FERkFDVE9SID0gMjsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
