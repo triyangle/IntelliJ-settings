@@ -32,14 +32,15 @@
       <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/examples/records.tbl" timestamp="1488513396414">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9tester/TestMyHashMapExtra.java" timestamp="1489777029151">
+      <file name="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9tester/TestMyHashMapExtra.java" timestamp="1489795864247">
         <mark key="'" line="22" column="29" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" timestamp="1489794001519">
-        <mark key="'" line="121" column="32" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" timestamp="1489795470199">
+        <mark key="'" line="93" column="18" />
+        <mark key="[" line="63" column="8" />
+        <mark key="]" line="63" column="8" />
+        <mark key="^" line="90" column="47" />
+        <mark key="." line="63" column="8" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/ULLMap.java" timestamp="1489775954725">
         <mark key="'" line="1" column="17" />
@@ -50,6 +51,9 @@
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/AbstractCollection.java" timestamp="1489721856364">
         <mark key="'" line="343" column="16" />
+      </file>
+      <file name="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/InsertRandomSpeedTest.java" timestamp="1489796582610">
+        <mark key="'" line="78" column="63" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/ArrayRingBuffer.java" timestamp="1487747741005">
         <mark key="'" line="59" column="0" />
@@ -94,7 +98,7 @@
       <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/ComparisonException.java" timestamp="1488751615033">
         <mark key="'" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/StringUtils.java" timestamp="1489721095288">
+      <file name="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/StringUtils.java" timestamp="1489795919082">
         <mark key="'" line="80" column="0" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw1/synthesizer/TestArrayRingBuffer.java" timestamp="1487743230233">
@@ -141,8 +145,8 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="39" column="25" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9tester/TestMyHashMap.java" timestamp="1489774408494">
-        <mark key="'" line="88" column="14" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9tester/TestMyHashMap.java" timestamp="1489795784653">
+        <mark key="'" line="94" column="26" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/TypeMismatchException.java" timestamp="1488611423319">
         <mark key="'" line="6" column="50" />
@@ -202,21 +206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw2/hw2/PercolationStats.java" />
-      <jump line="11" column="13" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/InsertInOrderSpeedTest.java" />
-      <jump line="7" column="13" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/StringUtils.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/StringUtils.java" />
-      <jump line="80" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/StringUtils.java" />
-      <jump line="8" column="13" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9tester/TestMyHashMap.java" />
-      <jump line="146" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9tester/TestMyHashMap.java" />
-      <jump line="9" column="13" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9tester/TestMyHashMapExtra.java" />
-      <jump line="32" column="4" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
-      <jump line="9" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
-      <jump line="22" column="28" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/Map61B.java" />
-      <jump line="68" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
-      <jump line="103" column="11" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/HashSet.java" />
-      <jump line="37" column="8" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/HashSet.java" />
-      <jump line="343" column="16" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/AbstractCollection.java" />
       <jump line="118" column="8" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/HashSet.java" />
       <jump line="206" column="7" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/HashSet.java" />
       <jump line="207" column="22" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/HashSet.java" />
@@ -233,7 +222,6 @@
       <jump line="35" column="4" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
       <jump line="52" column="22" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
       <jump line="63" column="17" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
-      <jump line="97" column="29" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
       <jump line="25" column="10" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
       <jump line="90" column="4" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
       <jump line="79" column="31" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
@@ -250,7 +238,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
       <jump line="125" column="30" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
       <jump line="15" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
-      <jump line="115" column="5" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
       <jump line="160" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
       <jump line="58" column="29" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
       <jump line="140" column="10" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
@@ -259,7 +246,6 @@
       <jump line="154" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
       <jump line="153" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
       <jump line="146" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
-      <jump line="144" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
       <jump line="139" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
       <jump line="111" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
       <jump line="77" column="23" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
@@ -289,8 +275,6 @@
       <jump line="156" column="29" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
       <jump line="187" column="39" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
       <jump line="123" column="15" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
-      <jump line="132" column="60" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
-      <jump line="22" column="29" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9tester/TestMyHashMapExtra.java" />
       <jump line="176" column="34" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
       <jump line="38" column="32" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
       <jump line="66" column="19" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
@@ -302,6 +286,26 @@
       <jump line="50" column="43" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
       <jump line="62" column="43" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
       <jump line="121" column="32" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
+      <jump line="173" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
+      <jump line="27" column="14" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9tester/TestMyHashMap.java" />
+      <jump line="115" column="16" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
+      <jump line="53" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
+      <jump line="54" column="16" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
+      <jump line="132" column="33" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
+      <jump line="14" column="26" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
+      <jump line="133" column="12" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
+      <jump line="47" column="37" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
+      <jump line="55" column="20" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
+      <jump line="97" column="18" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
+      <jump line="22" column="29" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9tester/TestMyHashMapExtra.java" />
+      <jump line="144" column="13" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/MyHashMap.java" />
+      <jump line="18" column="12" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9tester/TestMyHashMap.java" />
+      <jump line="94" column="26" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9tester/TestMyHashMap.java" />
+      <jump line="93" column="30" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/InsertRandomSpeedTest.java" />
+      <jump line="60" column="30" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/InsertRandomSpeedTest.java" />
+      <jump line="77" column="29" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/InsertRandomSpeedTest.java" />
+      <jump line="48" column="25" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/InsertRandomSpeedTest.java" />
+      <jump line="78" column="63" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/InsertRandomSpeedTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -311,52 +315,52 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>this.</text>
       </register>
       <register name="/" type="4">
-        <text>ArrayList</text>
+        <text>put</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgViByZW1vdmUoTGlzdDxFbnRyeT4gYnVja2V0LCBLIGtleSkgewogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgYnVja2V0LnNpemUoKTsgaSsrKSB7CiAgICAgICAgICAgIGlmIChidWNrZXQuZ2V0KGkpLmtleS5lcXVhbHMoa2V5KSkgewogICAgICAgICAgICAgICAgRW50cnkgcmVtb3ZlZCA9IGJ1Y2tldC5yZW1vdmUoaSk7CiAgICAgICAgICAgICAgICByZXR1cm4gcmVtb3ZlZC52YWw7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWRkRW50cnkoYnVja2V0c1toYXNoXSwga2V5LCB2YWx1ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50IG5leHRQcmltZShpbnQgbikgewogICAgICAgIAogICAgfQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2IHJlbW92ZQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBWIHJlbW92ZWQgPSBidWNrZXRzW2hhc2hdLnJlbW92ZShrZXksIHZhbHVlKS52YWw7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZ2V0Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgKEVudHJ5IGVudHJ5IDogYnVja2V0KSB7CiAgICAgICAgICAgIGlmIChlbnRyeS5rZXkuZXF1YWxzKGtleSkpIHsKICAgICAgICAgICAgICAgIHJldHVybiBlbnRyeS52YWw7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBFbnRyeSByZW1vdmVkID0gYnVja2V0c1toYXNoXS5yZW1vdmUoKTsK</text>
+        <text />
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ArrayList</last-search>
+      <last-search>put</last-search>
       <last-offset />
-      <last-pattern>ArrayList</last-pattern>
+      <last-pattern>put</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>0</last-substitute>
       <last-dir>1</last-dir>
@@ -364,7 +368,6 @@
     </search>
     <history>
       <history-search>
-        <entry>put</entry>
         <entry>min</entry>
         <entry>remove</entry>
         <entry>n.right</entry>
@@ -379,11 +382,12 @@
         <entry>add</entry>
         <entry>size</entry>
         <entry>Iterator</entry>
-        <entry>clear</entry>
         <entry>iterator</entry>
         <entry>containsKey</entry>
         <entry>ArrayLlist</entry>
         <entry>ArrayList</entry>
+        <entry>clear</entry>
+        <entry>put</entry>
       </history-search>
       <history-cmd>
         <entry>373</entry>
