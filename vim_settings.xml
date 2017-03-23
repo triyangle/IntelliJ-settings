@@ -42,6 +42,13 @@
         <mark key="^" line="90" column="47" />
         <mark key="." line="63" column="8" />
       </file>
+      <file name="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Solver.java" timestamp="1490244623286">
+        <mark key="'" line="18" column="7" />
+        <mark key="[" line="2" column="29" />
+        <mark key="]" line="2" column="35" />
+        <mark key="^" line="2" column="35" />
+        <mark key="." line="2" column="35" />
+      </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/ULLMap.java" timestamp="1489775954725">
         <mark key="'" line="1" column="17" />
         <mark key="[" line="72" column="0" />
@@ -211,7 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="206" column="7" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/HashSet.java" />
       <jump line="207" column="22" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/HashSet.java" />
       <jump line="213" column="30" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/HashSet.java" />
       <jump line="217" column="19" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/src.zip!/java/util/HashSet.java" />
@@ -311,6 +317,7 @@
       <jump line="48" column="25" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/InsertRandomSpeedTest.java" />
       <jump line="78" column="63" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/InsertRandomSpeedTest.java" />
       <jump line="53" column="30" filename="$USER_HOME$/school/CS/61B/CS61B/lab9/lab9/InsertInOrderSpeedTest.java" />
+      <jump line="16" column="7" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Solver.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -335,28 +342,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZ2V0Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKEVudHJ5IGVudHJ5IDogYnVja2V0KSB7CiAgICAgICAgICAgIGlmIChlbnRyeS5rZXkuZXF1YWxzKGtleSkpIHsKICAgICAgICAgICAgICAgIHJldHVybiBlbnRyeS52YWw7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
