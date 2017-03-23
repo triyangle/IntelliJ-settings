@@ -62,6 +62,11 @@
         <mark key="^" line="75" column="63" />
         <mark key="." line="74" column="0" />
       </file>
+      <file name="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/WorldState.java" timestamp="1490233356447">
+        <mark key="[" line="11" column="44" />
+        <mark key="]" line="11" column="45" />
+        <mark key="." line="11" column="45" />
+      </file>
       <file name="$USER_HOME$/school/CS/61B/projects/proj2/proj2/db/NameException.java" timestamp="1488751611885">
         <mark key="'" line="5" column="41" />
         <mark key="[" line="5" column="35" />
@@ -324,7 +329,7 @@
         <text encoding="base64">ICAgICAgICAgICAgYWRkRW50cnkoYnVja2V0c1toYXNoXSwga2V5LCB2YWx1ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -333,25 +338,25 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZ2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZ2V0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKEVudHJ5IGVudHJ5IDogYnVja2V0KSB7CiAgICAgICAgICAgIGlmIChlbnRyeS5rZXkuZXF1YWxzKGtleSkpIHsKICAgICAgICAgICAgICAgIHJldHVybiBlbnRyeS52YWw7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKEVudHJ5IGVudHJ5IDogYnVja2V0KSB7CiAgICAgICAgICAgIGlmIChlbnRyeS5rZXkuZXF1YWxzKGtleSkpIHsKICAgICAgICAgICAgICAgIHJldHVybiBlbnRyeS52YWw7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
