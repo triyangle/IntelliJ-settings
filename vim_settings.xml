@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Solver.java" timestamp="1490259244315">
-        <mark key="'" line="55" column="66" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Solver.java" timestamp="1490327499747">
+        <mark key="'" line="35" column="8" />
         <mark key="[" line="55" column="57" />
         <mark key="]" line="55" column="57" />
         <mark key="." line="55" column="57" />
@@ -13,44 +13,49 @@
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/WorldState.java" timestamp="1490257177993">
         <mark key="'" line="11" column="15" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Word.java" timestamp="1490318821230">
-        <mark key="'" line="11" column="25" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Word.java" timestamp="1490329216290">
+        <mark key="'" line="77" column="16" />
+        <mark key="[" line="48" column="7" />
+        <mark key="]" line="48" column="56" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/WordPuzzleSolver.java" timestamp="1490258418586">
-        <mark key="'" line="17" column="36" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/WordPuzzleSolver.java" timestamp="1490327503594">
+        <mark key="'" line="13" column="24" />
         <mark key="[" line="24" column="19" />
         <mark key="]" line="24" column="19" />
         <mark key="." line="24" column="19" />
         <mark key="^" line="24" column="19" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/EightPuzzleSolver.java" timestamp="1490318900719" />
-      <file name="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Board.java" timestamp="1490319996557">
-        <mark key="'" line="21" column="26" />
-        <mark key="[" line="13" column="9" />
-        <mark key="]" line="14" column="7" />
-        <mark key="." line="14" column="7" />
-        <mark key="^" line="14" column="7" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/EightPuzzleSolver.java" timestamp="1490329998316">
+        <mark key="'" line="20" column="28" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/SearchNode.java" timestamp="1490258923400">
+      <file name="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Board.java" timestamp="1490330449175">
+        <mark key="'" line="64" column="47" />
+        <mark key="[" line="59" column="28" />
+        <mark key="]" line="59" column="29" />
+        <mark key="." line="59" column="29" />
+        <mark key="^" line="77" column="23" />
+      </file>
+      <file name="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/SearchNode.java" timestamp="1490327501737">
+        <mark key="'" line="7" column="15" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="28" column="71" />
       </file>
-      <file name="/fragment.java" timestamp="1490256985653">
+      <file name="/fragment.java" timestamp="1490328613518">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/TestBoard.java" timestamp="1490318930486" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/TestBoard.java" timestamp="1490327506151">
+        <mark key="'" line="6" column="30" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="65" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Solver.java" />
       <jump line="11" column="15" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/WorldState.java" />
       <jump line="17" column="36" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/WordPuzzleSolver.java" />
       <jump line="40" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Solver.java" />
       <jump line="27" column="12" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Solver.java" />
       <jump line="28" column="33" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Solver.java" />
       <jump line="55" column="66" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Solver.java" />
-      <jump line="7" column="15" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/SearchNode.java" />
       <jump line="4" column="3" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Board.java" />
       <jump line="38" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Board.java" />
       <jump line="13" column="26" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Board.java" />
@@ -58,59 +63,92 @@
       <jump line="43" column="8" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Word.java" />
       <jump line="39" column="56" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Word.java" />
       <jump line="11" column="25" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Word.java" />
+      <jump line="50" column="4" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Board.java" />
+      <jump line="58" column="14" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Board.java" />
+      <jump line="50" column="23" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Word.java" />
+      <jump line="101" column="20" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Board.java" />
+      <jump line="85" column="15" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Word.java" />
+      <jump line="35" column="8" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Solver.java" />
+      <jump line="7" column="15" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/SearchNode.java" />
+      <jump line="13" column="24" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/WordPuzzleSolver.java" />
+      <jump line="6" column="30" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/TestBoard.java" />
+      <jump line="25" column="15" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Board.java" />
+      <jump line="22" column="29" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Board.java" />
+      <jump line="61" column="31" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Board.java" />
+      <jump line="19" column="28" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/EightPuzzleSolver.java" />
+      <jump line="12" column="29" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Board.java" />
+      <jump line="20" column="28" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/EightPuzzleSolver.java" />
+      <jump line="21" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Solver.java" />
+      <jump line="54" column="14" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Word.java" />
+      <jump line="55" column="28" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Word.java" />
+      <jump line="77" column="16" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Word.java" />
+      <jump line="104" column="40" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Board.java" />
+      <jump line="85" column="26" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Board.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Board.java" />
+      <jump line="73" column="47" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Board.java" />
+      <jump line="35" column="15" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Board.java" />
+      <jump line="76" column="16" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Board.java" />
+      <jump line="64" column="47" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Board.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>iles</text>
+        <text>BLANK</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnb2FsXD4=</text>
+        <text>BLANK</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBXb3JkIHN0YXJ0U3RhdGUgPSBuZXcgV29yZChzdGFydCwgZ29hbCk7CiAgICAgICAgU29sdmVyIHNvbHZlciA9IG5ldyBTb2x2ZXIoc3RhcnRTdGF0ZSk7CgogICAgICAgIFN0ZE91dC5wcmludGxuKCJNaW5pbXVtIG51bWJlciBvZiBtb3ZlcyA9ICIgKyBzb2x2ZXIubW92ZXMoKSk7CiAgICAgICAgZm9yIChXb3JsZFN0YXRlIHdzIDogc29sdmVyLnNvbHV0aW9uKCkpIHsKICAgICAgICAgICBTdGRPdXQucHJpbnRsbih3cyk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IGdvYWwoaW50IHJvdywgaW50IGNvbCkgewogICAgICAgIHJldHVybiAoKHJvdyA9PSBzaXplKCkgLSAxKSAmJiAoY29sID09IHNpemUoKSAtIDEpKSA/IDAgOiByb3cgKiB2YWx1ZXMubGVuZ3RoICsgY29sICsgMTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludFtdIHJvdyA6KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludFtdIHJvdyA6IHRpbGVzKSB7CiAgICAgICAgICAgIGZvciAoaW50IGkgOiByb3cpIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnRpbGVzID0gOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgezQsIDUsIDZ9LAogICAgICAgICAgICB7NywgOCwgMH19Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnb2FsXD4=</last-search>
+      <last-search>BLANK</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnb2FsXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>BLANK</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>goal</entry>
         <entry encoding="base64">XDxnb2FsXD4=</entry>
+        <entry>estimate</entry>
+        <entry>moves</entry>
+        <entry>manhattn</entry>
+        <entry>manha</entry>
+        <entry>estimated</entry>
+        <entry>BLAnk</entry>
+        <entry>BLANK</entry>
       </history-search>
       <history-cmd>
         <entry>12</entry>
@@ -128,6 +166,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
