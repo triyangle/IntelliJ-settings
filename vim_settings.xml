@@ -28,12 +28,12 @@
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/EightPuzzleSolver.java" timestamp="1490329998316">
         <mark key="'" line="20" column="28" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" timestamp="1490340285174">
-        <mark key="'" line="112" column="12" />
-        <mark key="[" line="111" column="53" />
-        <mark key="]" line="115" column="47" />
-        <mark key="." line="115" column="47" />
-        <mark key="^" line="115" column="47" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" timestamp="1490345980932">
+        <mark key="'" line="197" column="8" />
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="." line="143" column="0" />
+        <mark key="^" line="141" column="15" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Board.java" timestamp="1490335020687">
         <mark key="'" line="174" column="0" />
@@ -52,7 +52,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="28" column="71" />
       </file>
-      <file name="/fragment.java" timestamp="1490332690469">
+      <file name="/fragment.java" timestamp="1490344469380">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/TestBoard.java" timestamp="1490327506151">
@@ -104,69 +104,92 @@
       <jump line="166" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Board.java" />
       <jump line="11" column="15" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ExtrinsicPQ.java" />
       <jump line="14" column="17" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
-      <jump line="51" column="13" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
-      <jump line="62" column="20" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
       <jump line="64" column="13" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
       <jump line="13" column="12" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
       <jump line="73" column="21" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
       <jump line="91" column="25" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
       <jump line="230" column="23" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
       <jump line="104" column="8" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
-      <jump line="216" column="8" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
       <jump line="105" column="30" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
       <jump line="228" column="23" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
       <jump line="107" column="15" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
-      <jump line="50" column="17" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
       <jump line="112" column="12" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
+      <jump line="324" column="11" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
+      <jump line="115" column="21" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
+      <jump line="50" column="17" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
+      <jump line="114" column="26" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
+      <jump line="42" column="23" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
+      <jump line="199" column="15" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
+      <jump line="150" column="24" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
+      <jump line="51" column="13" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
+      <jump line="28" column="23" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
+      <jump line="162" column="12" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
+      <jump line="286" column="17" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
+      <jump line="128" column="24" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
+      <jump line="168" column="4" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
+      <jump line="134" column="24" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
+      <jump line="218" column="14" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
+      <jump line="216" column="16" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
+      <jump line="102" column="17" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
+      <jump line="167" column="8" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
+      <jump line="446" column="41" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
+      <jump line="122" column="17" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
+      <jump line="109" column="22" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
+      <jump line="54" column="15" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
+      <jump line="111" column="15" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
+      <jump line="62" column="20" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
+      <jump line="194" column="8" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
+      <jump line="428" column="24" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
+      <jump line="192" column="8" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>current</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>swim</text>
+        <text encoding="base64">XDxyZW1vdmVNaW5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudCA9IGdldE5vZGUoaW5kZXgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzd2FwKDEsIHNpemUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN3YXAoaW5kZXgsIGxlZnRJbmRleCk7CiAgICAgICAgICAgICAgICBpbmRleCA9IGxlZnRJbmRleDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN3YXAoaW5kZXgsIHJpZ2h0SW5kZXgpOwogICAgICAgICAgICAgICAgaW5kZXggPSByaWdodEluZGV4Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5kZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>swim</last-search>
+      <last-search encoding="base64">XDxyZW1vdmVNaW5cPg==</last-search>
       <last-offset />
-      <last-pattern>swim</last-pattern>
+      <last-pattern encoding="base64">XDxyZW1vdmVNaW5cPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -183,12 +206,19 @@
         <entry>BLANK</entry>
         <entry>leftin</entry>
         <entry>swim</entry>
+        <entry>size()</entry>
+        <entry>size++</entry>
+        <entry>changePrioir</entry>
+        <entry>changeP</entry>
+        <entry>removeMin</entry>
+        <entry encoding="base64">XDxyZW1vdmVNaW5cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>12</entry>
         <entry>31</entry>
         <entry>136</entry>
         <entry>157</entry>
+        <entry>195</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -212,6 +242,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
