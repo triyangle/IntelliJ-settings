@@ -24,12 +24,12 @@
         <mark key="^" line="24" column="19" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/EightPuzzleSolver.java" timestamp="1490318900719" />
-      <file name="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Board.java" timestamp="1490319157297">
-        <mark key="'" line="16" column="26" />
-        <mark key="[" line="8" column="33" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="40" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Board.java" timestamp="1490319996557">
+        <mark key="'" line="21" column="26" />
+        <mark key="[" line="13" column="9" />
+        <mark key="]" line="14" column="7" />
+        <mark key="." line="14" column="7" />
+        <mark key="^" line="14" column="7" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/SearchNode.java" timestamp="1490258923400">
         <mark key="[" line="7" column="0" />
@@ -61,7 +61,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Arrays.copyOf()</text>
+        <text>iles</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnb2FsXD4=</text>
@@ -70,31 +70,31 @@
         <text encoding="base64">ICAgICAgICBXb3JkIHN0YXJ0U3RhdGUgPSBuZXcgV29yZChzdGFydCwgZ29hbCk7CiAgICAgICAgU29sdmVyIHNvbHZlciA9IG5ldyBTb2x2ZXIoc3RhcnRTdGF0ZSk7CgogICAgICAgIFN0ZE91dC5wcmludGxuKCJNaW5pbXVtIG51bWJlciBvZiBtb3ZlcyA9ICIgKyBzb2x2ZXIubW92ZXMoKSk7CiAgICAgICAgZm9yIChXb3JsZFN0YXRlIHdzIDogc29sdmVyLnNvbHV0aW9uKCkpIHsKICAgICAgICAgICBTdGRPdXQucHJpbnRsbih3cyk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnRpbGVzID0gOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gMCBmb3IgYmxhbmsK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludFtdIHJvdyA6KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludFtdIHJvdyA6IHRpbGVzKSB7CiAgICAgICAgICAgIGZvciAoaW50IGkgOiByb3cpIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZXN0aW1hdGVkRGlzdGFuY2VUb0dvYWwoKSA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnRpbGVzID0gOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
