@@ -11,8 +11,12 @@
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/EightPuzzleSolver.java" timestamp="1490329998316">
         <mark key="'" line="20" column="28" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/TestJankyOomage.java" timestamp="1491199955346">
+      <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/TestJankyOomage.java" timestamp="1491256140349">
         <mark key="'" line="42" column="37" />
+        <mark key="[" line="24" column="46" />
+        <mark key="]" line="24" column="45" />
+        <mark key="^" line="24" column="45" />
+        <mark key="." line="24" column="45" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Board.java" timestamp="1490335020687">
         <mark key="'" line="174" column="0" />
@@ -60,11 +64,11 @@
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/HashTableDrawingUtility.java" timestamp="1491198670501">
         <mark key="'" line="27" column="16" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/HashTableVisualizer.java" timestamp="1491242320577">
-        <mark key="[" line="17" column="17" />
-        <mark key="]" line="17" column="17" />
-        <mark key="." line="17" column="17" />
-        <mark key="^" line="17" column="17" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/HashTableVisualizer.java" timestamp="1491255369932">
+        <mark key="[" line="20" column="8" />
+        <mark key="]" line="20" column="9" />
+        <mark key="." line="20" column="9" />
+        <mark key="^" line="20" column="9" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/WorldState.java" timestamp="1490257177993">
         <mark key="'" line="11" column="15" />
@@ -76,8 +80,12 @@
         <mark key="." line="24" column="19" />
         <mark key="^" line="24" column="19" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/TestComplexOomage.java" timestamp="1491200772470">
-        <mark key="'" line="48" column="0" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/TestComplexOomage.java" timestamp="1491256681186">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="51" column="23" />
+        <mark key="]" line="51" column="24" />
+        <mark key="^" line="51" column="23" />
+        <mark key="." line="51" column="24" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" timestamp="1490395132528">
         <mark key="'" line="209" column="28" />
@@ -204,40 +212,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>2000</text>
+        <text>255</text>
       </register>
       <register name="/" type="4">
-        <text>testRand</text>
+        <text>visuali</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgTiA9IG9vbWFnZXMuc2l6ZSgpIC8gNTA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVhZGx5TGlzdC5hZGQobmV3IENvbXBsZXhPb21hZ2UocGFyYW1zKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVhZGx5TGlzdC5hZGQobmV3IENvbXBsZXhPb21hZ2UocGFyYW1zKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVhZGx5TGlzdC5hZGQobmV3IENvbXBsZXhPb21hZ2UocGFyYW1zKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBBcnJheXMuc3RyZWFtKGJ1Y2tldFNpemVzKS5mb3JFYWNoKGJ1Y2tldFNpemUgLT4gKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVhZGx5TGlzdC5hZGQobmV3IENvbXBsZXhPb21hZ2UocGFyYW1zKSk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVhZGx5TGlzdC5hZGQoMjU1KQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvb21hZ2VzLmZvckVhY2gob29tYWdlIC0+IHsKICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
@@ -247,15 +255,14 @@
       </register>
     </registers>
     <search>
-      <last-search>testRand</last-search>
+      <last-search>visuali</last-search>
       <last-offset />
-      <last-pattern>testRand</last-pattern>
+      <last-pattern>visuali</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>goal</entry>
         <entry encoding="base64">XDxnb2FsXD4=</entry>
         <entry>estimate</entry>
         <entry>moves</entry>
@@ -275,6 +282,7 @@
         <entry>swim</entry>
         <entry>test</entry>
         <entry>testRand</entry>
+        <entry>visuali</entry>
       </history-search>
       <history-cmd>
         <entry>12</entry>
