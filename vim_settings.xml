@@ -24,19 +24,19 @@
       <file name="$USER_HOME$/school/CS/61B/CS61B/lab10/ExtrinsicPQ.java" timestamp="1490339148458">
         <mark key="'" line="11" column="15" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/TestSimpleOomage.java" timestamp="1491200650978">
-        <mark key="'" line="50" column="56" />
-        <mark key="[" line="50" column="57" />
-        <mark key="]" line="50" column="57" />
-        <mark key="." line="50" column="57" />
-        <mark key="^" line="50" column="57" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/TestSimpleOomage.java" timestamp="1491204227547">
+        <mark key="'" line="56" column="26" />
+        <mark key="[" line="37" column="43" />
+        <mark key="]" line="37" column="43" />
+        <mark key="." line="37" column="43" />
+        <mark key="^" line="37" column="43" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/SimpleOomage.java" timestamp="1491201137972">
-        <mark key="'" line="26" column="60" />
-        <mark key="[" line="26" column="79" />
-        <mark key="]" line="26" column="79" />
-        <mark key="." line="26" column="79" />
-        <mark key="^" line="26" column="79" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/SimpleOomage.java" timestamp="1491204680102">
+        <mark key="'" line="35" column="48" />
+        <mark key="[" line="12" column="52" />
+        <mark key="]" line="12" column="55" />
+        <mark key="." line="12" column="55" />
+        <mark key="^" line="12" column="55" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/io/PrintStream.java" timestamp="1491199147019">
         <mark key="'" line="804" column="8" />
@@ -89,11 +89,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Board.java" />
-      <jump line="13" column="26" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Board.java" />
-      <jump line="10" column="29" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Word.java" />
-      <jump line="43" column="8" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Word.java" />
-      <jump line="39" column="56" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Word.java" />
       <jump line="11" column="25" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Word.java" />
       <jump line="50" column="4" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Board.java" />
       <jump line="58" column="14" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Board.java" />
@@ -189,55 +184,60 @@
       <jump line="50" column="56" filename="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/TestSimpleOomage.java" />
       <jump line="48" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/TestComplexOomage.java" />
       <jump line="26" column="60" filename="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/SimpleOomage.java" />
+      <jump line="25" column="38" filename="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/TestSimpleOomage.java" />
+      <jump line="43" column="26" filename="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/TestSimpleOomage.java" />
+      <jump line="45" column="8" filename="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/SimpleOomage.java" />
+      <jump line="31" column="13" filename="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/SimpleOomage.java" />
+      <jump line="35" column="48" filename="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/SimpleOomage.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>(</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>swim</text>
+        <text>test</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzd2FwKDEsIHNpemUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmVkICE9IHRoYXQucmVkKSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CgogICAgICAgIGlmIChncmVlbiAhPSB0aGF0LmdyZWVuKSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CgogICAgICAgIHJldHVybiBibHVlID09IHRoYXQuYmx1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBpbnQgaGFzaENvZGUoKSB7CiAgICAgICAgaW50IHJlc3VsdCA9IHJlZDsKICAgICAgICByZXN1bHQgPSAzMSAqIHJlc3VsdCArIGdyZWVuOwogICAgICAgIHJlc3VsdCA9IDMxICogcmVzdWx0ICsgYmx1ZTsKICAgICAgICByZXR1cm4gcmVzdWx0OwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogV3JpdGUgYSBwZXJmZWN0IGhhc2ggZnVuY3Rpb24gZm9yIFNpbXBsZSBPb21hZ2VzLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ci8qICAgIEBPdmVycmlkZQogICAgcHVibGljIGJvb2xlYW4gZXF1YWxzKE9iamVjdCBvKSB7CiAgICAgICAgcmV0dXJuCiAgICB9Ki8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoaGFzaENvZGVzLmNvbnRhaW5zKHRlc3QuaGFzaENvZGUoKSkpIHsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBXcml0ZSB0aGlzIG1ldGhvZC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>swim</last-search>
+      <last-search>test</last-search>
       <last-offset />
-      <last-pattern>swim</last-pattern>
+      <last-pattern>test</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -261,6 +261,7 @@
         <entry encoding="base64">XDxyZW1vdmVNaW5cPg==</entry>
         <entry>validate</entry>
         <entry>swim</entry>
+        <entry>test</entry>
       </history-search>
       <history-cmd>
         <entry>12</entry>
