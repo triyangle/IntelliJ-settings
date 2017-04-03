@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/Hint.java" timestamp="1491261828005">
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="8" column="26" />
+        <mark key="^" line="8" column="26" />
+        <mark key="." line="8" column="26" />
+      </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Word.java" timestamp="1490329216290">
         <mark key="'" line="77" column="16" />
         <mark key="[" line="48" column="7" />
@@ -80,12 +86,11 @@
         <mark key="." line="24" column="19" />
         <mark key="^" line="24" column="19" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/TestComplexOomage.java" timestamp="1491256681186">
-        <mark key="'" line="59" column="0" />
-        <mark key="[" line="51" column="23" />
-        <mark key="]" line="51" column="24" />
-        <mark key="^" line="51" column="23" />
-        <mark key="." line="51" column="24" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/TestComplexOomage.java" timestamp="1491262242008">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" timestamp="1490395132528">
         <mark key="'" line="209" column="28" />
@@ -94,7 +99,7 @@
         <mark key="^" line="209" column="27" />
         <mark key="." line="209" column="27" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/ComplexOomage.java" timestamp="1491199395930">
+      <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/ComplexOomage.java" timestamp="1491262382960">
         <mark key="'" line="36" column="12" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/SearchNode.java" timestamp="1490327501737">
@@ -212,43 +217,43 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>255</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>visuali</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVhZGx5TGlzdC5hZGQobmV3IENvbXBsZXhPb21hZ2UocGFyYW1zKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMTsgaSA8PSBOOyBpKyspIHsKICAgICAgICAgICAgcGFyYW1zLmFkZCgwKTsKICAgICAgICAgICAgZGVhZGx5TGlzdC5hZGQobmV3IENvbXBsZXhPb21hZ2UocGFyYW1zKSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbXMyLmFkZCgyNTYpOwoKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IE47IGkrKykgewogICAgICAgICAgICBwYXJhbXMyLmFkZCgwKTsKICAgICAgICAgICAgZGVhZGx5TGlzdC5hZGQobmV3IENvbXBsZXhPb21hZ2UocGFyYW1zMikpOwogICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVhZGx5TGlzdC5hZGQobmV3IENvbXBsZXhPb21hZ2UocGFyYW1zKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IHBhcmFtczIgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVhZGx5TGlzdC5hZGQobmV3IENvbXBsZXhPb21hZ2UocGFyYW1zKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVhZGx5TGlzdC5hZGQobmV3IENvbXBsZXhPb21hZ2UocGFyYW1zKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Ki8KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9Ki8KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVhZGx5TGlzdC5hZGQoMjU1KQo=</text>
+        <text encoding="base64">CiAgICAgICAgTGlzdDxJbnRlZ2VyPiBwYXJhbXMyID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgcGFyYW1zMi5hZGQoMjU2KTsKCiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBOOyBpKyspIHsKICAgICAgICAgICAgcGFyYW1zMi5hZGQoMCk7CiAgICAgICAgICAgIGRlYWRseUxpc3QuYWRkKG5ldyBDb21wbGV4T29tYWdlKHBhcmFtczIpKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -292,6 +297,7 @@
         <entry>195</entry>
         <entry>184</entry>
         <entry>212</entry>
+        <entry>-15co.</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
