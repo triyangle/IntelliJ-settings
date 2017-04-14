@@ -17,6 +17,13 @@
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/EightPuzzleSolver.java" timestamp="1490329998316">
         <mark key="'" line="20" column="28" />
       </file>
+      <file name="$USER_HOME$/school/CS/61B/CS61B/lab12/MergeSort.java" timestamp="1492208052654">
+        <mark key="'" line="93" column="7" />
+        <mark key="[" line="78" column="32" />
+        <mark key="]" line="79" column="24" />
+        <mark key="." line="79" column="24" />
+        <mark key="^" line="79" column="24" />
+      </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/TestJankyOomage.java" timestamp="1491256140349">
         <mark key="'" line="42" column="37" />
         <mark key="[" line="24" column="46" />
@@ -106,7 +113,13 @@
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/ComplexOomage.java" timestamp="1491262382960">
         <mark key="'" line="36" column="12" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/lab12/QuickSort.java" timestamp="1492139765297" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/lab12/QuickSort.java" timestamp="1492207892865">
+        <mark key="'" line="51" column="21" />
+        <mark key="[" line="73" column="31" />
+        <mark key="]" line="73" column="32" />
+        <mark key="." line="73" column="32" />
+        <mark key="^" line="73" column="29" />
+      </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/SearchNode.java" timestamp="1490327501737">
         <mark key="'" line="7" column="15" />
         <mark key="[" line="7" column="0" />
@@ -119,18 +132,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="8" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Solver.java" />
-      <jump line="7" column="15" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/SearchNode.java" />
-      <jump line="13" column="24" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/WordPuzzleSolver.java" />
-      <jump line="6" column="30" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/TestBoard.java" />
-      <jump line="25" column="15" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Board.java" />
-      <jump line="22" column="29" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Board.java" />
-      <jump line="61" column="31" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Board.java" />
-      <jump line="19" column="28" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/EightPuzzleSolver.java" />
-      <jump line="12" column="29" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Board.java" />
-      <jump line="20" column="28" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/EightPuzzleSolver.java" />
-      <jump line="21" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Solver.java" />
-      <jump line="54" column="14" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Word.java" />
       <jump line="55" column="28" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Word.java" />
       <jump line="77" column="16" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Word.java" />
       <jump line="104" column="40" filename="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Board.java" />
@@ -219,40 +220,52 @@
       <jump line="35" column="58" filename="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/SimpleOomage.java" />
       <jump line="6" column="13" filename="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/SimpleOomage.java" />
       <jump line="42" column="37" filename="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/TestNiceSpreadOomage.java" />
+      <jump line="81" column="30" filename="$USER_HOME$/school/CS/61B/CS61B/lab12/MergeSort.java" />
+      <jump line="62" column="57" filename="$USER_HOME$/school/CS/61B/CS61B/lab12/MergeSort.java" />
+      <jump line="78" column="39" filename="$USER_HOME$/school/CS/61B/CS61B/lab12/MergeSort.java" />
+      <jump line="68" column="27" filename="$USER_HOME$/school/CS/61B/CS61B/lab12/MergeSort.java" />
+      <jump line="17" column="4" filename="$USER_HOME$/school/CS/61B/CS61B/lab12/QuickSort.java" />
+      <jump line="87" column="7" filename="$USER_HOME$/school/CS/61B/CS61B/lab12/MergeSort.java" />
+      <jump line="31" column="20" filename="$USER_HOME$/school/CS/61B/CS61B/lab12/QuickSort.java" />
+      <jump line="21" column="18" filename="$USER_HOME$/school/CS/61B/CS61B/lab12/QuickSort.java" />
+      <jump line="55" column="25" filename="$USER_HOME$/school/CS/61B/CS61B/lab12/QuickSort.java" />
+      <jump line="46" column="50" filename="$USER_HOME$/school/CS/61B/CS61B/lab12/QuickSort.java" />
+      <jump line="35" column="7" filename="$USER_HOME$/school/CS/61B/CS61B/lab12/QuickSort.java" />
+      <jump line="51" column="21" filename="$USER_HOME$/school/CS/61B/CS61B/lab12/QuickSort.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>false</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>hashCode</text>
+        <text>part</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMTsgaSA8PSBOOyBpKyspIHsKICAgICAgICAgICAgcGFyYW1zLmFkZCgwKTsKICAgICAgICAgICAgZGVhZGx5TGlzdC5hZGQobmV3IENvbXBsZXhPb21hZ2UocGFyYW1zKSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZXF1YWwpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgTiA9IDEwMDAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXMyLmFkZCgyNTYpOwoKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IE47IGkrKykgewogICAgICAgICAgICBwYXJhbXMyLmFkZCgwKTsKICAgICAgICAgICAgZGVhZGx5TGlzdC5hZGQobmV3IENvbXBsZXhPb21hZ2UocGFyYW1zMikpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IHBhcmFtczIgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Ki8KCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Ki8KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgTGlzdDxJbnRlZ2VyPiBwYXJhbXMyID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgcGFyYW1zMi5hZGQoMjU2KTsKCiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBOOyBpKyspIHsKICAgICAgICAgICAgcGFyYW1zMi5hZGQoMCk7CiAgICAgICAgICAgIGRlYWRseUxpc3QuYWRkKG5ldyBDb21wbGV4T29tYWdlKHBhcmFtczIpKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGVzcyk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGVxdWFsKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZ3JlYXRlcik7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -265,15 +278,14 @@
       </register>
     </registers>
     <search>
-      <last-search>hashCode</last-search>
+      <last-search>part</last-search>
       <last-offset />
-      <last-pattern>hashCode</last-pattern>
+      <last-pattern>part</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>estimate</entry>
         <entry>moves</entry>
         <entry>manhattn</entry>
         <entry>manha</entry>
@@ -293,6 +305,7 @@
         <entry>testRand</entry>
         <entry>visuali</entry>
         <entry>hashCode</entry>
+        <entry>part</entry>
       </history-search>
       <history-cmd>
         <entry>12</entry>
@@ -303,6 +316,7 @@
         <entry>184</entry>
         <entry>212</entry>
         <entry>-15co.</entry>
+        <entry>67</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -332,6 +346,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
