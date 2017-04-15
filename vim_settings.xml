@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Rasterer.java" timestamp="1492239067493">
+      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Rasterer.java" timestamp="1492246439093">
         <mark key="'" line="2" column="22" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="70" column="17" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="72" column="59" />
+        <mark key="." line="72" column="59" />
+        <mark key="^" line="72" column="59" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/Hint.java" timestamp="1491261828005">
         <mark key="[" line="8" column="23" />
@@ -120,12 +120,12 @@
       <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/MapServer.java" timestamp="1492225961556">
         <mark key="'" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/QuadTree.java" timestamp="1492239259185">
-        <mark key="'" line="74" column="56" />
-        <mark key="[" line="106" column="61" />
-        <mark key="]" line="106" column="61" />
-        <mark key="." line="106" column="61" />
-        <mark key="^" line="106" column="61" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/QuadTree.java" timestamp="1492245561128">
+        <mark key="'" line="78" column="56" />
+        <mark key="[" line="118" column="26" />
+        <mark key="]" line="119" column="23" />
+        <mark key="." line="119" column="23" />
+        <mark key="^" line="119" column="23" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/TestComplexOomage.java" timestamp="1491359904172">
         <mark key="'" line="61" column="0" />
@@ -252,7 +252,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>String</text>
+        <text>locationCount.containsKey(neighbor.ullon)</text>
       </register>
       <register name="/" type="4">
         <text>intersect</text>
@@ -261,34 +261,34 @@
         <text encoding="base64">ICAgICAgICBpbnQgcm93cyA9IDM7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgcm93cyA9IHBydW5lZC5zdHJlYW0oKS5maWx0ZXIoKTsKICAgICAgICBpbnQgcm93cyA9IDM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgY29scyA9IDsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbG9jYXRpb25Db3VudC5nZXQoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvY2F0aW9uQ291bnQucHV0KG5laWdoYm9yLnVsbG9uLCBsb2NhdGlvbkNvdW50LmdldChuZWlnaGJvci51bGxvbikgKyAxKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvY2F0aW9uQ291bnQucHV0KG5laWdoYm9yLnVsbG9uLCAwKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTWFwPERvdWJsZSwgSW50ZWdlcj4gbG9jYXRpb25Db3VudDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
