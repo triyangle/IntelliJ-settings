@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Rasterer.java" timestamp="1492246439093">
-        <mark key="'" line="2" column="22" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="72" column="59" />
-        <mark key="." line="72" column="59" />
-        <mark key="^" line="72" column="59" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Rasterer.java" timestamp="1492292308499">
+        <mark key="'" line="3" column="22" />
+        <mark key="[" line="72" column="23" />
+        <mark key="]" line="72" column="62" />
+        <mark key="." line="72" column="62" />
+        <mark key="^" line="72" column="62" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/Hint.java" timestamp="1491261828005">
         <mark key="[" line="8" column="23" />
@@ -117,15 +117,15 @@
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/HashTableDrawingUtility.java" timestamp="1491198670501">
         <mark key="'" line="27" column="16" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/MapServer.java" timestamp="1492225961556">
-        <mark key="'" line="12" column="0" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/MapServer.java" timestamp="1492292787880">
+        <mark key="'" line="309" column="8" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/QuadTree.java" timestamp="1492245561128">
-        <mark key="'" line="78" column="56" />
-        <mark key="[" line="118" column="26" />
-        <mark key="]" line="119" column="23" />
-        <mark key="." line="119" column="23" />
-        <mark key="^" line="119" column="23" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/QuadTree.java" timestamp="1492291520490">
+        <mark key="'" line="114" column="18" />
+        <mark key="[" line="130" column="35" />
+        <mark key="]" line="130" column="34" />
+        <mark key="." line="130" column="34" />
+        <mark key="^" line="130" column="34" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/TestComplexOomage.java" timestamp="1491359904172">
         <mark key="'" line="61" column="0" />
@@ -144,13 +144,8 @@
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/ComplexOomage.java" timestamp="1491262382960">
         <mark key="'" line="36" column="12" />
       </file>
-      <file name="/fragment.java" timestamp="1490344469380">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="230" column="23" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
-      <jump line="105" column="30" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
       <jump line="228" column="23" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
       <jump line="107" column="15" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
       <jump line="112" column="12" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
@@ -249,10 +244,12 @@
       <jump line="69" column="30" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Rasterer.java" />
       <jump line="2" column="22" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Rasterer.java" />
       <jump line="74" column="56" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/QuadTree.java" />
+      <jump line="114" column="18" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/QuadTree.java" />
+      <jump line="309" column="8" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/MapServer.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>locationCount.containsKey(neighbor.ullon)</text>
+        <text>QuadTree</text>
       </register>
       <register name="/" type="4">
         <text>intersect</text>
@@ -267,28 +264,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKFF1YWRUcmVlLk5vZGUgbm9kZSA6IHBydW5lZCkgewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcnVuZWQuZm9yRWFjaChub2RlIC0+IFN5c3RlbS5vdXQucHJpbnRsbihub2RlLmZpbGVOYW1lKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbG9jYXRpb25Db3VudC5nZXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvY2F0aW9uQ291bnQucHV0KG5laWdoYm9yLnVsbG9uLCBsb2NhdGlvbkNvdW50LmdldChuZWlnaGJvci51bGxvbikgKyAxKTsK</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvY2F0aW9uQ291bnQucHV0KG5laWdoYm9yLnVsbG9uLCAwKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTWFwPERvdWJsZSwgSW50ZWdlcj4gbG9jYXRpb25Db3VudDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
