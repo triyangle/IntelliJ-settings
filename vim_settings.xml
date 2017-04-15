@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Rasterer.java" timestamp="1492292308499">
-        <mark key="'" line="3" column="22" />
-        <mark key="[" line="72" column="23" />
-        <mark key="]" line="72" column="62" />
-        <mark key="." line="72" column="62" />
-        <mark key="^" line="72" column="62" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Rasterer.java" timestamp="1492297686530">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="95" column="39" />
+        <mark key="]" line="95" column="47" />
+        <mark key="^" line="95" column="47" />
+        <mark key="." line="95" column="47" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/Hint.java" timestamp="1491261828005">
         <mark key="[" line="8" column="23" />
@@ -117,15 +117,15 @@
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/HashTableDrawingUtility.java" timestamp="1491198670501">
         <mark key="'" line="27" column="16" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/MapServer.java" timestamp="1492292787880">
-        <mark key="'" line="309" column="8" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/MapServer.java" timestamp="1492294041805">
+        <mark key="'" line="235" column="37" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/QuadTree.java" timestamp="1492291520490">
-        <mark key="'" line="114" column="18" />
-        <mark key="[" line="130" column="35" />
-        <mark key="]" line="130" column="34" />
-        <mark key="." line="130" column="34" />
-        <mark key="^" line="130" column="34" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/QuadTree.java" timestamp="1492295934862">
+        <mark key="'" line="110" column="8" />
+        <mark key="[" line="109" column="17" />
+        <mark key="]" line="109" column="32" />
+        <mark key="." line="109" column="32" />
+        <mark key="^" line="109" column="32" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/TestComplexOomage.java" timestamp="1491359904172">
         <mark key="'" line="61" column="0" />
@@ -146,20 +146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="228" column="23" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
-      <jump line="107" column="15" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
-      <jump line="112" column="12" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
-      <jump line="324" column="11" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
-      <jump line="115" column="21" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
-      <jump line="50" column="17" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
-      <jump line="114" column="26" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
-      <jump line="42" column="23" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
-      <jump line="199" column="15" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
-      <jump line="150" column="24" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
-      <jump line="51" column="13" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
-      <jump line="28" column="23" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
-      <jump line="162" column="12" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
-      <jump line="286" column="17" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
       <jump line="128" column="24" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
       <jump line="168" column="4" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
       <jump line="134" column="24" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
@@ -246,46 +232,60 @@
       <jump line="74" column="56" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/QuadTree.java" />
       <jump line="114" column="18" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/QuadTree.java" />
       <jump line="309" column="8" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/MapServer.java" />
+      <jump line="57" column="8" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/QuadTree.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/QuadTree.java" />
+      <jump line="11" column="23" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/QuadTree.java" />
+      <jump line="79" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/QuadTree.java" />
+      <jump line="118" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/QuadTree.java" />
+      <jump line="113" column="29" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/QuadTree.java" />
+      <jump line="165" column="10" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/MapServer.java" />
+      <jump line="235" column="37" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/MapServer.java" />
+      <jump line="74" column="47" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Rasterer.java" />
+      <jump line="5" column="21" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Rasterer.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Rasterer.java" />
+      <jump line="85" column="35" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Rasterer.java" />
+      <jump line="21" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Rasterer.java" />
+      <jump line="110" column="8" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/QuadTree.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>QuadTree</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text>intersect</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgcm93cyA9IDM7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRzLnB1dCgicmFzdGVyX3VsX2xhdCIsIHJhc3RlcnVsbGF0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKFF1YWRUcmVlLk5vZGUgbm9kZSA6IHBydW5lZCkgewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRzLnB1dCgicmFzdGVyX3VsX2xhdCIsIHJhc3RlcnVsbGF0KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcnVuZWQuZm9yRWFjaChub2RlIC0+IFN5c3RlbS5vdXQucHJpbnRsbihub2RlLmZpbGVOYW1lKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBkb3VibGUgcmFzdGVydWxsb247Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICBkb3VibGUgcmFzdGVydWxsb24gPSBzb3J0ZWQucGVlaygpLnVsbG9uOwogICAgICAgIGRvdWJsZSByYXN0ZXJ1bGxhdCA9IHNvcnRlZC5wZWVrKCkudWxsYXQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
