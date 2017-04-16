@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Rasterer.java" timestamp="1492297686530">
+      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Rasterer.java" timestamp="1492320263433">
         <mark key="'" line="18" column="0" />
-        <mark key="[" line="95" column="39" />
-        <mark key="]" line="95" column="47" />
-        <mark key="^" line="95" column="47" />
-        <mark key="." line="95" column="47" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/Hint.java" timestamp="1491261828005">
         <mark key="[" line="8" column="23" />
@@ -120,12 +119,12 @@
       <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/MapServer.java" timestamp="1492294041805">
         <mark key="'" line="235" column="37" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/QuadTree.java" timestamp="1492307250245">
-        <mark key="'" line="114" column="8" />
-        <mark key="[" line="95" column="28" />
-        <mark key="]" line="96" column="7" />
-        <mark key="." line="96" column="7" />
-        <mark key="^" line="96" column="7" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/QuadTree.java" timestamp="1492320289966">
+        <mark key="'" line="115" column="8" />
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="112" column="37" />
+        <mark key="." line="112" column="37" />
+        <mark key="^" line="112" column="37" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/TestComplexOomage.java" timestamp="1491359904172">
         <mark key="'" line="61" column="0" />
@@ -258,34 +257,34 @@
         <text encoding="base64">ICAgICAgICByZXN1bHRzLnB1dCgicmFzdGVyX3VsX2xhdCIsIHJhc3RlcnVsbGF0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIG9wdGltaXphdGlvbiBkb24ndCBuZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRzLnB1dCgicmFzdGVyX3VsX2xhdCIsIHJhc3RlcnVsbGF0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIG9wdGltaXphdGlvbiBkb24ndCBuZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
