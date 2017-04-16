@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Rasterer.java" timestamp="1492320263433">
+      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Rasterer.java" timestamp="1492329393281">
         <mark key="'" line="18" column="0" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
+        <mark key="[" line="94" column="30" />
+        <mark key="]" line="94" column="35" />
+        <mark key="." line="94" column="35" />
+        <mark key="^" line="94" column="35" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/Hint.java" timestamp="1491261828005">
         <mark key="[" line="8" column="23" />
@@ -248,7 +249,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>string</text>
+        <text>uffer</text>
       </register>
       <register name="/" type="4">
         <text>intersect</text>
