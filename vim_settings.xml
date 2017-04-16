@@ -120,12 +120,12 @@
       <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/MapServer.java" timestamp="1492294041805">
         <mark key="'" line="235" column="37" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/QuadTree.java" timestamp="1492320289966">
-        <mark key="'" line="115" column="8" />
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="112" column="37" />
-        <mark key="." line="112" column="37" />
-        <mark key="^" line="112" column="37" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/QuadTree.java" timestamp="1492332563516">
+        <mark key="'" line="128" column="46" />
+        <mark key="[" line="46" column="35" />
+        <mark key="]" line="46" column="41" />
+        <mark key="." line="46" column="41" />
+        <mark key="^" line="46" column="41" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/TestComplexOomage.java" timestamp="1491359904172">
         <mark key="'" line="61" column="0" />
@@ -146,7 +146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="24" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
       <jump line="168" column="4" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
       <jump line="134" column="24" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
       <jump line="218" column="14" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
@@ -246,13 +245,14 @@
       <jump line="85" column="35" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Rasterer.java" />
       <jump line="21" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Rasterer.java" />
       <jump line="110" column="8" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/QuadTree.java" />
+      <jump line="128" column="46" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/QuadTree.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>uffer</text>
+        <text>Buffer</text>
       </register>
       <register name="/" type="4">
-        <text>intersect</text>
+        <text>StringBuffer</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXN1bHRzLnB1dCgicmFzdGVyX3VsX2xhdCIsIHJhc3RlcnVsbGF0KTsK</text>
@@ -292,15 +292,14 @@
       </register>
     </registers>
     <search>
-      <last-search>intersect</last-search>
+      <last-search>StringBuffer</last-search>
       <last-offset />
-      <last-pattern>intersect</last-pattern>
+      <last-pattern>StringBuffer</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>manha</entry>
         <entry>estimated</entry>
         <entry>BLAnk</entry>
         <entry>BLANK</entry>
@@ -320,6 +319,7 @@
         <entry>part</entry>
         <entry>main</entry>
         <entry>intersect</entry>
+        <entry>StringBuffer</entry>
       </history-search>
       <history-cmd>
         <entry>12</entry>
