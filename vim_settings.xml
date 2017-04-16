@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Rasterer.java" timestamp="1492329393281">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="94" column="30" />
-        <mark key="]" line="94" column="35" />
-        <mark key="." line="94" column="35" />
-        <mark key="^" line="94" column="35" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Rasterer.java" timestamp="1492384318676">
+        <mark key="'" line="20" column="4" />
+        <mark key="[" line="100" column="8" />
+        <mark key="]" line="100" column="9" />
+        <mark key="." line="100" column="9" />
+        <mark key="^" line="100" column="9" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/Hint.java" timestamp="1491261828005">
         <mark key="[" line="8" column="23" />
@@ -146,7 +146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="4" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
       <jump line="134" column="24" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
       <jump line="218" column="14" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
       <jump line="216" column="16" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
@@ -246,13 +245,14 @@
       <jump line="21" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Rasterer.java" />
       <jump line="110" column="8" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/QuadTree.java" />
       <jump line="128" column="46" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/QuadTree.java" />
+      <jump line="20" column="4" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Rasterer.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>Buffer</text>
       </register>
       <register name="/" type="4">
-        <text>StringBuffer</text>
+        <text>print</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXN1bHRzLnB1dCgicmFzdGVyX3VsX2xhdCIsIHJhc3RlcnVsbGF0KTsK</text>
@@ -292,15 +292,14 @@
       </register>
     </registers>
     <search>
-      <last-search>StringBuffer</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>StringBuffer</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>estimated</entry>
         <entry>BLAnk</entry>
         <entry>BLANK</entry>
         <entry>leftin</entry>
@@ -320,6 +319,7 @@
         <entry>main</entry>
         <entry>intersect</entry>
         <entry>StringBuffer</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry>12</entry>
