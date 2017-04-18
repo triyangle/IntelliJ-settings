@@ -120,7 +120,7 @@
       <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/MapServer.java" timestamp="1492294041805">
         <mark key="'" line="235" column="37" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/QuadTree.java" timestamp="1492497921480">
+      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/QuadTree.java" timestamp="1492501370375">
         <mark key="[" line="124" column="8" />
         <mark key="]" line="124" column="8" />
         <mark key="." line="124" column="8" />
@@ -251,7 +251,7 @@
         <text>Queue</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>!=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkb3VibGUgcmFzdGVybHJsb24gPSBzb3J0ZWQuZ2V0KHNvcnRlZC5zaXplKCkgLSAxKS5scmxvbjsKICAgICAgICAgICAgICAgICAgICBkb3VibGUgcmFzdGVybHJsYXQgPSBzb3J0ZWQuZ2V0KHNvcnRlZC5zaXplKCkgLSAxKS5scmxhdDsK</text>
@@ -291,16 +291,14 @@
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>!=</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>!=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>BLAnk</entry>
-        <entry>BLANK</entry>
         <entry>leftin</entry>
         <entry>size()</entry>
         <entry>size++</entry>
@@ -319,6 +317,8 @@
         <entry>intersect</entry>
         <entry>StringBuffer</entry>
         <entry>print</entry>
+        <entry>null</entry>
+        <entry>!=</entry>
       </history-search>
       <history-cmd>
         <entry>12</entry>
