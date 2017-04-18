@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Rasterer.java" timestamp="1492492591954">
+      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Rasterer.java" timestamp="1492497958080">
         <mark key="'" line="67" column="45" />
         <mark key="[" line="67" column="8" />
         <mark key="]" line="67" column="11" />
@@ -120,11 +120,11 @@
       <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/MapServer.java" timestamp="1492294041805">
         <mark key="'" line="235" column="37" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/QuadTree.java" timestamp="1492494279648">
-        <mark key="[" line="113" column="37" />
-        <mark key="]" line="113" column="39" />
-        <mark key="." line="113" column="39" />
-        <mark key="^" line="113" column="39" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/QuadTree.java" timestamp="1492497921480">
+        <mark key="[" line="124" column="8" />
+        <mark key="]" line="124" column="8" />
+        <mark key="." line="124" column="8" />
+        <mark key="^" line="124" column="8" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/TestComplexOomage.java" timestamp="1491359904172">
         <mark key="'" line="61" column="0" />
