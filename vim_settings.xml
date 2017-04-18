@@ -22,8 +22,8 @@
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/EightPuzzleSolver.java" timestamp="1490329998316">
         <mark key="'" line="20" column="28" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" timestamp="1492548853915">
-        <mark key="'" line="94" column="32" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" timestamp="1492552312787">
+        <mark key="'" line="27" column="42" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/TestSimpleOomage.java" timestamp="1491241491154">
         <mark key="'" line="71" column="37" />
@@ -124,12 +124,11 @@
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/HashTableDrawingUtility.java" timestamp="1491198670501">
         <mark key="'" line="27" column="16" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" timestamp="1492550316486">
-        <mark key="'" line="17" column="3" />
-        <mark key="[" line="55" column="32" />
-        <mark key="]" line="56" column="24" />
-        <mark key="^" line="56" column="24" />
-        <mark key="." line="56" column="24" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" timestamp="1492552229210">
+        <mark key="'" line="18" column="21" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/MapServer.java" timestamp="1492546419194">
         <mark key="'" line="130" column="8" />
@@ -166,9 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="60" filename="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/SimpleOomage.java" />
-      <jump line="25" column="38" filename="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/TestSimpleOomage.java" />
-      <jump line="43" column="26" filename="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/TestSimpleOomage.java" />
       <jump line="45" column="8" filename="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/SimpleOomage.java" />
       <jump line="31" column="13" filename="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/SimpleOomage.java" />
       <jump line="6" column="8" filename="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/OomageTestUtility.java" />
@@ -260,67 +256,69 @@
       <jump line="14" column="19" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/example/CSCourseDBHandler.java" />
       <jump line="45" column="56" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/example/CSCourseDBHandler.java" />
       <jump line="40" column="84" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/example/CSCourseDBHandler.java" />
-      <jump line="27" column="13" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" />
       <jump line="92" column="26" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" />
       <jump line="93" column="38" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" />
       <jump line="94" column="32" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" />
       <jump line="17" column="3" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
       <jump line="57" column="74" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/example/CSCourseDBHandler.java" />
+      <jump line="37" column="8" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
+      <jump line="12" column="33" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
+      <jump line="18" column="21" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
+      <jump line="27" column="42" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>&quot;img/&quot;</text>
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="/" type="4">
-        <text>adja</text>
+        <text>Node</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKG4xLnVsbGF0ICE9IG4yLnVsbGF0KSB7CiAgICAgICAgICAgICAgICByZXR1cm4gbjEudWxsYXQgPCBuMi51bGxhdCA/IDEgOiAtMTsKICAgICAgICAgICAgfSBlbHNlIGlmIChuMS51bGxvbiAhPSBuMi51bGxhdCl7CiAgICAgICAgICAgICAgICByZXR1cm4gbjEudWxsb24gPCBuMi51bGxvbiA/IC0xIDogMTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIHJldHVybiAwOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNsYXNzIE5vZGUgewogICAgICAgIHByaXZhdGUKICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBZT1VSIENPREUgSEVSRQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBZT1VSIENPREUgSEVSRQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBOb2RlW10gY2hpbGRyZW47Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBOb2RlW10gY2hpbGRyZW47Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hpbGRyZW4gPSBuZXcgTm9kZVs0XTsKICAgICAgICAgICAgY2hpbGRyZW5bMF0gPSBOVzsKICAgICAgICAgICAgY2hpbGRyZW5bMV0gPSBORTsKICAgICAgICAgICAgY2hpbGRyZW5bMl0gPSBTVzsKICAgICAgICAgICAgY2hpbGRyZW5bM10gPSBTRTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>adja</last-search>
+      <last-search>Node</last-search>
       <last-offset />
-      <last-pattern>adja</last-pattern>
+      <last-pattern>Node</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>changePrioir</entry>
         <entry>changeP</entry>
         <entry>removeMin</entry>
         <entry encoding="base64">XDxyZW1vdmVNaW5cPg==</entry>
@@ -340,6 +338,7 @@
         <entry>maxspeed</entry>
         <entry>max speed</entry>
         <entry>adja</entry>
+        <entry>Node</entry>
       </history-search>
       <history-cmd>
         <entry>12</entry>
