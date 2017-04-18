@@ -120,11 +120,12 @@
       <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/MapServer.java" timestamp="1492294041805">
         <mark key="'" line="235" column="37" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/QuadTree.java" timestamp="1492501370375">
-        <mark key="[" line="124" column="8" />
-        <mark key="]" line="124" column="8" />
-        <mark key="." line="124" column="8" />
-        <mark key="^" line="124" column="8" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/QuadTree.java" timestamp="1492506525707">
+        <mark key="'" line="72" column="43" />
+        <mark key="[" line="37" column="31" />
+        <mark key="]" line="43" column="28" />
+        <mark key="." line="43" column="28" />
+        <mark key="^" line="43" column="28" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/TestComplexOomage.java" timestamp="1491359904172">
         <mark key="'" line="61" column="0" />
@@ -145,7 +146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="209" column="28" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
       <jump line="11" column="16" filename="$USER_HOME$/school/CS/61B/CS61B/lab10/ArrayHeap.java" />
       <jump line="27" column="16" filename="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/HashTableDrawingUtility.java" />
       <jump line="5" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/SimpleOomage.java" />
@@ -245,6 +245,7 @@
       <jump line="6" column="34" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/QuadTree.java" />
       <jump line="125" column="57" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/QuadTree.java" />
       <jump line="78" column="29" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/QuadTree.java" />
+      <jump line="64" column="43" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/QuadTree.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -257,7 +258,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkb3VibGUgcmFzdGVybHJsb24gPSBzb3J0ZWQuZ2V0KHNvcnRlZC5zaXplKCkgLSAxKS5scmxvbjsKICAgICAgICAgICAgICAgICAgICBkb3VibGUgcmFzdGVybHJsYXQgPSBzb3J0ZWQuZ2V0KHNvcnRlZC5zaXplKCkgLSAxKS5scmxhdDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -266,25 +267,25 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTm9kZVtdIGNoaWxkcmVuID0gbmV3IE5vZGVbNF07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcm9vdC5wcnVuZWQodWxsb24sIHVsbGF0LCBscmxvbiwgbHJsYXQsIGRlcHRoKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHBydW5lZExpc3Q7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUXVldWU8Tm9kZT4gcHJ1bmVkUXVldWUgPSBuZXcgQXJyYXlEZXF1ZTw+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcm9vdC5wcnVuZWQodWxsb24sIHVsbGF0LCBscmxvbiwgbHJsYXQsIGRlcHRoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
