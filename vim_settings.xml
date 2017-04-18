@@ -10,7 +10,7 @@
         <mark key="^" line="97" column="46" />
         <mark key="." line="97" column="46" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/example/CSCourseDB.java" timestamp="1492547764342">
+      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/example/CSCourseDB.java" timestamp="1492550735787">
         <mark key="'" line="106" column="31" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/Hint.java" timestamp="1491261828005">
@@ -124,8 +124,12 @@
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/HashTableDrawingUtility.java" timestamp="1491198670501">
         <mark key="'" line="27" column="16" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" timestamp="1492546907972">
-        <mark key="'" line="78" column="4" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" timestamp="1492550316486">
+        <mark key="'" line="17" column="3" />
+        <mark key="[" line="55" column="32" />
+        <mark key="]" line="56" column="24" />
+        <mark key="^" line="56" column="24" />
+        <mark key="." line="56" column="24" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/MapServer.java" timestamp="1492546419194">
         <mark key="'" line="130" column="8" />
@@ -157,13 +161,11 @@
       <file name="/fragment.java" timestamp="1492536885906">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/example/CSCourseDBHandler.java" timestamp="1492547995109">
-        <mark key="'" line="45" column="56" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/example/CSCourseDBHandler.java" timestamp="1492550773427">
+        <mark key="'" line="57" column="74" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="56" filename="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/TestSimpleOomage.java" />
-      <jump line="48" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/TestComplexOomage.java" />
       <jump line="26" column="60" filename="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/SimpleOomage.java" />
       <jump line="25" column="38" filename="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/TestSimpleOomage.java" />
       <jump line="43" column="26" filename="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/TestSimpleOomage.java" />
@@ -262,61 +264,62 @@
       <jump line="92" column="26" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" />
       <jump line="93" column="38" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" />
       <jump line="94" column="32" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" />
+      <jump line="17" column="3" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
+      <jump line="57" column="74" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/example/CSCourseDBHandler.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>&quot;img/&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>max speed</text>
+        <text>adja</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKG4xLnVsbGF0ICE9IG4yLnVsbGF0KSB7CiAgICAgICAgICAgICAgICByZXR1cm4gbjEudWxsYXQgPCBuMi51bGxhdCA/IDEgOiAtMTsKICAgICAgICAgICAgfSBlbHNlIGlmIChuMS51bGxvbiAhPSBuMi51bGxhdCl7CiAgICAgICAgICAgICAgICByZXR1cm4gbjEudWxsb24gPCBuMi51bGxvbiA/IC0xIDogMTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIHJldHVybiAwOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBZT1VSIENPREUgSEVSRQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBZT1VSIENPREUgSEVSRQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBOb2RlW10gY2hpbGRyZW47Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hpbGRyZW4gPSBuZXcgTm9kZVs0XTsKICAgICAgICAgICAgY2hpbGRyZW5bMF0gPSBOVzsKICAgICAgICAgICAgY2hpbGRyZW5bMV0gPSBORTsKICAgICAgICAgICAgY2hpbGRyZW5bMl0gPSBTVzsKICAgICAgICAgICAgY2hpbGRyZW5bM10gPSBTRTsK</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBOb2RlW10gY2hpbGRyZW47Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2hpbGRyZW4gPSBuZXcgTm9kZVs0XTsKICAgICAgICAgICAgY2hpbGRyZW5bMF0gPSBOVzsKICAgICAgICAgICAgY2hpbGRyZW5bMV0gPSBORTsKICAgICAgICAgICAgY2hpbGRyZW5bMl0gPSBTVzsKICAgICAgICAgICAgY2hpbGRyZW5bM10gPSBTRTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFF1YWRUcmVlLk5vZGU+IHNvcnRlZCA9IENvbGxlY3Rpb25zLnNvcnQocHJ1bmVkKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>max speed</last-search>
+      <last-search>adja</last-search>
       <last-offset />
-      <last-pattern>max speed</last-pattern>
+      <last-pattern>adja</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>size++</entry>
         <entry>changePrioir</entry>
         <entry>changeP</entry>
         <entry>removeMin</entry>
@@ -336,6 +339,7 @@
         <entry>!=</entry>
         <entry>maxspeed</entry>
         <entry>max speed</entry>
+        <entry>adja</entry>
       </history-search>
       <history-cmd>
         <entry>12</entry>
