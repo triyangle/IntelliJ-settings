@@ -22,6 +22,9 @@
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/EightPuzzleSolver.java" timestamp="1490329998316">
         <mark key="'" line="20" column="28" />
       </file>
+      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" timestamp="1492548853915">
+        <mark key="'" line="94" column="32" />
+      </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/TestSimpleOomage.java" timestamp="1491241491154">
         <mark key="'" line="71" column="37" />
         <mark key="[" line="65" column="0" />
@@ -159,10 +162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/TestSimpleOomage.java" />
-      <jump line="47" column="27" filename="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/TestSimpleOomage.java" />
-      <jump line="201" column="19" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/HashSet.java" />
-      <jump line="49" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/TestSimpleOomage.java" />
       <jump line="50" column="56" filename="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/TestSimpleOomage.java" />
       <jump line="48" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/TestComplexOomage.java" />
       <jump line="26" column="60" filename="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/SimpleOomage.java" />
@@ -259,13 +258,17 @@
       <jump line="14" column="19" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/example/CSCourseDBHandler.java" />
       <jump line="45" column="56" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/example/CSCourseDBHandler.java" />
       <jump line="40" column="84" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/example/CSCourseDBHandler.java" />
+      <jump line="27" column="13" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" />
+      <jump line="92" column="26" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" />
+      <jump line="93" column="38" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" />
+      <jump line="94" column="32" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>&quot;img/&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>!=</text>
+        <text>max speed</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKG4xLnVsbGF0ICE9IG4yLnVsbGF0KSB7CiAgICAgICAgICAgICAgICByZXR1cm4gbjEudWxsYXQgPCBuMi51bGxhdCA/IDEgOiAtMTsKICAgICAgICAgICAgfSBlbHNlIGlmIChuMS51bGxvbiAhPSBuMi51bGxhdCl7CiAgICAgICAgICAgICAgICByZXR1cm4gbjEudWxsb24gPCBuMi51bGxvbiA/IC0xIDogMTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIHJldHVybiAwOwogICAgICAgICAgICB9Cg==</text>
@@ -305,16 +308,14 @@
       </register>
     </registers>
     <search>
-      <last-search>!=</last-search>
+      <last-search>max speed</last-search>
       <last-offset />
-      <last-pattern>!=</last-pattern>
+      <last-pattern>max speed</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>leftin</entry>
-        <entry>size()</entry>
         <entry>size++</entry>
         <entry>changePrioir</entry>
         <entry>changeP</entry>
@@ -333,6 +334,8 @@
         <entry>print</entry>
         <entry>null</entry>
         <entry>!=</entry>
+        <entry>maxspeed</entry>
+        <entry>max speed</entry>
       </history-search>
       <history-cmd>
         <entry>12</entry>
