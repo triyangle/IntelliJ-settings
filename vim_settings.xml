@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Rasterer.java" timestamp="1492632385957">
-        <mark key="'" line="99" column="19" />
-        <mark key="[" line="98" column="82" />
-        <mark key="]" line="99" column="19" />
-        <mark key="^" line="99" column="19" />
-        <mark key="." line="99" column="19" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Rasterer.java" timestamp="1492639311668">
+        <mark key="'" line="93" column="19" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/example/CSCourseDB.java" timestamp="1492550735787">
         <mark key="'" line="106" column="31" />
@@ -42,6 +41,12 @@
         <mark key="." line="138" column="28" />
         <mark key="^" line="138" column="28" />
       </file>
+      <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/TestSimpleOomage.java" timestamp="1491241491154">
+        <mark key="'" line="71" column="37" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/test/java/AGGraphBuildingTest.java" timestamp="1492582908386">
         <mark key="'" line="31" column="35" />
         <mark key="[" line="0" column="0" />
@@ -52,12 +57,12 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/io/PrintStream.java" timestamp="1491199147019">
         <mark key="'" line="804" column="8" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Router.java" timestamp="1492625530395">
-        <mark key="'" line="65" column="0" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="^" line="44" column="67" />
-        <mark key="." line="65" column="0" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Router.java" timestamp="1492639454311">
+        <mark key="'" line="11" column="2" />
+        <mark key="[" line="18" column="95" />
+        <mark key="]" line="18" column="95" />
+        <mark key="^" line="18" column="102" />
+        <mark key="." line="18" column="95" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/Solver.java" timestamp="1490327499747">
         <mark key="'" line="35" column="8" />
@@ -149,11 +154,11 @@
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/HashTableDrawingUtility.java" timestamp="1491198670501">
         <mark key="'" line="27" column="16" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" timestamp="1492588403023">
-        <mark key="'" line="124" column="16" />
-        <mark key="[" line="167" column="0" />
-        <mark key="]" line="167" column="0" />
-        <mark key="." line="167" column="0" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" timestamp="1492639404968">
+        <mark key="'" line="107" column="84" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/MapServer.java" timestamp="1492546419194">
         <mark key="'" line="130" column="8" />
@@ -190,7 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="42" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" />
       <jump line="101" column="44" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
       <jump line="77" column="23" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" />
       <jump line="85" column="24" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" />
@@ -283,17 +287,18 @@
       <jump line="150" column="28" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/ArrayHeap.java" />
       <jump line="149" column="24" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/ArrayHeap.java" />
       <jump line="38" column="51" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Router.java" />
-      <jump line="111" column="24" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
       <jump line="104" column="19" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
       <jump line="36" column="44" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Router.java" />
       <jump line="76" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Router.java" />
       <jump line="9" column="27" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/test/java/AGMapTest.java" />
       <jump line="65" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Router.java" />
       <jump line="99" column="19" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Rasterer.java" />
+      <jump line="111" column="84" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
+      <jump line="9" column="2" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Router.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>current</text>
+        <text encoding="base64">IGFzZGYgYSA=</text>
       </register>
       <register name="/" type="4">
         <text>changePriori</text>
@@ -301,35 +306,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RhcnQpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBZb3VyIGNvZGUgaGVyZS4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7CmltcG9ydCBqYXZhLnV0aWwuSXRlcmF0b3I7CmltcG9ydCBqYXZhLnV0aWwuTWFwLkVudHJ5Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInN0YXJ0OiAiICsgc3RhcnQpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiZGVzdDogIiArIGRlc3QpOwo=</text>
+        <text encoding="base64">LyogICAgICAgIExpc3Q8UXVhZFRyZWUuTm9kZT4gc29ydGVkID0gcHJ1bmVkLnN0cmVhbSgpLnNvcnRlZCgoUXVhZFRyZWUuTm9kZSBuMSwgUXVhZFRyZWUuTm9kZSBuMikgLT4gewogICAgICAgICAgICBpZiAobjEudWxsYXQgIT0gbjIudWxsYXQpIHsKICAgICAgICAgICAgICAgIHJldHVybiBuMS51bGxhdCA8IG4yLnVsbGF0ID8gMSA6IC0xOwogICAgICAgICAgICB9IGVsc2UgaWYgKG4xLnVsbG9uICE9IG4yLnVsbGF0KXsKICAgICAgICAgICAgICAgIHJldHVybiBuMS51bGxvbiA8IG4yLnVsbG9uID8gLTEgOiAxOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgcmV0dXJuIDA7CiAgICAgICAgICAgIH0KICAgICAgICB9KS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOyovCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uQ29sbGVjdG9yczsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -379,6 +384,11 @@
         <entry>67</entry>
         <entry encoding="base64">JzwsJz5ub3JtLg==</entry>
         <entry>W</entry>
+        <entry>75</entry>
+        <entry>8</entry>
+        <entry>37</entry>
+        <entry>80</entry>
+        <entry>16</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
