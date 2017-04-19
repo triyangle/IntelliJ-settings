@@ -13,17 +13,12 @@
       <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/example/CSCourseDB.java" timestamp="1492550735787">
         <mark key="'" line="106" column="31" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/Hint.java" timestamp="1491261828005">
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="8" column="26" />
-        <mark key="^" line="8" column="26" />
-        <mark key="." line="8" column="26" />
-      </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Trie.java" timestamp="1492626595459">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="5" column="15" />
-        <mark key="^" line="5" column="15" />
-        <mark key="." line="5" column="15" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Trie.java" timestamp="1492645740954">
+        <mark key="'" line="5" column="32" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="36" column="48" />
+        <mark key="." line="36" column="48" />
+        <mark key="^" line="36" column="48" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/EightPuzzleSolver.java" timestamp="1490329998316">
         <mark key="'" line="20" column="28" />
@@ -64,12 +59,6 @@
         <mark key="]" line="55" column="57" />
         <mark key="." line="55" column="57" />
         <mark key="^" line="55" column="88" />
-      </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/HashTableVisualizer.java" timestamp="1491255369932">
-        <mark key="[" line="20" column="8" />
-        <mark key="]" line="20" column="9" />
-        <mark key="." line="20" column="9" />
-        <mark key="^" line="20" column="9" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/WorldState.java" timestamp="1490257177993">
         <mark key="'" line="11" column="15" />
@@ -148,15 +137,15 @@
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/HashTableDrawingUtility.java" timestamp="1491198670501">
         <mark key="'" line="27" column="16" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" timestamp="1492641975882">
+      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" timestamp="1492644042523">
         <mark key="'" line="82" column="15" />
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="0" />
         <mark key="." line="93" column="0" />
         <mark key="^" line="12" column="25" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/MapServer.java" timestamp="1492546419194">
-        <mark key="'" line="130" column="8" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/MapServer.java" timestamp="1492645224123">
+        <mark key="'" line="152" column="49" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/QuadTree.java" timestamp="1492642767890">
         <mark key="'" line="9" column="23" />
@@ -190,10 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="84" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" />
-      <jump line="89" column="30" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" />
-      <jump line="91" column="23" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" />
-      <jump line="92" column="34" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" />
       <jump line="94" column="39" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" />
       <jump line="95" column="34" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" />
       <jump line="100" column="58" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" />
@@ -290,13 +275,17 @@
       <jump line="286" column="18" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/ArrayHeap.java" />
       <jump line="104" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Rasterer.java" />
       <jump line="53" column="90" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Router.java" />
+      <jump line="1" column="32" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Trie.java" />
+      <jump line="11" column="20" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/MapServer.java" />
+      <jump line="26" column="13" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/MapServer.java" />
+      <jump line="152" column="49" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/MapServer.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>public</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>Node</text>
+        <text>autocomplete</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RhcnQpOwo=</text>
@@ -308,25 +297,25 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGxldmVsT3JkZXIoKSB7CgogICAgICAgIFF1ZXVlPE5vZGU+IG5vZGVRdWV1ZSA9IG5ldyBBcnJheURlcXVlPD4oKTsKICAgICAgICBub2RlUXVldWUuYWRkKHJvb3QpOwoKICAgICAgICB3aGlsZSAoIW5vZGVRdWV1ZS5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgTm9kZSBwb3BwZWQgPSBub2RlUXVldWUucmVtb3ZlKCk7CgogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocG9wcGVkLmZpbGVOYW1lKTsKCiAgICAgICAgICAgIGlmIChwb3BwZWQuZmlsZU5hbWUubGVuZ3RoKCkgPD0gNikgewogICAgICAgICAgICAgICAgbm9kZVF1ZXVlLmFkZChwb3BwZWQuTlcpOwogICAgICAgICAgICAgICAgbm9kZVF1ZXVlLmFkZChwb3BwZWQuTkUpOwogICAgICAgICAgICAgICAgbm9kZVF1ZXVlLmFkZChwb3BwZWQuU1cpOwogICAgICAgICAgICAgICAgbm9kZVF1ZXVlLmFkZChwb3BwZWQuU0UpOwogICAgICAgICAgICB9CgogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIG1heWJlIHVzZSBQcmlvcml0eVF1ZXVlIGluc3RlYWQK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaSA9PSB3b3JkLikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgUXVhZFRyZWUgdGVzdCA9IG5ldyBRdWFkVHJlZSgpOwogICAgICAgIHRlc3QubGV2ZWxPcmRlcigpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ci8qICAgICAgICBwdWJsaWMgSXRlcmFibGU8Tm9kZT4gbmVpZ2hib3JzKCkgewogICAgICAgICAgICBMaXN0PE5vZGU+IG5laWdoYm9ycyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgICAgICBuZWlnaGJvcnMuYWRkKE5XKTsKICAgICAgICAgICAgbmVpZ2hib3JzLmFkZChORSk7CiAgICAgICAgICAgIG5laWdoYm9ycy5hZGQoU1cpOwogICAgICAgICAgICBuZWlnaGJvcnMuYWRkKFNFKTsKICAgICAgICAgICAgcmV0dXJuIG5laWdoYm9yczsKICAgICAgICB9Ki8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaSsrOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -336,9 +325,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Node</last-search>
+      <last-search>autocomplete</last-search>
       <last-offset />
-      <last-pattern>Node</last-pattern>
+      <last-pattern>autocomplete</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>changePriori</last-substitute>
       <last-dir>1</last-dir>
@@ -346,8 +335,6 @@
     </search>
     <history>
       <history-search>
-        <entry>max speed</entry>
-        <entry>adja</entry>
         <entry>long</entry>
         <entry>Entry</entry>
         <entry>clean</entry>
@@ -366,6 +353,8 @@
         <entry>changePrior</entry>
         <entry>HashMap</entry>
         <entry>Node</entry>
+        <entry>getLo</entry>
+        <entry>autocomplete</entry>
       </history-search>
       <history-cmd>
         <entry>12</entry>
