@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Rasterer.java" timestamp="1492553427955">
-        <mark key="'" line="68" column="44" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Rasterer.java" timestamp="1492632385957">
+        <mark key="'" line="99" column="19" />
         <mark key="[" line="98" column="82" />
         <mark key="]" line="99" column="19" />
         <mark key="^" line="99" column="19" />
@@ -190,7 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="8" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
       <jump line="27" column="42" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" />
       <jump line="101" column="44" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
       <jump line="77" column="23" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" />
@@ -290,6 +289,7 @@
       <jump line="76" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Router.java" />
       <jump line="9" column="27" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/test/java/AGMapTest.java" />
       <jump line="65" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Router.java" />
+      <jump line="99" column="19" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Rasterer.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
