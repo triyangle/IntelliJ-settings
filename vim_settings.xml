@@ -146,15 +146,15 @@
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/HashTableDrawingUtility.java" timestamp="1491198670501">
         <mark key="'" line="27" column="16" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" timestamp="1492664685334">
-        <mark key="'" line="190" column="24" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" timestamp="1492669453688">
+        <mark key="'" line="185" column="0" />
         <mark key="[" line="182" column="29" />
         <mark key="]" line="182" column="32" />
         <mark key="." line="182" column="32" />
         <mark key="^" line="182" column="32" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/MapServer.java" timestamp="1492664459351">
-        <mark key="'" line="301" column="32" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/MapServer.java" timestamp="1492669440964">
+        <mark key="'" line="297" column="41" />
         <mark key="[" line="301" column="44" />
         <mark key="]" line="301" column="44" />
         <mark key="^" line="301" column="44" />
@@ -192,7 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="24" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/ArrayHeap.java" />
       <jump line="90" column="24" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/ArrayHeap.java" />
       <jump line="91" column="24" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/ArrayHeap.java" />
       <jump line="159" column="29" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/ArrayHeap.java" />
@@ -215,7 +214,6 @@
       <jump line="65" column="18" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
       <jump line="73" column="14" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" />
       <jump line="141" column="29" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
-      <jump line="297" column="33" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/MapServer.java" />
       <jump line="152" column="49" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/MapServer.java" />
       <jump line="91" column="8" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/MapServer.java" />
       <jump line="10" column="2" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" />
@@ -292,6 +290,8 @@
       <jump line="201" column="4" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
       <jump line="45" column="25" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" />
       <jump line="123" column="14" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" />
+      <jump line="185" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
+      <jump line="297" column="41" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/MapServer.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
