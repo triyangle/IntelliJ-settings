@@ -13,12 +13,11 @@
       <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/example/CSCourseDB.java" timestamp="1492550735787">
         <mark key="'" line="106" column="31" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Trie.java" timestamp="1492647805901">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="38" column="39" />
-        <mark key="]" line="38" column="39" />
-        <mark key="." line="38" column="421" />
-        <mark key="^" line="38" column="29" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Trie.java" timestamp="1492648168100">
+        <mark key="[" line="56" column="29" />
+        <mark key="]" line="57" column="42" />
+        <mark key="." line="57" column="42" />
+        <mark key="^" line="57" column="42" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw3/hw3/puzzle/EightPuzzleSolver.java" timestamp="1490329998316">
         <mark key="'" line="20" column="28" />
@@ -151,7 +150,7 @@
         <mark key="." line="281" column="33" />
         <mark key="^" line="281" column="33" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/QuadTree.java" timestamp="1492642767890">
+      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/QuadTree.java" timestamp="1492648106438">
         <mark key="'" line="9" column="23" />
         <mark key="[" line="90" column="4" />
         <mark key="]" line="90" column="10" />
@@ -183,7 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="13" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/ArrayHeap.java" />
       <jump line="178" column="16" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/ArrayHeap.java" />
       <jump line="19" column="48" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Router.java" />
       <jump line="24" column="21" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
@@ -283,10 +281,11 @@
       <jump line="169" column="25" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
       <jump line="56" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Trie.java" />
       <jump line="60" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Trie.java" />
+      <jump line="57" column="27" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Trie.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">Y3VycmVudENIYXIg</text>
+        <text>word</text>
       </register>
       <register name="/" type="4">
         <text>g</text>
@@ -295,7 +294,7 @@
         <text encoding="base64">Y3VycmVudC5jaGlsZHJlbi5jb250YWluc0tleShjdXJyZW50Q2hhcikgfHwgaSA8IHdvcmQubGVuZ3RoKCk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -304,25 +303,25 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgaSA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIDp3CiAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaSA8IGFkZFdvcmQoKTspCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
