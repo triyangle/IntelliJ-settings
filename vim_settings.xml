@@ -29,11 +29,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" timestamp="1492662576296">
-        <mark key="'" line="74" column="14" />
-        <mark key="[" line="123" column="22" />
-        <mark key="]" line="123" column="29" />
-        <mark key="." line="123" column="29" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" timestamp="1492664561823">
+        <mark key="'" line="123" column="14" />
+        <mark key="[" line="123" column="33" />
+        <mark key="]" line="123" column="33" />
+        <mark key="." line="123" column="33" />
         <mark key="^" line="123" column="29" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/test/java/AGGraphBuildingTest.java" timestamp="1492582908386">
@@ -146,15 +146,15 @@
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/HashTableDrawingUtility.java" timestamp="1491198670501">
         <mark key="'" line="27" column="16" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" timestamp="1492662587135">
-        <mark key="'" line="161" column="26" />
-        <mark key="[" line="38" column="13" />
-        <mark key="]" line="38" column="16" />
-        <mark key="." line="38" column="16" />
-        <mark key="^" line="38" column="16" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" timestamp="1492664685334">
+        <mark key="'" line="190" column="24" />
+        <mark key="[" line="182" column="29" />
+        <mark key="]" line="182" column="32" />
+        <mark key="." line="182" column="32" />
+        <mark key="^" line="182" column="32" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/MapServer.java" timestamp="1492661917563">
-        <mark key="'" line="302" column="36" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/MapServer.java" timestamp="1492664459351">
+        <mark key="'" line="301" column="32" />
         <mark key="[" line="301" column="44" />
         <mark key="]" line="301" column="44" />
         <mark key="^" line="301" column="44" />
@@ -192,11 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="17" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/ArrayHeap.java" />
-      <jump line="15" column="18" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/ArrayHeap.java" />
-      <jump line="19" column="33" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/ArrayHeap.java" />
-      <jump line="55" column="20" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/ArrayHeap.java" />
-      <jump line="78" column="24" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/ArrayHeap.java" />
       <jump line="79" column="24" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/ArrayHeap.java" />
       <jump line="90" column="24" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/ArrayHeap.java" />
       <jump line="91" column="24" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/ArrayHeap.java" />
@@ -263,14 +258,11 @@
       <jump line="142" column="19" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
       <jump line="85" column="37" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
       <jump line="84" column="14" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
-      <jump line="183" column="18" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
       <jump line="176" column="16" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
       <jump line="178" column="18" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
       <jump line="48" column="16" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Trie.java" />
       <jump line="299" column="31" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/MapServer.java" />
       <jump line="280" column="31" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/MapServer.java" />
-      <jump line="190" column="15" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
-      <jump line="301" column="32" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/MapServer.java" />
       <jump line="122" column="22" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" />
       <jump line="67" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" />
       <jump line="44" column="27" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" />
@@ -285,23 +277,31 @@
       <jump line="88" column="17" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
       <jump line="71" column="8" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
       <jump line="100" column="49" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
-      <jump line="29" column="42" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
       <jump line="75" column="14" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" />
       <jump line="154" column="16" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
-      <jump line="123" column="14" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" />
       <jump line="74" column="14" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" />
       <jump line="161" column="26" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
       <jump line="38" column="12" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
+      <jump line="182" column="16" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
+      <jump line="301" column="32" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/MapServer.java" />
+      <jump line="196" column="16" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
+      <jump line="29" column="42" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
+      <jump line="183" column="24" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
+      <jump line="187" column="37" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
+      <jump line="190" column="24" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
+      <jump line="201" column="4" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
+      <jump line="45" column="25" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" />
+      <jump line="123" column="14" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>double</text>
+        <text>long v</text>
       </register>
       <register name="/" type="4">
-        <text>clean()</text>
+        <text>v</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFwLnB1dCgibGF0IiwgZ3JhcGguZ2V0KGxvY2F0aW9uTmFtZSkuZ2V0TGF0KCkpOwo=</text>
+      <register name="0" type="4">
+        <text>currentNode</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -338,9 +338,9 @@
       </register>
     </registers>
     <search>
-      <last-search>clean()</last-search>
+      <last-search>v</last-search>
       <last-offset />
-      <last-pattern>clean()</last-pattern>
+      <last-pattern>v</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>changePriori</last-substitute>
       <last-dir>1</last-dir>
@@ -348,7 +348,6 @@
     </search>
     <history>
       <history-search>
-        <entry>distance</entry>
         <entry>changePrio</entry>
         <entry>contains</entry>
         <entry>changePriori</entry>
@@ -368,6 +367,7 @@
         <entry>addName</entry>
         <entry>clean</entry>
         <entry>clean()</entry>
+        <entry>v</entry>
       </history-search>
       <history-cmd>
         <entry>12</entry>
