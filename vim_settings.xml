@@ -13,8 +13,8 @@
       <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/example/CSCourseDB.java" timestamp="1492550735787">
         <mark key="'" line="106" column="31" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Trie.java" timestamp="1492658832873">
-        <mark key="'" line="48" column="16" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Trie.java" timestamp="1492737983375">
+        <mark key="'" line="77" column="20" />
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="0" />
         <mark key="." line="93" column="0" />
@@ -191,7 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Trie.java" />
       <jump line="60" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Trie.java" />
       <jump line="57" column="27" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Trie.java" />
       <jump line="45" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Trie.java" />
@@ -291,6 +290,7 @@
       <jump line="111" column="33" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" />
       <jump line="122" column="14" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" />
       <jump line="299" column="50" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/MapServer.java" />
+      <jump line="77" column="20" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Trie.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
