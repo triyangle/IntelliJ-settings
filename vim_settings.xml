@@ -119,12 +119,11 @@
         <mark key="." line="79" column="24" />
         <mark key="^" line="79" column="24" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" timestamp="1493159228151">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="1" column="0" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" timestamp="1493180182431">
+        <mark key="'" line="62" column="20" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/TestJankyOomage.java" timestamp="1491256140349">
         <mark key="'" line="42" column="37" />
@@ -173,6 +172,9 @@
         <mark key="^" line="202" column="30" />
         <mark key="." line="202" column="30" />
       </file>
+      <file name="$USER_HOME$/school/CS/61B/CS61B/hw5/PrintEnergy.java" timestamp="1493178832334">
+        <mark key="'" line="1" column="29" />
+      </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/MapServer.java" timestamp="1492673560079">
         <mark key="'" line="299" column="50" />
         <mark key="[" line="311" column="0" />
@@ -215,15 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="19" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Trie.java" />
-      <jump line="93" column="19" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Trie.java" />
-      <jump line="92" column="21" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Trie.java" />
-      <jump line="163" column="16" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
-      <jump line="171" column="15" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
-      <jump line="104" column="34" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
-      <jump line="15" column="3" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
-      <jump line="16" column="13" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
-      <jump line="23" column="13" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
       <jump line="49" column="11" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
       <jump line="54" column="43" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
       <jump line="146" column="22" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
@@ -315,55 +308,64 @@
       <jump line="13" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
       <jump line="38" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
       <jump line="88" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/PrintSeams.java" />
+      <jump line="42" column="20" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
+      <jump line="50" column="22" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
+      <jump line="64" column="24" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
+      <jump line="18" column="20" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/PrintEnergy.java" />
+      <jump line="22" column="32" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/PrintEnergy.java" />
+      <jump line="26" column="43" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/PrintEnergy.java" />
+      <jump line="1" column="29" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/PrintEnergy.java" />
+      <jump line="34" column="20" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
+      <jump line="100" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAvLyByZW1vdmUgdmVydGljYWwgc2VhbSBmcm9tIHBpY3R1cmU=</text>
+        <text>double</text>
       </register>
       <register name="/" type="4">
-        <text>name</text>
+        <text>changePriori</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY291bnRzID0gbmV3IGludFstbWluICsgbWF4ICsgMV07Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZG91YmxlIHhHcmFkaWVudChpbnQgeCwgaW50IHkpIHsKICAgICAgICByZXR1cm4gc3F1YXJlQWxsKHJYKHgsIHkpLCBnWCh4LCB5KSwgYlgoeCwgeSkpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">a08K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBkb3VibGUgZW5lcmd5KGludCB4LCBpbnQgeSkgICAgICAgICAgICAvLyBlbmVyZ3kgb2YgcGl4ZWwgYXQgY29sdW1uIHggYW5kIHJvdyB5Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4geEdyYWRpZW50KHgsIHkpICsgeUdyYWRpZW50KHgsIHkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>name</last-search>
+      <last-search>changePriori</last-search>
       <last-offset />
-      <last-pattern>name</last-pattern>
+      <last-pattern>changePriori</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>changePriori</last-substitute>
       <last-dir>1</last-dir>
@@ -371,9 +373,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get</entry>
-        <entry>changePrior</entry>
-        <entry>HashMap</entry>
         <entry>getLo</entry>
         <entry>autocomplete</entry>
         <entry>getLocations</entry>
@@ -391,9 +390,11 @@
         <entry>getId</entry>
         <entry>graph</entry>
         <entry>name</entry>
+        <entry>remove</entry>
+        <entry>energy</entry>
+        <entry>changePriori</entry>
       </history-search>
       <history-cmd>
-        <entry>12</entry>
         <entry>31</entry>
         <entry>136</entry>
         <entry>157</entry>
@@ -412,6 +413,7 @@
         <entry>34</entry>
         <entry>32</entry>
         <entry>75</entry>
+        <entry>s</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
