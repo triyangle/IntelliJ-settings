@@ -112,7 +112,11 @@
         <mark key="." line="26" column="21" />
         <mark key="^" line="26" column="21" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/hw5/SanityCheckTest.java" timestamp="1493193361582">
+      <file name="/Dummy.txt" timestamp="1493198851742">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/school/CS/61B/CS61B/hw5/SanityCheckTest.java" timestamp="1493197044352">
+        <mark key="'" line="50" column="0" />
         <mark key="[" line="43" column="41" />
         <mark key="]" line="44" column="49" />
         <mark key="." line="44" column="49" />
@@ -125,12 +129,12 @@
         <mark key="." line="79" column="24" />
         <mark key="^" line="79" column="24" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" timestamp="1493193432177">
-        <mark key="'" line="130" column="37" />
-        <mark key="[" line="102" column="60" />
-        <mark key="]" line="104" column="16" />
-        <mark key="." line="104" column="16" />
-        <mark key="^" line="104" column="16" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" timestamp="1493199775314">
+        <mark key="'" line="96" column="8" />
+        <mark key="[" line="187" column="8" />
+        <mark key="]" line="187" column="9" />
+        <mark key="." line="187" column="9" />
+        <mark key="^" line="187" column="9" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/TestJankyOomage.java" timestamp="1491256140349">
         <mark key="'" line="42" column="37" />
@@ -199,6 +203,7 @@
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw5/PrintSeams.java" timestamp="1493174831969">
         <mark key="'" line="88" column="0" />
       </file>
+      <file name="$USER_HOME$/school/CS/61B/CS61B/hw5/ShowSeams.java" timestamp="1493199013242" />
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/TestComplexOomage.java" timestamp="1491359904172">
         <mark key="'" line="61" column="0" />
         <mark key="[" line="41" column="17" />
@@ -216,7 +221,7 @@
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/ComplexOomage.java" timestamp="1491262382960">
         <mark key="'" line="36" column="12" />
       </file>
-      <file name="/fragment.java" timestamp="1492661055050">
+      <file name="/fragment.java" timestamp="1493198989245">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/example/CSCourseDBHandler.java" timestamp="1492550773427">
@@ -224,32 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="14" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" />
-      <jump line="27" column="34" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
-      <jump line="194" column="15" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
-      <jump line="302" column="36" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/MapServer.java" />
-      <jump line="80" column="27" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/MapServer.java" />
-      <jump line="97" column="20" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
-      <jump line="177" column="15" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
-      <jump line="88" column="17" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
-      <jump line="71" column="8" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
-      <jump line="100" column="49" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
-      <jump line="75" column="14" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" />
-      <jump line="154" column="16" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
-      <jump line="74" column="14" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" />
-      <jump line="161" column="26" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
-      <jump line="183" column="24" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
-      <jump line="187" column="37" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
-      <jump line="190" column="24" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
-      <jump line="201" column="4" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
-      <jump line="185" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
-      <jump line="297" column="41" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/MapServer.java" />
-      <jump line="191" column="12" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
-      <jump line="29" column="42" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
-      <jump line="30" column="22" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/MapServer.java" />
-      <jump line="199" column="11" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
-      <jump line="38" column="8" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
       <jump line="160" column="16" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
       <jump line="45" column="12" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
       <jump line="301" column="43" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/MapServer.java" />
@@ -300,11 +279,9 @@
       <jump line="99" column="33" filename="$USER_HOME$/school/CS/61B/CS61B/lab13/CountingSort.java" />
       <jump line="21" column="7" filename="$USER_HOME$/school/CS/61B/CS61B/lab13/RadixSort.java" />
       <jump line="2" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/lab13/RadixSort.java" />
-      <jump line="13" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
       <jump line="38" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
       <jump line="88" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/PrintSeams.java" />
       <jump line="42" column="20" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
-      <jump line="50" column="22" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
       <jump line="18" column="20" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/PrintEnergy.java" />
       <jump line="22" column="32" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/PrintEnergy.java" />
       <jump line="26" column="43" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/PrintEnergy.java" />
@@ -318,61 +295,89 @@
       <jump line="120" column="51" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
       <jump line="4" column="28" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
       <jump line="117" column="90" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
-      <jump line="29" column="18" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
       <jump line="135" column="14" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
-      <jump line="160" column="16" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
       <jump line="165" column="32" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
       <jump line="21" column="15" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
       <jump line="128" column="37" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
+      <jump line="50" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SanityCheckTest.java" />
+      <jump line="145" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
+      <jump line="2" column="23" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
+      <jump line="86" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
+      <jump line="102" column="33" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
+      <jump line="106" column="41" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
+      <jump line="186" column="41" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
+      <jump line="191" column="39" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
+      <jump line="1" column="30" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
+      <jump line="160" column="27" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
+      <jump line="53" column="19" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
+      <jump line="179" column="29" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
+      <jump line="178" column="23" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
+      <jump line="177" column="26" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
+      <jump line="171" column="19" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
+      <jump line="137" column="40" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
+      <jump line="134" column="54" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
+      <jump line="130" column="79" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
+      <jump line="126" column="44" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
+      <jump line="29" column="18" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
+      <jump line="119" column="31" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
+      <jump line="11" column="20" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
+      <jump line="13" column="30" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
+      <jump line="14" column="23" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
+      <jump line="17" column="11" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
+      <jump line="50" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
+      <jump line="187" column="7" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
+      <jump line="30" column="8" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
+      <jump line="96" column="8" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>prevRow</text>
+        <text>IllegalAccessException</text>
       </register>
       <register name="/" type="4">
-        <text>changePriori</text>
+        <text>checkInd</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG91YmxlIHRvcFJpZ2h0ID0gZW5lcmdpZXNbcHJldkNvbF1bcm93XTsK</text>
+        <text encoding="base64">ICAgICAgICBjaGVja1NlYW0oc2VhbSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBlcnJvciBjaGVja2luZwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBQaWN0dXJlIHRyYW5zcG9zZWQgPSBwaWN0dXJlLmdldAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>changePriori</last-search>
+      <last-search>checkInd</last-search>
       <last-offset />
-      <last-pattern>changePriori</last-pattern>
+      <last-pattern>checkInd</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>changePriori</last-substitute>
       <last-dir>1</last-dir>
@@ -380,10 +385,6 @@
     </search>
     <history>
       <history-search>
-        <entry>autocomplete</entry>
-        <entry>getLocations</entry>
-        <entry>g</entry>
-        <entry>cealn</entry>
         <entry>cleanStr</entry>
         <entry>print</entry>
         <entry>Graph</entry>
@@ -397,18 +398,15 @@
         <entry>graph</entry>
         <entry>name</entry>
         <entry>remove</entry>
-        <entry>energy</entry>
         <entry>findVer</entry>
         <entry>changePriori</entry>
+        <entry>validate</entry>
+        <entry>xGradient</entry>
+        <entry>energy</entry>
+        <entry>picture</entry>
+        <entry>checkInd</entry>
       </history-search>
       <history-cmd>
-        <entry>31</entry>
-        <entry>136</entry>
-        <entry>157</entry>
-        <entry>195</entry>
-        <entry>184</entry>
-        <entry>212</entry>
-        <entry>-15co.</entry>
         <entry>67</entry>
         <entry encoding="base64">JzwsJz5ub3JtLg==</entry>
         <entry>8</entry>
@@ -421,6 +419,13 @@
         <entry>75</entry>
         <entry>s</entry>
         <entry>W</entry>
+        <entry>76</entry>
+        <entry>147</entry>
+        <entry>126</entry>
+        <entry>148</entry>
+        <entry>160</entry>
+        <entry>51</entry>
+        <entry>57</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
