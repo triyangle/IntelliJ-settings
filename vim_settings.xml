@@ -187,6 +187,9 @@
         <mark key="^" line="90" column="10" />
         <mark key="." line="90" column="10" />
       </file>
+      <file name="$USER_HOME$/school/CS/61B/CS61B/hw5/PrintSeams.java" timestamp="1493174831969">
+        <mark key="'" line="88" column="0" />
+      </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/TestComplexOomage.java" timestamp="1491359904172">
         <mark key="'" line="61" column="0" />
         <mark key="[" line="41" column="17" />
@@ -212,7 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="24" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Trie.java" />
       <jump line="84" column="19" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Trie.java" />
       <jump line="93" column="19" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Trie.java" />
       <jump line="92" column="21" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Trie.java" />
@@ -312,6 +314,7 @@
       <jump line="2" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/lab13/RadixSort.java" />
       <jump line="13" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
       <jump line="38" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
+      <jump line="88" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/PrintSeams.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
