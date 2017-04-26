@@ -124,12 +124,11 @@
         <mark key="." line="79" column="24" />
         <mark key="^" line="79" column="24" />
       </file>
-      <file name="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" timestamp="1493187455693">
-        <mark key="'" line="117" column="90" />
-        <mark key="[" line="131" column="25" />
-        <mark key="]" line="122" column="12" />
-        <mark key="." line="122" column="12" />
-        <mark key="^" line="122" column="12" />
+      <file name="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" timestamp="1493189642281">
+        <mark key="'" line="128" column="37" />
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="." line="170" column="0" />
       </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/hw4/hw4/hash/TestJankyOomage.java" timestamp="1491256140349">
         <mark key="'" line="42" column="37" />
@@ -223,9 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="18" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphDB.java" />
-      <jump line="48" column="16" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/Trie.java" />
-      <jump line="280" column="31" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/MapServer.java" />
       <jump line="67" column="0" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" />
       <jump line="44" column="27" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" />
       <jump line="121" column="14" filename="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/GraphBuildingHandler.java" />
@@ -323,46 +319,49 @@
       <jump line="4" column="28" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
       <jump line="117" column="90" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
       <jump line="29" column="18" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
+      <jump line="135" column="14" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
+      <jump line="128" column="37" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
+      <jump line="160" column="16" filename="$USER_HOME$/school/CS/61B/CS61B/hw5/SeamCarver.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>prevRow</text>
+        <text>minIndex</text>
       </register>
       <register name="/" type="4">
         <text>changePriori</text>
       </register>
-      <register name="0" type="4">
-        <text>Math.abs(picture.get().getGreen() - picture.get(x2, y2).getGreen());</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZG91YmxlIHRvcFJpZ2h0ID0gZW5lcmdpZXNbcHJldkNvbF1bcm93XTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG91YmxlIHByZXYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihjb2wpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQXJyYXlzLnRvKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4K</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnBpbnRsbgo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQXJyYXlzLnRvU3RyaW5nKHNlYW0pKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1pbiA9IGN1cnJlbnRFbmVyZ3k7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
