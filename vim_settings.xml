@@ -13,6 +13,11 @@
       <file name="$USER_HOME$/school/CS/61B/CS61B/proj3/src/main/java/example/CSCourseDB.java" timestamp="1492550735787">
         <mark key="'" line="106" column="31" />
       </file>
+      <file name="$USER_HOME$/CS/CodeChef/src/snackdown2017/qualifier/SameSnake/SameSnake.java" timestamp="1495401823753">
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
+      </file>
       <file name="$USER_HOME$/school/CS/61B/CS61B/lab13/CountingSort.java" timestamp="1492809413036">
         <mark key="'" line="99" column="33" />
         <mark key="[" line="75" column="23" />
@@ -346,7 +351,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>bIndex</text>
+        <text>y12</text>
       </register>
       <register name="/" type="4">
         <text>checkInd</text>
@@ -355,34 +360,34 @@
         <text encoding="base64">ICAgICAgICAgICAgaW50IGFJbmRleCA9IGluZGV4KGEpOwogICAgICAgICAgICBpbnQgYkluZGV4ID0gaW5kZXgoYik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBwdWJsaWMgYm9vbGVhbiBpc0Nvbm5lY3RlZChpbnQgaW5kZXhBLCBpbmRleEIpIHsKICAgICAgICAgICAgcmV0dXJuIAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGlzam9pbnRTZXRzIGRpc2pvaW50U2V0cyA9IG5ldyBEaXNqb2ludFNldHMoKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBwdWJsaWMgYm9vbGVhbiBpc0Nvbm5lY3RlZChpbnQgaW5kZXhBLCBpbmRleEIpIHsKICAgICAgICAgICAgcmV0dXJuIAogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcyhsZW5ndGggKiB3aWR0aCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
